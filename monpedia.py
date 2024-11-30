@@ -1,10 +1,16 @@
 
 import ast
-import pprint
 import re
 import tkinter as tk
 from tkinter import ttk
 MON_CNT = 2998
+armor_file_path = "Armors.txt"
+enemy_file_path = "Enemies.txt"
+enemies_rv_path = "Enemies.rvdata2"
+item_file_path = "Items.txt"
+weapon_file_path = "Weapons.txt"
+#slayer_file_path = "Scripts\\ベース\\145 - Module.rb"
+lib_enemy_path = "Scripts\\201 - Library(Enemy).rb"
 
 class entry():
     def __init__(self, eid):
@@ -299,10 +305,10 @@ def parse_slayers(path):
                 return sdict
 
 #pprint.pp(mdict)
-idict = parse_item_file("Items.txt", "Item")
-wdict = parse_item_file("Weapons.txt", "Weapon")
-adict = parse_item_file("Armors.txt", "Armor")
-#sdict = parse_slayers("Scripts\\ベース\\145 - Module.rb")
+idict = parse_item_file(item_file_path, "Item")
+wdict = parse_item_file(weapon_file_path, "Weapon")
+adict = parse_item_file(armor_file_path, "Armor")
+#sdict = parse_slayers(slayer_file_path)
 sdict = {
     10: "Boss",
     11: "Human",
@@ -339,15 +345,10 @@ sdict = {
 }
 
 
-lib_enemy_path = "Scripts\\201 - Library(Enemy).rb"
-enemy_path = "Enemies.txt"
-mdict = parse_enemies(enemy_path)
+mdict = parse_enemies(enemy_file_path)
 parse_lib_enemy(lib_enemy_path, mdict)
-dlist = parse_drops_file("Enemies.rvdata2", mdict)
+dlist = parse_drops_file(enemies_rv_path, mdict)
 
-
-## Print the loaded data
-#pprint.pp(lib_enemy_data)
 
 '''
 recruitable in 195
