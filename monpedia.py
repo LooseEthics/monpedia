@@ -484,7 +484,10 @@ class EntryViewer:
         found_ids = []
         results = "Found entries:\n"
         for eid, entry in self.entries.items():
-            if any(search_str in s.lower() for s in entry.steal) or any(search_str in s.lower() for s in entry.steal_m) or any(search_str in s.lower() for s in entry.steal_f):
+            if any(search_str in s.lower() for s in entry.steal) or \
+                any(search_str in s.lower() for s in entry.steal_m) or \
+                any(search_str in s.lower() for s in entry.steal_f) or\
+                any(search_str in s.lower() for s in entry.drops):
                 found_ids.append(eid)
                 results += f"{eid}: {entry.name}\n"
         self.show_text(f"{results}")
