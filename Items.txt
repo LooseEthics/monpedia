@@ -10,7 +10,7 @@ Note = ""
 
 Item 3
 Name = "Ultimate Herb"
-Description = "[Item] Target:Ally Effect:5000 HP Recovery\r\nMedicinal herb that recovers 5000 HP."
+Description = "[Item] Target:Ally Effect:5,000 HP Recovery\r\nMedicinal herb that recovers 5,000 HP."
 Note = ""
 
 Item 4
@@ -205,7 +205,7 @@ Note = "<職業経験値上昇 400>"
 
 Item 42
 Name = "Seed of Genius"
-Description = "[Item] Target:Ally Effect:Job EXP Up\r\nRare seed that increases Job EXP by 1800 when eaten."
+Description = "[Item] Target:Ally Effect:Job EXP Up\r\nRare seed that increases Job EXP by 1,800 when eaten."
 Note = "<職業経験値上昇 1800>"
 
 Item 43
@@ -234,7 +234,7 @@ Description = "[Item] Target:Ally Effect:Race Exp Up\r\nRare seed that increases
 Note = "<種族経験値上昇 7000>"
 
 Item 48
-Name = "デバッグ用"
+Name = "For debugging"
 Description = ""
 Note = ""
 
@@ -1075,7 +1075,7 @@ Note = ""
 
 Item 216
 Name = "Strange Leaf"
-Description = "[Material] Material dropped by Plant monsters"
+Description = "[Material] Material dropped by Plant monsters."
 Note = ""
 
 Item 217
@@ -1309,8 +1309,8 @@ Description = "[Material] Material dropped by Plant monsters."
 Note = ""
 
 Item 263
-Name = "神物の破片"
-Description = "[Material]神物の魔物が落とす素材アイテム"
+Name = "Divine Construct Fragment"
+Description = "[Material] Material dropped by divine constructs."
 Note = ""
 
 Item 264
@@ -2249,53 +2249,53 @@ Description = "[Other] Chi Pa Pa! Chi Pa Pa!"
 Note = "<特殊売却:ちぃぱっぱはいらないよ……>"
 
 Item 451
-Name = "リュウグウノツカイ"
-Description = "【食物】滅多に捕れない深海魚で、非常に美しい"
+Name = "Oarfish"
+Description = "[Food] Rarely-caught deep-sea fish that is very beautiful."
 Note = ""
 
 Item 452
-Name = "ラブカ"
-Description = "【食物】深海に生息する非常に原始的な稀少サメ"
+Name = "Frilled Shark"
+Description = "[Food] Very rare and primitive shark that lives in the deep seas."
 Note = ""
 
 Item 453
-Name = "シーラカンス"
-Description = "【食物】生きた化石と名高い非常に稀少な深海魚"
+Name = "Coelacanth"
+Description = "[Food] Extremely rare deep-sea fish known as a living fossil."
 Note = ""
 
 Item 454
-Name = "古代寿司"
-Description = "【食物】レシピが失われた幻のお寿司"
+Name = "Ancient Sushi"
+Description = "[Food] Mythical sushi whose recipe has been lost."
 Note = ""
 
 Item 455
-Name = "アルティメットサラダ"
-Description = "【食物】極上の野菜と果物を用いた究極のサラダ"
+Name = "Ultimate Salad"
+Description = "[Food] The ultimate salad made with the finest fruits and vegetables."
 Note = ""
 
 Item 456
-Name = "究極の牛丼"
-Description = "【食物】肉好きも唸る究極至高の牛丼"
+Name = "Ultimate Beef Bowl"
+Description = "[Food] The ultimate supreme beef bowl that even meat lovers will rave about"
 Note = ""
 
 Item 457
-Name = "妖精のパフェ"
-Description = "【食物】妖精が作ったという究極にして至高のパフェ"
+Name = "Fairy Parfait"
+Description = "[Food] Ultimate and supreme parfait said to be made by fairies."
 Note = ""
 
 Item 458
-Name = "超絶美酒・夢天"
-Description = "【食物】伝説の美酒として知られる究極のヤマタイ酒"
+Name = "Supreme Sake: Dream Heaven"
+Description = "[Food] The ultimate Yamatai sake, known to be the finest brew in legends. "
 Note = ""
 
 Item 459
-Name = "カオスシチュー"
-Description = "【食物】魂なき者にも活力を与えるという混沌のシチュー"
+Name = "Chaos Stew"
+Description = "[Food] Stew of chaos that can give energy to even the soulless."
 Note = ""
 
 Item 460
-Name = "しあわせミルク"
-Description = "【食物】幸せな家畜から搾れる、飲んだ者も幸せにするミルク"
+Name = "Happy Milk"
+Description = "[Food] Milk from happy livestock that makes those who drink it happy too"
 Note = ""
 
 Item 461
@@ -2834,138 +2834,138 @@ Description = "[Key Item] Key for entering the Elf Princess's room."
 Note = ""
 
 Item 568
-Name = "ワープストーンNHA"
-Description = "【貴重品】転送の魔力と座標データが込められた宝玉"
+Name = "Warp Stone NHA"
+Description = "[Key Item] Jewel containing teleportation magic and coordinate data."
 Note = ""
 
 Item 569
-Name = "ワープストーンASH"
-Description = "【貴重品】転送の魔力と座標データが込められた宝玉"
+Name = "Warp Stone ASH"
+Description = "[Key Item] Jewel containing teleportation magic and coordinate data."
 Note = ""
 
 Item 570
-Name = "ワープストーンOFB"
-Description = "【貴重品】転送の魔力と座標データが込められた宝玉"
+Name = "Warp Stone OFB"
+Description = "[Key Item] Jewel containing teleportation magic and coordinate data."
 Note = ""
 
 Item 571
-Name = "ワープストーンVRL"
-Description = "【貴重品】転送の魔力と座標データが込められた宝玉"
+Name = "Warp Stone VRL"
+Description = "[Key Item] Jewel containing teleportation magic and coordinate data."
 Note = ""
 
 Item 572
-Name = "ワープストーンNAX"
-Description = "【貴重品】転送の魔力と座標データが込められた宝玉"
+Name = "Warp Stone NAX"
+Description = "[Key Item] Jewel containing teleportation magic and coordinate data."
 Note = ""
 
 Item 573
-Name = "ワープストーンSSS"
-Description = "【貴重品】転送の魔力と座標データが込められた宝玉"
+Name = "Warp Stone SSS"
+Description = "[Key Item] Jewel containing teleportation magic and coordinate data."
 Note = ""
 
 Item 574
-Name = "乗車定期券A"
-Description = "【貴重品】魔列車に乗るための定期券"
+Name = "Train Pass A"
+Description = "[Key Item] Commuter pass used to board the Monster Train."
 Note = ""
 
 Item 575
-Name = "イリアスクロイツの紹介状"
-Description = "【貴重品】イリアスクロイツの工作員が書いたもの"
+Name = "Ilias Kreuz's Referral"
+Description = "[Key Item] Handwritten by an agent of Ilias Kreuz."
 Note = ""
 
 Item 576
-Name = "アミラの紹介状"
-Description = "【貴重品】アミラのラブソングのようなものが記されている"
+Name = "Amira's Referral"
+Description = "[Key Item] It's written like it were Amira's love song."
 Note = ""
 
 Item 577
-Name = "乗車定期券B"
-Description = "【貴重品】魔列車に乗るための定期券"
+Name = "Train Pass B"
+Description = "[Key Item] Commuter pass used to board the Monster Train."
 Note = ""
 
 Item 578
-Name = "ミトラの鍵"
-Description = "【貴重品】ミトラ封印城の扉を開ける鍵"
+Name = "Key to Mithra"
+Description = "[Key Item] Key that opens the door to Mithra Sealed Castle."
 Note = ""
 
 Item 579
-Name = "特別汽船許可書"
-Description = "【貴重品】エスタの汽船に乗るための許可書"
+Name = "Special Steamship Permit"
+Description = "[Key Item] Permit for boarding the steamship at Esta."
 Note = ""
 
 Item 580
-Name = "重要区画の鍵"
-Description = "【貴重品】ラダイト村重要区画の扉を開ける鍵"
+Name = "Important Sector Key"
+Description = "[Key Item] Key that opens the door to an important sector in Luddite Village."
 Note = ""
 
 Item 581
-Name = "エヴァのガラクタ"
-Description = "【貴重品】ポイントカードや券が詰まっている"
+Name = "Eva's Junk"
+Description = "[Key Item] Packed full of point cards and tickets."
 Note = ""
 
 Item 582
-Name = "ゴルド植物園のチケット"
-Description = "【貴重品】植物園から送られた特別招待チケット"
+Name = "Gold Botanical Garden Ticket"
+Description = "[Key Item] Special invite ticket sent from the Botanical Garden."
 Note = ""
 
 Item 583
-Name = "セレブの招待状"
-Description = "【貴重品】セレブの証、サン・イリア晩餐会の招待状"
+Name = "Celebrity Invitation"
+Description = "[Key Item] Proof that you're a celebrity; an invitation to the San Ilia banquet."
 Note = ""
 
 Item 584
-Name = "封牢の鍵"
-Description = "【貴重品】罪人の封牢を開けるための鍵"
+Name = "Sealed Prison Key"
+Description = "[Key Item] Key that opens the Sealed Sinner's Prison"
 Note = ""
 
 Item 585
-Name = "慈愛の薔薇"
-Description = "【貴重品】天界でも非常に珍しい薔薇の花"
+Name = "Rose of Affection"
+Description = "[Key Item] A very rare rose even in the Angelic Dominion."
 Note = ""
 
 Item 586
-Name = "水精の珊瑚"
-Description = "【貴重品】水精の泉で採取できる非常に美しい珊瑚"
+Name = "Crystal Coral"
+Description = "[Key Item] Very beautiful coral found in the Crystal Spring."
 Note = ""
 
 Item 587
-Name = "妖精のケーキ"
-Description = "【貴重品】天界で最も美味と言われるケーキ"
+Name = "Fairy Cake"
+Description = "[Key Item] The most delicious cake in the Angelic Dominion."
 Note = ""
 
 Item 588
-Name = "影の鍵"
-Description = "【貴重品】黒の屋敷で手に入れた鍵"
+Name = "Kage Key"
+Description = "[Key Item] Key obtained from the Black Mansion."
 Note = ""
 
 Item 589
-Name = "紬ぐ鍵"
-Description = "【貴重品】黒の屋敷で手に入れた鍵"
+Name = "Tsumugi Key"
+Description = "[Key Item] Key obtained from the Black Mansion."
 Note = ""
 
 Item 590
-Name = "魔界で最もエッチな本"
-Description = "【貴重品】魔界で最もエッチな本だ……"
+Name = "Lewdest Book in the Monster Realm"
+Description = "[Key Item] It's the lewdest book in the Monster Realm..."
 Note = ""
 
 Item 591
-Name = "試作型荷電粒子砲"
-Description = "【貴重品】試作型の最先端マキナで、まだ実用は不可能"
+Name = "Prototype Charged Particle Cannon"
+Description = "[Key Item] Cutting-edge prototype makina that isn't ready for practical use yet."
 Note = ""
 
 Item 592
-Name = "ヘビ人形"
-Description = "【貴重品】魔界グランドノアの宿でもらった人形"
+Name = "Snake Doll"
+Description = "[Key Item] Doll received for staying at the Grand Noah Inn of the Monster Realm."
 Note = ""
 
 Item 593
-Name = "イカ人形"
-Description = "【貴重品】魔界グランドノアの宿でもらった人形"
+Name = "Squid Doll"
+Description = "[Key Item] Doll received for staying at the Grand Noah Inn of the Monster Realm."
 Note = ""
 
 Item 594
-Name = "神の鍵"
-Description = "【貴重品】イリアス神殿上層への扉を開けるための鍵"
+Name = "Goddess' Key"
+Description = "[Key Item] Key to the upper floors of the Ilias Temple."
 Note = ""
 
 Item 595
@@ -2979,8 +2979,8 @@ Description = "[Key Item] A mirror that reflects only the truth."
 Note = ""
 
 Item 597
-Name = "邪神城の鍵"
-Description = "【貴重品】邪神城にある扉は全て開けられる秘密の鍵"
+Name = "Dark Goddess Castle Key"
+Description = "[Key Item] Secret key that opens every door in the Dark Goddess' Castle."
 Note = ""
 
 Item 598
@@ -3199,13 +3199,13 @@ Description = "[Job] Allows access to the Golem race."
 Note = ""
 
 Item 641
-Name = "女神の光"
-Description = "【転職用】所持していれば光の最上級職に転職できる"
+Name = "Goddess of Creation's Light"
+Description = "[Job] Allows access to advanced jobs of light."
 Note = ""
 
 Item 642
-Name = "邪神の闇"
-Description = "【転職用】所持していれば闇の最上級職に転職できる"
+Name = "Dark Goddess' Darkness"
+Description = "[Job] Allows access to advanced jobs of darkness."
 Note = ""
 
 Item 643
@@ -3224,8 +3224,8 @@ Description = "[Job] Allows access to the Nine-Tailed Kitsune race."
 Note = ""
 
 Item 646
-Name = "混沌の輝光"
-Description = "【転職用】所持していれば混沌の勇者に転職できる"
+Name = "Chaos Radiance"
+Description = "[Job] Allows access to Chaos Hero job."
 Note = ""
 
 Item 647
@@ -3319,43 +3319,43 @@ Description = "[Job] Allows access to the Shield Knight job."
 Note = ""
 
 Item 665
-Name = "武の封印玉"
-Description = "【転職用】所持していれば戦士系の封印職に転職できる"
+Name = "Sealed Orb of the Warrior"
+Description = "[Job] Allows access to sealed Warrior jobs."
 Note = ""
 
 Item 666
-Name = "光の封印玉"
-Description = "【転職用】所持していれば聖なる封印職に転職できる"
+Name = "Sealed Orb of Light"
+Description = "[Job] Allows access to sealed jobs that wield holy power."
 Note = ""
 
 Item 667
-Name = "闇の封印玉"
-Description = "【転職用】所持していれば闇の封印職に転職できる"
+Name = "Sealed Orb of Darkness"
+Description = "[Job] Allows access to sealed jobs that wield dark power."
 Note = ""
 
 Item 668
-Name = "虐の封印玉"
-Description = "【転職用】所持していればガンナー系などの封印職に転職できる"
+Name = "Sealed Orb of the Tyrant"
+Description = "[Job] Allows access to sealed jobs related to hunters and thieves."
 Note = ""
 
 Item 669
-Name = "倭の封印玉"
-Description = "【転職用】所持していれば侍系などの封印職に転職できる"
+Name = "Sealed Orb of Yamato"
+Description = "[Job] Allows access to sealed jobs originating from eastern lands."
 Note = ""
 
 Item 670
-Name = "華の封印玉"
-Description = "【転職用】所持していれば踊り子などの封印職に転職できる"
+Name = "Sealed Orb of the Flower"
+Description = "[Job] Allows access to sealed jobs related to performance and pleasure."
 Note = ""
 
 Item 671
-Name = "求道の封印玉"
-Description = "【転職用】所持していれば科学者系の封印職に転職できる"
+Name = "Sealed Orb of the Seeker"
+Description = "[Job] Allows access to sealed jobs related to science and magicraft."
 Note = ""
 
 Item 672
-Name = "職の封印玉"
-Description = "【転職用】所持していれば職人系の封印職に転職できる"
+Name = "Sealed Orb of the Professional"
+Description = "[Job] Allows access to sealed jobs related to everyday professions."
 Note = ""
 
 Item 673
@@ -3374,38 +3374,38 @@ Description = "[Job] Allows access to the Witch job."
 Note = ""
 
 Item 676
-Name = "千の武器を扱う法"
-Description = "【転職用】所持していれば「パーフェクトアームズ」に転職できる"
+Name = "Thousand Arms Doctrine"
+Description = "[Job] Allows access to the Perfect Arms job."
 Note = ""
 
 Item 677
-Name = "ソーサラースプリームの証"
-Description = "【転職用】所持していれば「ソーサラースプリーム」に転職できる"
+Name = "Proof of the Magus Supreme"
+Description = "[Job] Allows access to the Magus Supreme job."
 Note = ""
 
 Item 678
-Name = "アルティメットハート"
-Description = "【転職用】所持していれば「アルティメット魔法少女」に転職できる"
+Name = "Ultimate Heart"
+Description = "[Job] Allows access to the Ultimate Magical Girl job."
 Note = ""
 
 Item 679
-Name = "コズミックチケット"
-Description = "【転職用】所持していれば「コズミックアイドル」に転職できる"
+Name = "Cosmic Ticket"
+Description = "[Job] Allows access to the Ultimate Cosmic Idol job."
 Note = ""
 
 Item 680
-Name = "千職万来"
-Description = "【転職用】所持していれば「オールジョブラウンダー」に転職できる"
+Name = "Experience of All"
+Description = "[Job] Allows access to the Grand All-Rounder job."
 Note = ""
 
 Item 681
-Name = "覇王の書"
-Description = "【転職用】所持していれば「覇王」に転職できる"
+Name = "Supreme Ruler's Scroll"
+Description = "[Job] Allows access to the Supreme Ruler job."
 Note = ""
 
 Item 682
-Name = "エクセルシオール"
-Description = "【転職用】所持していれば「エクセルシオール」に転職できる"
+Name = "Excelsior"
+Description = "[Job] Allows access to the Excelsior job."
 Note = ""
 
 Item 683
@@ -3615,27 +3615,27 @@ Note = ""
 
 Item 724
 Name = "SOL"
-Description = "【マキナ】軌道上に存在する攻撃衛星兵器にアクセスする制御装置"
+Description = "[Makina] Control unit for accessing an orbital satellite weapon."
 Note = ""
 
 Item 725
-Name = "荷電粒子加速砲"
-Description = "【マキナ】高速の荷電粒子を発射する最先端の攻撃マキナ"
+Name = "Charged Particle Acceleration Cannon"
+Description = "[Makina] Cutting-edge assault makina that fires charged particles at high velocities."
 Note = ""
 
 Item 726
-Name = "陽子ビームキャノン"
-Description = "【マキナ】陽子ビームを放出し対象を消滅させる最先端の攻撃マキナ"
+Name = "Proton Beam Cannon"
+Description = "[Makina] Cutting-edge assault makina that fires proton beams to annihilate targets."
 Note = ""
 
 Item 727
-Name = "神殺しのチェーンソー"
-Description = "【マキナ】神殺しの力が備わると言われている出自不明のチェーンソー"
+Name = "Godslayer Chainsaw"
+Description = "[Makina] Chainsaw of unknown origin said to possess the power to kill gods."
 Note = ""
 
 Item 728
-Name = "次元崩壊ランチャー"
-Description = "【マキナ】次元を崩壊させる力を備えた混沌兵器"
+Name = "Dimensional Collapse Launcher"
+Description = "[Makina] A weapon of chaos built with the power to collapse dimensions."
 Note = ""
 
 Item 729
@@ -3649,418 +3649,418 @@ Description = ""
 Note = ""
 
 Item 731
-Name = "全テヲ癒ス禁璧"
-Description = "【転職用】所持していれば「全テヲ癒ス者」に転職できる"
+Name = "Forbidden Orb of the All-Healer"
+Description = "[Job] Allows access to the All-Healer job."
 Note = "<表示ID:683.0071>"
 
 Item 732
-Name = "破滅事象ノ禁璧"
-Description = "【転職用】所持していれば「破滅事象」に転職できる"
+Name = "Forbidden Orb of the Phenomenon of Ruin"
+Description = "[Job] Allows access to the Phenomenon of Ruin job."
 Note = "<表示ID:683.0141>"
 
 Item 733
-Name = "剣ヲ極メシ禁璧"
-Description = "【転職用】所持していれば「剣ヲ極メシ者」に転職できる"
+Name = "Forbidden Orb of the Master of Blades"
+Description = "[Job] Allows access to the Master of Blades job."
 Note = "<表示ID:683.001>"
 
 Item 734
-Name = "全テヲ穿ツ禁璧"
-Description = "【転職用】所持していれば「全テヲ穿ツ者」に転職できる"
+Name = "Forbidden Orb of the All-Piercer"
+Description = "[Job] Allows access to the All-Piercer job."
 Note = "<表示ID:683.002>"
 
 Item 735
-Name = "全テヲ壊ス禁璧"
-Description = "【転職用】所持していれば「全テヲ壊ス者」に転職できる"
+Name = "Forbidden Orb of the All-Destroyer"
+Description = "[Job] Allows access to the All-Destroyer job."
 Note = "<表示ID:683.003>"
 
 Item 736
-Name = "拳ヲ極メシ禁璧"
-Description = "【転職用】所持していれば「拳ヲ極メシ者」に転職できる"
+Name = "Forbidden Orb of the Fist Master"
+Description = "[Job] Allows access to the Fist Master job."
 Note = "<表示ID:683.004>"
 
 Item 737
-Name = "全テヲ護ル禁璧"
-Description = "【転職用】所持していれば「全テヲ護ル者」に転職できる"
+Name = "Forbidden Orb of the All-Protector"
+Description = "[Job] Allows access to the All-Protecter job."
 Note = "<表示ID:683.005>"
 
 Item 738
-Name = "千ノ武具ヲ極メシ禁璧"
-Description = "【転職用】所持していれば「千ノ武具ヲ極メシ者」に転職できる"
+Name = "Forbidden Orb of the Weapon Master"
+Description = "[Job] Allows access to the Weapon Master job."
 Note = "<表示ID:683.006>"
 
 Item 739
-Name = "全テヲ識ル禁璧"
-Description = "【転職用】所持していれば「全テヲ識ル者」に転職できる"
+Name = "Forbidden Orb of the Omniscient"
+Description = "[Job] Allows access to the Omniscient job."
 Note = "<表示ID:683.007>"
 
 Item 740
-Name = "全テヲ撃チ抜ク禁璧"
-Description = "【転職用】所持していれば「全テヲ撃チ抜ク者」に転職できる"
+Name = "Forbidden Orb of the Trueshot"
+Description = "[Job] Allows access to the Trueshot job."
 Note = "<表示ID:683.008>"
 
 Item 741
-Name = "音ヨリモ速キ禁璧"
-Description = "【転職用】所持していれば「音ヨリモ速キ者」に転職できる"
+Name = "Forbidden Orb of the Soundbreaker"
+Description = "[Job] Allows access to the Soundbreaker job."
 Note = "<表示ID:683.009>"
 
 Item 742
-Name = "極マリシ偶像ノ禁璧"
-Description = "【転職用】所持していれば「極マリシ偶像」に転職できる"
+Name = "Forbidden Orb of the Ultimate Idol"
+Description = "[Job] Allows access to the Ultimate Idol job."
 Note = "<表示ID:683.010>"
 
 Item 743
-Name = "快楽ヲ極メシ禁璧"
-Description = "【転職用】所持していれば「快楽ヲ極メシ者」に転職できる"
+Name = "Forbidden Orb of the Pleasure Adept"
+Description = "[Job] Allows access to the Pleasure Adept job."
 Note = "<表示ID:683.011>"
 
 Item 744
-Name = "真理ヲ探究スル禁璧"
-Description = "【転職用】所持していれば「真理ノ探究者」に転職できる"
+Name = "Forbidden Orb of the Truth Seeker"
+Description = "[Job] Allows access to the Truth Seeker job."
 Note = "<表示ID:683.012>"
 
 Item 745
-Name = "万職ヲ極メシ仕事人ノ禁璧"
-Description = "【転職用】所持していれば「万職ヲ極メシ仕事人」に転職できる"
+Name = "Forbidden Orb of the Jack of All Trades"
+Description = "[Job] Allows access to the Jack of All Trades job."
 Note = "<表示ID:683.013>"
 
 Item 746
-Name = "英雄王ノ禁璧"
-Description = "【転職用】所持していれば「英雄王」に転職できる"
+Name = "Forbidden Orb of the King of Heroes"
+Description = "[Job] Allows access to the King of Heroes job."
 Note = "<表示ID:683.014>"
 
 Item 747
-Name = "ジャッジメントの禁璧"
-Description = "【転職用】所持していれば「ジャッジメント」に転職できる"
+Name = "Forbidden Orb of Judgement"
+Description = "[Job] Allows access to the Judgement job."
 Note = "<表示ID:683.015>"
 
 Item 748
-Name = "ワールドブレイカーの禁璧"
-Description = "【転職用】所持していれば「ワールドブレイカー」に転職できる"
+Name = "Forbidden Orb of World Breaker"
+Description = "[Job] Allows access to the World Breaker job."
 Note = "<表示ID:683.016>"
 
 Item 749
-Name = "職無キ者ノ禁璧"
-Description = "【転職用】所持していれば「職無キ者」に転職できる"
+Name = "Forbidden Orb of the Jobless"
+Description = "[Job] Allows access to the Jobless job."
 Note = "<表示ID:683.017>"
 
 Item 750
-Name = "もんむす・くえすと！の禁璧"
-Description = "【転職用】所持していれば「もんむす・くえすと！」に転職できる"
+Name = "Forbidden Orb of Monster Girl Quest!"
+Description = "[Job] Allows access to the Monster Girl Quest! job."
 Note = "<表示ID:683.018>"
 
 Item 751
-Name = "魔神の封印玉"
-Description = "【転職用】所持していれば「超魔神」に転種できる"
+Name = "Sealed Orb of the Archfiend"
+Description = "[Job] Allows access to the Super Archfiend race."
 Note = "<表示ID:683.019>"
 
 Item 752
-Name = "ワームサマナーの封印玉"
-Description = "【転職用】所持していれば「ワームエンプレス」に転種できる"
+Name = "Sealed Orb of the Worm Summoner"
+Description = "[Job] Allows access to the Worm Empress race."
 Note = "<表示ID:683.020>"
 
 Item 753
-Name = "妖魔の封印玉"
-Description = "【転職用】所持していれば「魔王」に転種できる"
+Name = "Sealed Orb of the Yoma"
+Description = "[Job] Allows access to the Monster Lord race."
 Note = "<表示ID:683.021>"
 
 Item 754
-Name = "亜人の封印玉"
-Description = "【転職用】所持していれば「妖怪王」に転種できる"
+Name = "Sealed Orb of the Demi-Human"
+Description = "[Job] Allows access to the Youkai Lord race."
 Note = "<表示ID:683.022>"
 
 Item 755
-Name = "サキュバスの封印玉"
-Description = "【転職用】所持していれば「リリスナイトメア」に転種できる"
+Name = "Sealed Orb of the Succubus"
+Description = "[Job] Allows access to the Lilith Nightmare race."
 Note = "<表示ID:683.023>"
 
 Item 756
-Name = "吸血鬼の封印玉"
-Description = "【転職用】所持していれば「ドラキュリーナ」に転種できる"
+Name = "Sealed Orb of the Vampire"
+Description = "[Job] Allows access to the Draculina race."
 Note = "<表示ID:683.024>"
 
 Item 757
-Name = "マーメイドの封印玉"
-Description = "【転職用】所持していれば「伝説の神魚」に転種できる"
+Name = "Sealed Orb of the Mermaid"
+Description = "[Job] Allows access to the Legendary Divine Fish race."
 Note = "<表示ID:683.025>"
 
 Item 758
-Name = "エルフの封印玉"
-Description = "【転職用】所持していれば「アルフ神族」に転種できる"
+Name = "Sealed Orb of the Elf"
+Description = "[Job] Allows access to the Alph Divine Clan race."
 Note = "<表示ID:683.026>"
 
 Item 759
-Name = "フェアリーの封印玉"
-Description = "【転職用】所持していれば「コスモフェアリー」に転種できる"
+Name = "Sealed Orb of the Fairy"
+Description = "[Job] Allows access to the Cosmo Fairy race."
 Note = "<表示ID:683.027>"
 
 Item 760
-Name = "スライムの封印玉"
-Description = "【転職用】所持していれば「究極群体生命」に転種できる"
+Name = "Sealed Orb of the Slime"
+Description = "[Job] Allows access to the Ultimate Colony Lifeform race."
 Note = "<表示ID:683.028>"
 
 Item 761
-Name = "魔獣の封印玉"
-Description = "【転職用】所持していれば「百獣王」に転種できる"
+Name = "Sealed Orb of the Beast"
+Description = "[Job] Allows access to the Beast Lord race."
 Note = "<表示ID:683.029>"
 
 Item 762
-Name = "妖狐の封印玉"
-Description = "【転職用】所持していれば「零尾の狐」に転種できる"
+Name = "Sealed Orb of the Kitsune"
+Description = "[Job] Allows access to the Zero-Tailed Kitsune race."
 Note = "<表示ID:683.030>"
 
 Item 763
-Name = "ラミアの封印玉"
-Description = "【転職用】所持していれば「ウロボロス」に転種できる"
+Name = "Sealed Orb of the Lamia"
+Description = "[Job] Allows access to the Ouroboros race."
 Note = "<表示ID:683.031>"
 
 Item 764
-Name = "スキュラの封印玉"
-Description = "【転職用】所持していれば「インフィニティスキュラ」に転種できる"
+Name = "Sealed Orb of the Scylla"
+Description = "[Job] Allows access to the Infinity Scylla race."
 Note = "<表示ID:683.032>"
 
 Item 765
-Name = "ハーピーの封印玉"
-Description = "【転職用】所持していれば「神鳥」に転種できる"
+Name = "Sealed Orb of the Harpy"
+Description = "[Job] Allows access to the Divine Bird race."
 Note = "<表示ID:683.033>"
 
 Item 766
-Name = "ドラゴンの封印玉"
-Description = "【転職用】所持していれば「神竜」に転種できる"
+Name = "Sealed Orb of the Dragon"
+Description = "[Job] Allows access to the Dragon God race."
 Note = "<表示ID:683.034>"
 
 Item 767
-Name = "陸棲種の封印玉"
-Description = "【転職用】所持していれば「百魔の王」に転種できる"
+Name = "Sealed Orb of the Land-Dweller"
+Description = "[Job] Allows access to the Hundred Demons Lord race."
 Note = "<表示ID:683.035>"
 
 Item 768
-Name = "海棲種の封印玉"
-Description = "【転職用】所持していれば「海神」に転種できる"
+Name = "Sealed Orb of the Sea-Dweller"
+Description = "[Job] Allows access to the Sea God race."
 Note = "<表示ID:683.036>"
 
 Item 769
-Name = "魔蟲の封印玉"
-Description = "【転職用】所持していれば「神蟲」に転種できる"
+Name = "Sealed Orb of the Insect"
+Description = "[Job] Allows access to the Divine Insect race."
 Note = "<表示ID:683.037>"
 
 Item 770
-Name = "アルラウネの封印玉"
-Description = "【転職用】所持していれば「世界樹花」に転種できる"
+Name = "Sealed Orb of the Alraune"
+Description = "[Job] Allows access to the World Tree Flower race."
 Note = "<表示ID:683.038>"
 
 Item 771
-Name = "ゾンビの封印玉"
-Description = "【転職用】所持していれば「カオスアンデッド」に転種できる"
+Name = "Sealed Orb of the Zombie"
+Description = "[Job] Allows access to the Chaos Undead race."
 Note = "<表示ID:683.039>"
 
 Item 772
-Name = "ゴーストの封印玉"
-Description = "【転職用】所持していれば「エターニティ」に転種できる"
+Name = "Sealed Orb of the Ghost"
+Description = "[Job] Allows access to the Eternity race."
 Note = "<表示ID:683.040>"
 
 Item 773
-Name = "ドールの封印玉"
-Description = "【転職用】所持していれば「究極至高人形」に転種できる"
+Name = "Sealed Orb of the Doll"
+Description = "[Job] Allows access to the Ultimate Supreme Doll race."
 Note = "<表示ID:683.041>"
 
 Item 774
-Name = "キメラの封印玉"
-Description = "【転職用】所持していれば「ウェポンタイプ」に転種できる"
+Name = "Sealed Orb of the Chimera"
+Description = "[Job] Allows access to the Weapon Type race."
 Note = "<表示ID:683.042>"
 
 Item 775
-Name = "天使の封印玉"
-Description = "【転職用】所持していれば「熾天使」に転種できる"
+Name = "Sealed Orb of the Angel"
+Description = "[Job] Allows access to the Seraph race."
 Note = "<表示ID:683.043>"
 
 Item 776
-Name = "ロイドの封印玉"
-Description = "【転職用】所持していれば「アサルトバスター」に転種できる"
+Name = "Sealed Orb of the Roid"
+Description = "[Job] Allows access to the Assault Buster race."
 Note = "<表示ID:683.044>"
 
 Item 777
-Name = "巨人の封印玉"
-Description = "【転職用】所持していれば「巨神王」に転種できる"
+Name = "Sealed Orb of the Giant"
+Description = "[Job] Allows access to the Titan Lord race."
 Note = "<表示ID:683.045>"
 
 Item 778
-Name = "アポトーシスの封印玉"
-Description = "【転職用】所持していれば「X型アポトーシス」に転種できる"
+Name = "Sealed Orb of the Apoptosis"
+Description = "[Job] Allows access to the X-Class Apoptosis race."
 Note = "<表示ID:683.046>"
 
 Item 779
-Name = "魔神の禁璧"
-Description = "【転職用】所持していれば「混沌の魔神」に転種できる"
+Name = "Forbidden Orb of the Archfiend"
+Description = "[Job] Allows access to the Archfiend of Chaos race."
 Note = "<表示ID:683.047>"
 
 Item 780
-Name = "ワームサマナーの禁璧"
-Description = "【転職用】所持していれば「万魔の宿主」に転種できる"
+Name = "Forbidden Orb of the Worm Summoner"
+Description = "[Job] Allows access to the Legion Host race."
 Note = "<表示ID:683.048>"
 
 Item 781
-Name = "妖魔の禁璧"
-Description = "【転職用】所持していれば「大魔王」に転種できる"
+Name = "Forbidden Orb of the Yoma"
+Description = "[Job] Allows access to the Great Monster Lord race."
 Note = "<表示ID:683.049>"
 
 Item 782
-Name = "亜人の禁璧"
-Description = "【転職用】所持していれば「マガツオオミカミ」に転種できる"
+Name = "Forbidden Orb of the Demi-Human"
+Description = "[Job] Allows access to the Magatsu-Omikami race."
 Note = "<表示ID:683.050>"
 
 Item 783
-Name = "サキュバスの禁璧"
-Description = "【転職用】所持していれば「バビロンの大淫婦」に転種できる"
+Name = "Forbidden Orb of the Succubus"
+Description = "[Job] Allows access to the Great Whore of Babylon race."
 Note = "<表示ID:683.051>"
 
 Item 784
-Name = "吸血鬼の禁璧"
-Description = "【転職用】所持していれば「神祖」に転種できる"
+Name = "Forbidden Orb of the Vampire"
+Description = "[Job] Allows access to the Progenitor race."
 Note = "<表示ID:683.052>"
 
 Item 785
-Name = "マーメイドの禁璧"
-Description = "【転職用】所持していれば「ワールドドロウン」に転種できる"
+Name = "Forbidden Orb of the Mermaid"
+Description = "[Job] Allows access to the World Drown race."
 Note = "<表示ID:683.053>"
 
 Item 786
-Name = "エルフの禁璧"
-Description = "【転職用】所持していれば「アンゴルモア」に転種できる"
+Name = "Forbidden Orb of the Elf"
+Description = "[Job] Allows access to the Angolmois race."
 Note = "<表示ID:683.054>"
 
 Item 787
-Name = "フェアリーの禁璧"
-Description = "【転職用】所持していれば「コスモス」に転種できる"
+Name = "Forbidden Orb of the Fairy"
+Description = "[Job] Allows access to the Cosmos race."
 Note = "<表示ID:683.055>"
 
 Item 788
-Name = "スライムの禁璧"
-Description = "【転職用】所持していれば「カナデ」に転種できる"
+Name = "Forbidden Orb of the Slime"
+Description = "[Job] Allows access to the Kanade race."
 Note = "<表示ID:683.056>"
 
 Item 789
-Name = "魔獣の禁璧"
-Description = "【転職用】所持していれば「時の神獣」に転種できる"
+Name = "Forbidden Orb of the Beast"
+Description = "[Job] Allows access to the Divine Beast of Time race."
 Note = "<表示ID:683.057>"
 
 Item 790
-Name = "妖狐の禁璧"
-Description = "【転職用】所持していれば「白面金毛九尾の狐」に転種できる"
+Name = "Forbidden Orb of the Kitsune"
+Description = "[Job] Allows access to the Golden Nine-Tailed Kitsune race."
 Note = "<表示ID:683.058>"
 
 Item 791
-Name = "ラミアの禁璧"
-Description = "【転職用】所持していれば「淫欲の堕蛇」に転種できる"
+Name = "Forbidden Orb of the Lamia"
+Description = "[Job] Allows access to the Serpent of Lust race."
 Note = "<表示ID:683.059>"
 
 Item 792
-Name = "スキュラの禁璧"
-Description = "【転職用】所持していれば「正体不明触手禍」に転種できる"
+Name = "Forbidden Orb of the Scylla"
+Description = "[Job] Allows access to the Unidentified Tentacle Disaster race."
 Note = "<表示ID:683.060>"
 
 Item 793
-Name = "ハーピーの禁璧"
-Description = "【転職用】所持していれば「フェニックス」に転種できる"
+Name = "Forbidden Orb of the Harpy"
+Description = "[Job] Allows access to the Phoenix race."
 Note = "<表示ID:683.061>"
 
 Item 794
-Name = "ドラゴンの禁璧"
-Description = "【転職用】所持していれば「虚竜」に転種できる"
+Name = "Forbidden Orb of the Dragon"
+Description = "[Job] Allows access to the Koron race."
 Note = "<表示ID:683.062>"
 
 Item 795
-Name = "陸棲種の禁璧"
-Description = "【転職用】所持していれば「次元侵蝕者」に転種できる"
+Name = "Forbidden Orb of the Land-Dweller"
+Description = "[Job] Allows access to the Dimensional Eroder race."
 Note = "<表示ID:683.063>"
 
 Item 796
-Name = "海棲種の禁璧"
-Description = "【転職用】所持していれば「名状しがたきもの」に転種できる"
+Name = "Forbidden Orb of the Sea-Dweller"
+Description = "[Job] Allows access to the Nameless One race."
 Note = "<表示ID:683.064>"
 
 Item 797
-Name = "魔蟲の禁璧"
-Description = "【転職用】所持していれば「バアル・ゼブブ」に転種できる"
+Name = "Forbidden Orb of the Insect"
+Description = "[Job] Allows access to the Baal Zebub race."
 Note = "<表示ID:683.065>"
 
 Item 798
-Name = "アルラウネの禁璧"
-Description = "【転職用】所持していれば「千樹華音」に転種できる"
+Name = "Forbidden Orb of the Alraune"
+Description = "[Job] Allows access to the Thousand Trees Kanon race."
 Note = "<表示ID:683.066>"
 
 Item 799
-Name = "ゾンビの禁璧"
-Description = "【転職用】所持していれば「ノーライフキング」に転種できる"
+Name = "Forbidden Orb of the Zombie"
+Description = "[Job] Allows access to the No Life King race."
 Note = "<表示ID:683.067>"
 
 Item 800
-Name = "ゴーストの禁璧"
-Description = "【転職用】所持していれば「死神」に転種できる"
+Name = "Forbidden Orb of the Ghost"
+Description = "[Job] Allows access to the Reaper race."
 Note = "<表示ID:683.068>"
 
 Item 801
-Name = "ドールの禁璧"
-Description = "【転職用】所持していれば「影、紬ぐ人形」に転種できる"
+Name = "Forbidden Orb of the Doll"
+Description = "[Job] Allows transformation into Kagetsumugi Doll"
 Note = "<表示ID:683.069>"
 
 Item 802
-Name = "キメラの禁璧"
-Description = "【転職用】所持していれば「オメガタイプ」に転種できる"
+Name = "Forbidden Orb of the Chimera"
+Description = "[Job] Allows access to the Omega Type race."
 Note = "<表示ID:683.070>"
 
 Item 803
-Name = "天使の禁璧"
-Description = "【転職用】所持していれば七大天使に転種できる"
+Name = "Forbidden Orb of the Angel"
+Description = "[Job] Allows access to the Seven Archangels races."
 Note = "<表示ID:683.071>"
 
 Item 804
-Name = "ロイドの禁璧"
-Description = "【転職用】所持していれば「シンギュラリティ」に転種できる"
+Name = "Forbidden Orb of the Roid"
+Description = "[Job] Allows access to the Singularity race."
 Note = "<表示ID:683.072>"
 
 Item 805
-Name = "巨人の禁璧"
-Description = "【転職用】所持していれば「星喰い」に転種できる"
+Name = "Forbidden Orb of the Giant"
+Description = "[Job] Allows access to the Star Eater race."
 Note = "<表示ID:683.073>"
 
 Item 806
-Name = "アポトーシスの禁璧"
-Description = "【転職用】所持していれば「XX型アポトーシス」に転種できる"
+Name = "Forbidden Orb of the Apoptosis"
+Description = "[Job] Allows access to the XX-Class Apoptosis race."
 Note = "<表示ID:683.074>"
 
 Item 807
-Name = "使徒の禁璧"
-Description = "【転職用】所持していれば「混沌の使徒」に転種できる"
+Name = "Forbidden Orb of the Apostle"
+Description = "[Job] Allows access to the Apostle of Chaos race."
 Note = "<表示ID:683.075>"
 
 Item 808
-Name = "女神の禁璧"
-Description = "【転職用】所持していれば「創世の女神」に転種できる"
+Name = "Forbidden Orb of the Goddess of Creation"
+Description = "[Job] Allows access to the Goddess of Creation race."
 Note = "<表示ID:683.078>"
 
 Item 809
-Name = "邪神の禁璧"
-Description = "【転職用】所持していれば「邪神」に転種できる"
+Name = "Forbidden Orb of the Dark Goddess"
+Description = "[Job] Allows access to the Dark Goddess race."
 Note = "<表示ID:683.079>"
 
 Item 810
-Name = "第三の神の禁璧"
-Description = "【転職用】所持していれば「第三の神」に転種できる"
+Name = "Forbidden Orb of the Third Goddess"
+Description = "[Job] Allows access to the Third Goddess race."
 Note = "<表示ID:683.080>"
 
 Item 811
-Name = "カオスの禁璧"
-Description = "【転職用】所持していれば「カオス」に転種できる"
+Name = "Forbidden Orb of Chaos"
+Description = "[Job] Allows access to the Chaos race."
 Note = "<表示ID:683.081>"
 
 Item 812
-Name = "混沌の精霊の禁璧"
-Description = "【転職用】所持していれば「混沌の精霊」に転種できる"
+Name = "Forbidden Orb of the Spirit of Chaos"
+Description = "[Job] Allows access to the Spirit of Chaos race."
 Note = "<表示ID:683.076>"
 
 Item 813
-Name = "デウスエクスマキナの禁璧"
-Description = "【転職用】所持していれば「デウスエクスマキナ」に転種できる"
+Name = "Forbidden Orb of Deus Ex Machina"
+Description = "[Job] Allows access to the Deus Ex Machina race."
 Note = "<表示ID:683.077>"
 
 Item 814
@@ -4099,353 +4099,353 @@ Description = ""
 Note = ""
 
 Item 821
-Name = "神の涙石"
-Description = "【素材】エルフ系の魔物が落とす素材アイテム"
+Name = "Jewel of Divine Tears"
+Description = "[Material] Material dropped by Elf monsters."
 Note = "<表示ID:290.01>"
 
 Item 822
-Name = "神様のどんぐり"
-Description = "【素材】フェアリー系の魔物が落とす素材アイテム"
+Name = "Divine Acorn"
+Description = "[Material] Material dropped by Fairy monsters."
 Note = "<表示ID:290.01>"
 
 Item 823
-Name = "きらきらゼリー"
-Description = "【素材】スライム系の魔物が落とす素材アイテム"
+Name = "Sparkling Jelly"
+Description = "[Material] Material dropped by Slime monsters."
 Note = "<表示ID:290.01>"
 
 Item 824
-Name = "黙示の羽根"
-Description = "【素材】天使が落とす素材アイテム"
+Name = "Revelation Feather"
+Description = "[Material] Material dropped by Angels."
 Note = "<表示ID:290.01>"
 
 Item 825
-Name = "ダークマター"
-Description = "【素材】アポトーシスが落とす素材アイテム"
+Name = "Dark Matter"
+Description = "[Material] Material dropped by Apoptosis monsters."
 Note = "<表示ID:290.01>"
 
 Item 826
-Name = "白面のしっぽ"
-Description = "【素材】妖狐系の魔物が落とす素材アイテム"
+Name = "White-Tipped Tail"
+Description = "[Material] Material dropped by Kitsune monsters."
 Note = "<表示ID:290.01>"
 
 Item 827
-Name = "深淵の触手"
-Description = "【素材】スキュラ系の魔物が落とす素材アイテム"
+Name = "Abyss Tentacle"
+Description = "[Material] Material dropped by Scylla monsters."
 Note = "<表示ID:290.01>"
 
 Item 828
-Name = "侵蝕の粘液"
-Description = "【素材】陸棲種系の魔物が落とす素材アイテム"
+Name = "Erosive Mucus"
+Description = "[Material] Material dropped by Land-Dweller monsters."
 Note = "<表示ID:290.01>"
 
 Item 829
-Name = "蒼天の羽根"
-Description = "【素材】ハーピー系の魔物が落とす素材アイテム"
+Name = "Azure Sky Feather"
+Description = "[Material] Material dropped by Harpy monsters."
 Note = "<表示ID:290.01>"
 
 Item 830
-Name = "究極の針"
-Description = "【素材】虫系の魔物が落とす素材アイテム"
+Name = "Ultimate Stinger"
+Description = "[Material] Material dropped by Insect monsters."
 Note = "<表示ID:290.01>"
 
 Item 831
-Name = "魔界樹の花びら"
-Description = "【素材】植物系の魔物が落とす素材アイテム"
+Name = "Monster Realm Tree Petal"
+Description = "[Material] Material dropped by Plant monsters."
 Note = "<表示ID:290.01>"
 
 Item 832
-Name = "魔海の珊瑚"
-Description = "【素材】海棲種系の魔物が落とす素材アイテム"
+Name = "Magic Sea Coral"
+Description = "[Material] Material dropped by Sea Dweller monsters."
 Note = "<表示ID:290.01>"
 
 Item 833
-Name = "竜王の牙"
-Description = "【素材】ドラゴン系の魔物が落とす素材アイテム"
+Name = "Royal Dragon Fang"
+Description = "[Material] Material dropped by Dragon monsters."
 Note = "<表示ID:290.01>"
 
 Item 834
-Name = "シャインエキス"
-Description = "【素材】魔導系の魔物が落とす素材アイテム"
+Name = "Shine Extract"
+Description = "[Material] Material dropped by magical monsters."
 Note = "<表示ID:290.01>"
 
 Item 835
-Name = "超蛭蟲細胞"
-Description = "【素材】蛭蟲が落とす素材アイテム"
+Name = "Super Hiruko Cells"
+Description = "[Material] Material dropped by Hiruko."
 Note = "<表示ID:290.01>"
 
 Item 836
-Name = "偏在兎"
-Description = "【素材】偏在する兎が落とす素材アイテム"
+Name = "Quantum Rabbit"
+Description = "[Material] Material dropped by quantum rabbits."
 Note = "<表示ID:290.01>"
 
 Item 837
-Name = "神々しい角"
-Description = "【素材】亜人系の魔物が落とす素材アイテム"
+Name = "Divine Horn"
+Description = "[Material] Material dropped by Demi-Human monsters."
 Note = "<表示ID:290.01>"
 
 Item 838
-Name = "魔王の蛇尾"
-Description = "【素材】ラミア系の魔物が落とす素材アイテム"
+Name = "Monster Lord Snake Tail"
+Description = "[Material] Material dropped by Lamia monsters."
 Note = "<表示ID:290.01>"
 
 Item 839
-Name = "冥府の髪"
-Description = "【素材】ゴースト系の魔物が落とす素材アイテム"
+Name = "Otherworldly Hair"
+Description = "[Material] Material dropped by Ghost monsters."
 Note = "<表示ID:290.01>"
 
 Item 840
-Name = "超無限細胞"
-Description = "【素材】キメラ系の魔物が落とす素材アイテム"
+Name = "Super Infinite Cells"
+Description = "[Material] Material dropped by Chimera monsters."
 Note = "<表示ID:290.01>"
 
 Item 841
-Name = "ドッペル細胞Σ"
-Description = "【素材】ドッペルが落とす素材アイテム"
+Name = "Doppel Cell Σ"
+Description = "[Material] Material dropped by Doppels."
 Note = "<表示ID:290.01>"
 
 Item 842
-Name = "高次半導体"
-Description = "【素材】ロイド系の魔物が落とす素材アイテム"
+Name = "High-Grade Semiconductor"
+Description = "[Material] Material dropped by Roid monsters."
 Note = "<表示ID:290.01>"
 
 Item 843
-Name = "終焉の結晶"
-Description = "【素材】妖魔系の魔物が落とす素材アイテム"
+Name = "Demise Crystal"
+Description = "[Material] Material dropped by Yoma monsters."
 Note = "<表示ID:290.01>"
 
 Item 844
-Name = "大淫魔の尻尾"
-Description = "【素材】淫魔系の魔物が落とす素材アイテム"
+Name = "Great Succubus Tail"
+Description = "[Material] Material dropped by Succubus monsters."
 Note = "<表示ID:290.01>"
 
 Item 845
-Name = "神獣の爪"
-Description = "【素材】魔獣系の魔物が落とす素材アイテム"
+Name = "Divine Beast Claw"
+Description = "[Material] Material dropped by Beast monsters."
 Note = "<表示ID:290.01>"
 
 Item 846
-Name = "神威の羽根"
-Description = "【素材】天使が落とす素材アイテム"
+Name = "Majestic Divine Feather"
+Description = "[Material] Material dropped by Angels."
 Note = "<表示ID:290.01>"
 
 Item 847
-Name = "アンノウンセル"
-Description = "【素材】正体不明の敵が落とす素材アイテム"
+Name = "Unknown Cells"
+Description = "[Material] Material dropped by Unknown creatures."
 Note = "<表示ID:290.01>"
 
 Item 848
-Name = "永遠の鱗"
-Description = "【素材】人魚系の魔物が落とす素材アイテム"
+Name = "Eternal Scale"
+Description = "[Material] Material dropped by Mermaid monsters."
 Note = "<表示ID:290.01>"
 
 Item 849
-Name = "悪夢の胞子"
-Description = "【素材】キノコ系の魔物が落とす素材アイテム"
+Name = "Nightmare Spores"
+Description = "[Material] Material dropped by mushroom monsters."
 Note = "<表示ID:290.01>"
 
 Item 850
-Name = "冥界のパウダー"
-Description = "【素材】ゾンビ系の魔物が落とす素材アイテム"
+Name = "Netherworld Powder"
+Description = "[Material] Material dropped by Zombie monsters."
 Note = "<表示ID:290.01>"
 
 Item 851
-Name = "量子の歯車"
-Description = "【素材】ドール系の魔物が落とす素材アイテム"
+Name = "Quantum Gear"
+Description = "[Material] Material dropped by Doll monsters."
 Note = "<表示ID:290.01>"
 
 Item 852
-Name = "ゼロマター"
-Description = "【素材】アポトーシスが落とす素材アイテム"
+Name = "Zero Matter"
+Description = "[Material] Material dropped by Apoptosis monsters."
 Note = "<表示ID:290.01>"
 
 Item 853
-Name = "メギドの結晶"
-Description = "【素材】妖魔系の魔物が落とす素材アイテム"
+Name = "Megiddo Crystal"
+Description = "[Material] Material dropped by Yoma monsters."
 Note = "<表示ID:290.01>"
 
 Item 854
-Name = "集合意識の甲殻"
-Description = "【素材】虫系の魔物が落とす素材アイテム"
+Name = "Hivemind Shell"
+Description = "[Material] Material dropped by Insect monsters."
 Note = "<表示ID:290.01>"
 
 Item 855
-Name = "世界樹の花びら"
-Description = "【素材】植物系の魔物が落とす素材アイテム"
+Name = "World Tree Petal"
+Description = "[Material] Material dropped by Plant monsters."
 Note = "<表示ID:290.01>"
 
 Item 856
-Name = "不滅の黒片"
-Description = "【素材】吸血鬼系の魔物が落とす素材アイテム"
+Name = "Immortal Black Fragment"
+Description = "[Material] Material dropped by Vampire monsters."
 Note = "<表示ID:290.01>"
 
 Item 857
-Name = "グランエキス"
-Description = "【素材】魔導系の魔物が落とす素材アイテム"
+Name = "Grand Extract"
+Description = "[Material] Material dropped by magical monsters."
 Note = "<表示ID:290.01>"
 
 Item 858
-Name = "大淫婦の尻尾"
-Description = "【素材】淫魔系の魔物が落とす素材アイテム"
+Name = "Great Whore's Tail"
+Description = "[Material] Material dropped by Succubus monsters."
 Note = "<表示ID:290.01>"
 
 Item 859
-Name = "牛魔王の角"
-Description = "【素材】ミノタウロス系の魔物が落とす素材アイテム"
+Name = "Cow Demon Queen's Horn"
+Description = "[Material] Material dropped by Minotauros monsters."
 Note = "<表示ID:290.01>"
 
 Item 860
-Name = "Q極細胞"
-Description = "【素材】キメラ系の魔物が落とす素材アイテム"
+Name = "Perfect Q Cells"
+Description = "[Material] Material dropped by Chimera monsters."
 Note = "<表示ID:290.01>"
 
 Item 861
-Name = "災厄の結晶"
-Description = "【素材】妖魔系の魔物が落とす素材アイテム"
+Name = "Disaster Crystal"
+Description = "[Material] Material dropped by Yoma monsters."
 Note = "<表示ID:290.01>"
 
 Item 862
-Name = "栄光の角"
-Description = "【素材】亜人系の魔物が落とす素材アイテム"
+Name = "Glorious Horn"
+Description = "[Material] Material dropped by Demi-Human monsters."
 Note = "<表示ID:290.01>"
 
 Item 863
-Name = "竜神の牙"
-Description = "【素材】ドラゴン系の魔物が落とす素材アイテム"
+Name = "Divine Dragon Fang"
+Description = "[Material] Material dropped by Dragon monsters."
 Note = "<表示ID:290.01>"
 
 Item 864
-Name = "虹色の羽根"
-Description = "【素材】ハーピー系の魔物が落とす素材アイテム"
+Name = "Rainbow Feather"
+Description = "[Material] Material dropped by Harpy monsters."
 Note = "<表示ID:290.01>"
 
 Item 865
-Name = "時の歯車"
-Description = "【素材】ドール系の魔物が落とす素材アイテム"
+Name = "Chrono Gear"
+Description = "[Material] Material dropped by Doll monsters."
 Note = "<表示ID:290.01>"
 
 Item 866
-Name = "オメガコア"
-Description = "【素材】高度なロイド系の魔物が落とす素材アイテム"
+Name = "Omega Core"
+Description = "[Material] Material dropped by Roid monsters."
 Note = "<表示ID:290.01>"
 
 Item 867
-Name = "古神の依代"
-Description = "【素材】古神が落とす素材アイテム"
+Name = "Ancient Deity Yorishiro"
+Description = "[Material] Material dropped by ancient deities."
 Note = "<表示ID:290.01>"
 
 Item 868
-Name = "ハイエレメントコア"
-Description = "【素材】精霊が落とす素材アイテム"
+Name = "High Element Core"
+Description = "[Material] Material dropped by Spirits."
 Note = "<表示ID:290.01>"
 
 Item 869
-Name = "エキドナの蛇尾"
-Description = "【素材】エキドナが落とす素材アイテム"
+Name = "Echidna Snake Tail"
+Description = "[Material] Material dropped by Echidna."
 Note = "<表示ID:290.01>"
 
 Item 870
-Name = "名状しがたき触手"
-Description = "【素材】名状しがたき眷属が落とす素材アイテム"
+Name = "Nameless Tentacle"
+Description = "[Material] Material dropped by The Nameless."
 Note = "<表示ID:290.01>"
 
 Item 871
-Name = "次元浸食細胞"
-Description = "【素材】次元侵蝕者の眷属が落とす素材アイテム"
+Name = "Dimensional Eroder Cells"
+Description = "[Material] Material dropped by Dimensional Eroder."
 Note = "<表示ID:290.01>"
 
 Item 872
-Name = "ヌル細胞"
-Description = "【素材】ヌル系の魔物が落とす素材アイテム"
+Name = "Null Cells"
+Description = "[Material] Material dropped by Null monsters."
 Note = "<表示ID:290.01>"
 
 Item 873
-Name = "テラ甲殻"
-Description = "【素材】虫系の魔物が落とす素材アイテム"
+Name = "Tera Shell"
+Description = "[Material] Material dropped by Insect monsters."
 Note = "<表示ID:290.01>"
 
 Item 874
-Name = "包丁の破片"
-Description = "【素材】トンベリ娘が落とす素材アイテム"
+Name = "Chef's Knife Fragment"
+Description = "[Material] Material dropped by Tonberries."
 Note = "<表示ID:290.01>"
 
 Item 875
-Name = "永劫の羽根"
-Description = "【素材】天使が落とす素材アイテム"
+Name = "Eternal Feather"
+Description = "[Material] Material dropped by Angels."
 Note = "<表示ID:290.01>"
 
 Item 876
-Name = "虚夢の欠片"
-Description = "【素材】妖魔系の魔物が落とす素材アイテム"
+Name = "Empty Dream Fragment"
+Description = "[Material] Material dropped by Yoma monsters."
 Note = "<表示ID:290.01>"
 
 Item 877
-Name = "勇者の魂"
-Description = "【素材】勇者が落とす素材アイテム"
+Name = "Hero's Soul"
+Description = "[Material] Material dropped by Heroes."
 Note = "<表示ID:290.01>"
 
 Item 878
-Name = "カオスマター"
-Description = "【素材】アポトーシスが落とす素材アイテム"
+Name = "Chaos Matter"
+Description = "[Material] Material dropped by Apoptosis monsters."
 Note = "<表示ID:290.01>"
 
 Item 879
-Name = "紅蓮の瞳"
-Description = "【素材】混沌の炎が凝縮した素材アイテム"
+Name = "Crimson Eye"
+Description = "[Material] Material condensed from the flames of chaos."
 Note = "<表示ID:290.01>"
 
 Item 880
-Name = "雷土の結晶石"
-Description = "【素材】混沌の雷と土が凝縮した素材アイテム"
+Name = "Shocked Earth Crystal"
+Description = "[Material] Material condensed from the lightning and earth of chaos."
 Note = "<表示ID:290.01>"
 
 Item 881
-Name = "混沌水銀"
-Description = "【素材】混沌の水銀を抽出した素材アイテム"
+Name = "Chaos Mercury"
+Description = "[Material] Material extracted from the mercury of chaos."
 Note = "<表示ID:290.01>"
 
 Item 882
-Name = "侵蝕する触手"
-Description = "【素材】侵蝕する混沌の素材アイテム"
+Name = "Eroding Tentacle"
+Description = "[Material] Material of chaos erosion."
 Note = "<表示ID:290.01>"
 
 Item 883
-Name = "ゴッドライト"
-Description = "【素材】混沌の聖エネルギーが凝縮した素材アイテム"
+Name = "God Light"
+Description = "[Material] Material condensed from the holy energy of chaos."
 Note = "<表示ID:290.01>"
 
 Item 884
-Name = "魔王核熱結晶"
-Description = "【素材】魔王が落とす素材アイテム"
+Name = "Monster Lord Nuclear Crystal"
+Description = "[Material] Material dropped by Monster Lords."
 Note = "<表示ID:290.01>"
 
 Item 885
-Name = "熾天使の羽根"
-Description = "【素材】混沌存在が落とす素材アイテム"
+Name = "Seraph Feather"
+Description = "[Material] Material dropped by beings of chaos."
 Note = "<表示ID:290.01>"
 
 Item 886
-Name = "根源の闇"
-Description = "【素材】混沌存在が落とす素材アイテム"
+Name = "Primordial Darkness"
+Description = "[Material] Material dropped by beings of chaos."
 Note = "<表示ID:290.01>"
 
 Item 887
-Name = "反物質"
-Description = "【素材】混沌存在が落とす素材アイテム"
+Name = "Antimatter"
+Description = "[Material] Material dropped by beings of chaos."
 Note = "<表示ID:290.01>"
 
 Item 888
-Name = "アルテマコア"
-Description = "【素材】混沌存在が落とす素材アイテム"
+Name = "Ultima Core"
+Description = "[Material] Material dropped by beings of chaos."
 Note = "<表示ID:290.01>"
 
 Item 889
-Name = "ビッグバンの結晶"
-Description = "【素材】宇宙の誕生から生じた素材アイテム"
+Name = "Big Bang Crystal"
+Description = "[Material] Material created from the birth of the universe."
 Note = "<表示ID:290.01>"
 
 Item 890
-Name = "ビッグクランチの結晶"
-Description = "【素材】宇宙の終焉から生じた素材アイテム"
+Name = "Big Crunch Crystal"
+Description = "[Material] Material created from the end of the universe."
 Note = "<表示ID:290.01>"
 
 Item 891
@@ -4494,308 +4494,308 @@ Description = ""
 Note = ""
 
 Item 900
-Name = "大きなメダル"
-Description = "【道具】世界中に散らばっている奇妙なメダル\r\n小さなメダルと比べて、格段に大きい"
+Name = "Large Medal"
+Description = "[Item] Strange medals that are scattered around the world. Remarkably bigger compared to Small Medals."
 Note = "<表示ID:32.001>"
 
 Item 901
-Name = "混沌薬草"
-Description = "【道具】対象：味方単体　効果：HP100000回復\r\n味方単体のHPを100000回復する未知の薬草"
+Name = "Chaos Herb"
+Description = "[Item] Target:Ally Effect:100,000 HP Recovery\r\nMedicinal herb that recovers 100,000 HP."
 Note = "<表示ID:3.001>"
 
 Item 902
-Name = "最終薬草"
-Description = "【道具】対象：味方単体　効果：HP全回復\r\n味方単体のHPを全回復する究極の薬草"
+Name = "Final Herb"
+Description = "[Item] Target:Ally Effect:100% HP Recovery\r\nMedicinal herb that recovers all HP."
 Note = "<表示ID:3.002>"
 
 Item 903
-Name = "カオスの霊薬"
-Description = "【道具】対象：味方単体　効果：MP2500回復\r\n味方単体のMPを2500回復する究極の霊薬"
+Name = "Chaos Miracle Drug"
+Description = "[Item] Target:Ally Effect:2,500 MP Recovery\r\nMiraculous medicine that recovers 2,500 MP."
 Note = "<表示ID:6.001>"
 
 Item 904
-Name = "最後の霊薬"
-Description = "【道具】対象：味方単体　効果：MP全回復\r\n味方単体のMPを全回復する究極の霊薬"
+Name = "Final Miracle Drug"
+Description = "[Item] Target:Ally Effect:100% MP Recovery\r\nMiraculous medicine that recovers all MP."
 Note = "<表示ID:6.001>"
 
 Item 905
-Name = "カオスドリンク"
-Description = "【道具】対象：味方単体　効果：最大SPの150%まで回復\r\n味方単体のSPを最大値以上に回復するドリンク"
+Name = "Chaos Drink"
+Description = "[Item] Target:Ally Effect:150% SP Recovery\r\nDrink that recovers 150% of one's max SP."
 Note = "<表示ID:8.001>"
 
 Item 906
-Name = "ファイナルドリンク"
-Description = "【道具】対象：味方単体　効果：最大SPの200%まで回復\r\n味方単体のSPを最大値以上に大幅回復するドリンク"
+Name = "Final Drink"
+Description = "[Item] Target:Ally Effect:200% SP Recovery\r\nDrink that recovers 200% of one's max SP."
 Note = "<表示ID:8.002>"
 
 Item 907
-Name = "不死鳥の魂"
-Description = "【道具】対象：味方全体（控え含む）　効果：完全蘇生\r\n味方全体を全快状態で蘇生させる神秘の秘宝"
+Name = "Phoenix Soul"
+Description = "[Item] Target:All Allies (including reserve)\r\nEffect:Revive (100% HP)\r\nMystical treasure that completely revives all allies."
 Note = "<待機メンバー含む>\r\n<表示ID:12.001>"
 
 Item 908
-Name = "グランドエリクシル"
-Description = "【道具】対象：味方全体（控え含む）　効果：HP/MP/SP全回復・全状態異常治療\r\n味方全体のHPとMPおよびSP、あらゆる状態異常を治療する神薬"
+Name = "Grand Elixir"
+Description = "[Item] Target:All Allies (including reserve)\r\nEffect:100% HP/MP/SP Recovery, Cure All Status\r\nDivine elixir that fully recovers the entire party's HP, MP, and SP, and cures all of their status ailments."
 Note = "<待機メンバー含む>\r\n<表示ID:22.001>"
 
 Item 909
-Name = "ハーピーの無限羽"
-Description = "【道具】一度行った場所に瞬間移動できる魔法の羽\r\n何度使ってもなくならない"
+Name = "Infinite Harpy Feather"
+Description = "[Item] Magical feather that transports the party to previously visited locations in an instant. Will not be consumed no matter how many times it's used."
 Note = "<ワープアイテム>\r\n<表示ID:23.001>"
 
 Item 910
-Name = "導きの無限糸"
-Description = "【道具】ダンジョンから地上にワープできる魔法の糸\r\n何度使ってもなくならない"
+Name = "Infinite Thread of Guidance"
+Description = "[Item] Magic thread that warps the party to the entrance of the current dungeon. Will not be consumed no matter how many times it's used."
 Note = "<表示ID:23.003>"
 
 Item 911
-Name = "巨人の秘薬"
-Description = "【道具】対象：味方全体　効果：最大HP1.5倍\r\n一時的に味方全体の最大HPを増強する"
+Name = "Giant's Secret Medicine"
+Description = "[Item] Target:All Allies | Effect:Max HP*1.5\r\nTemporarily increases the max HP of all allies by 50%."
 Note = "<順番発動 8770,8771>\r\n<表示ID:23.003>"
 
 Item 912
-Name = "魔神の秘薬"
-Description = "【道具】対象：味方全体　効果：最大HP2倍\r\n一時的に味方全体の最大HPを大幅増強する"
+Name = "Fiend's Secret Medicine"
+Description = "[Item] Target:All Allies | Effect:Max HP*2\r\nTemporarily doubles max HP of all allies."
 Note = "<順番発動 8774,8775>\r\n<表示ID:23.003>"
 
 Item 913
-Name = "賢者の秘薬"
-Description = "【道具】対象：味方全体　効果：最大MP1.5倍\r\n一時的に味方全体の最大MPを増強する"
+Name = "Sage's Secret Medicine"
+Description = "[Item] Target:All Allies | Effect:Max MP*1.5\r\nTemporarily increases the max MP of all allies by 50%."
 Note = "<順番発動 8776,8777>\r\n<表示ID:23.003>"
 
 Item 914
-Name = "女神の秘薬"
-Description = "【道具】対象：味方全体　効果：最大MP2倍\r\n一時的に味方全体の最大MPを大幅増強する"
+Name = "Goddess' Secret Medicine"
+Description = "[Item] Target:All Allies | Effect:Max MP*2\r\nTemporarily doubles max MP of all allies."
 Note = "<順番発動 8778,8779>\r\n<表示ID:23.003>"
 
 Item 915
-Name = "闘士の秘薬"
-Description = "【道具】対象：味方全体　効果：最大SP1.5倍\r\n一時的に味方全体の最大SPを増強する"
+Name = "Fighter's Secret Medicine"
+Description = "[Item] Target:All Allies | Effect:Max SP*1.5\r\nTemporarily increases the max SP of all allies by 50%."
 Note = "<順番発動 8780,8781>\r\n<表示ID:23.003>"
 
 Item 916
-Name = "鬼神の秘薬"
-Description = "【道具】対象：味方全体　効果：最大SP2倍\r\n一時的に味方全体の最大SPを大幅増強する"
+Name = "Demon's Secret Medicine"
+Description = "[Item] Target:All Allies | Effect:Max SP*2\r\nTemporarily doubles max SP of all allies."
 Note = "<順番発動 8782,8783>\r\n<表示ID:23.003>"
 
 Item 917
-Name = "カンフル"
-Description = "【道具】対象：味方全体　効果：即死・昇天・絶頂無効\r\nあらゆる即死効果を予防するカンフル剤"
+Name = "Camphor"
+Description = "[Item] Target:All Allies | Effect:Instant KO Immunity\r\nCamphor that protects allies from Instant Death, Ascension, and Climax."
 Note = "<表示ID:22.001>\r\n<表示ID:23.003>"
 
 Item 918
-Name = "ワクチン"
-Description = "【道具】対象：味方全体　効果：状態異常予防\r\nあらゆる状態異常を予防するワクチン剤"
+Name = "Vaccine"
+Description = "[Item] Target:All Allies | Effect:All Status Immunity\r\nVaccine that protects allies from all status ailments."
 Note = "<表示ID:23.003>"
 
 Item 919
-Name = "命の神実"
-Description = "【道具】対象：味方単体　効果：最大HP上昇\r\n最大HPを10上昇させる希少な木の実"
+Name = "Fruit of Life"
+Description = "[Item] Target:Ally Effect: Increase Max HP\r\nA rare fruit that increases max HP by 10"
 Note = "<表示ID:24.001>"
 
 Item 920
-Name = "不思議な神実"
-Description = "【道具】対象：味方単体　効果：最大MP上昇\r\n最大MPを10上昇させる希少な木の実"
+Name = "Mysterious Fruit"
+Description = "[Item] Target:Ally Effect: Increase Max MP\r\nA rare fruit that increases max MP by 10"
 Note = "<表示ID:25.001>"
 
 Item 921
-Name = "力の神種"
-Description = "【道具】対象：味方単体　効果：攻撃力上昇\r\n攻撃力を5上昇させる希少な種"
+Name = "Fruit of Power"
+Description = "[Item] Target:Ally Effect: Increase Attack Power\r\nA rare seed that increases attack power by 5"
 Note = "<表示ID:26.001>"
 
 Item 922
-Name = "守りの神種"
-Description = "【道具】対象：味方単体　効果：防御力上昇\r\n防御力を5上昇させる希少な種"
+Name = "Fruit of Defense"
+Description = "[Item] Target:Ally Effect: Defense Up\r\nA rare seed that increases defense by 5"
 Note = "<表示ID:27.001>"
 
 Item 923
-Name = "魔力の神種"
-Description = "【道具】対象：味方単体　効果：魔力上昇\r\n魔力を5上昇させる希少な種"
+Name = "Fruit of Magic"
+Description = "[Item] Target:Ally Effect: Magic Up\r\nA rare seed that increases magic by 5"
 Note = "<表示ID:28.001>"
 
 Item 924
-Name = "精神の神種"
-Description = "【道具】対象：味方単体　効果：精神力上昇\r\n精神力を5上昇させる希少な種"
+Name = "Fruit of Spirit"
+Description = "[Item] Target:Ally Effect: Willpower Up\r\nA rare seed that increases willpower by 5"
 Note = "<表示ID:29.001>"
 
 Item 925
-Name = "素早さの神種"
-Description = "【道具】対象：味方単体　効果：素早さ上昇\r\n素早さを5上昇させる希少な種"
+Name = "Fruit of Agility"
+Description = "[Item] Target:Ally Effect: Agility Up\r\nA rare seed that increases agility by 5"
 Note = "<表示ID:30.001>"
 
 Item 926
-Name = "器用さの神種"
-Description = "【道具】対象：味方単体　効果：器用さ上昇\r\n器用さを5上昇させる希少な種"
+Name = "Fruit of Skill"
+Description = "[Item] Target:Ally Effect: Dexterity Up\r\nA rare seed that increases dexterity by 5"
 Note = "<表示ID:31.001>"
 
 Item 927
-Name = "禁忌の種"
-Description = "【道具】対象：味方単体　効果：経験値上昇\r\n経験値を究極的に上昇させる神秘の種"
+Name = "Forbidden Seed"
+Description = "[Item] Target:Ally Effect:Experience Up\r\nA mystical seed that ultimately boosts experience points"
 Note = "<基本経験値上昇 800000>\r\n<表示ID:39.001>"
 
 Item 928
-Name = "禁職の種"
-Description = "【道具】対象：味方単体　効果：職業経験値上昇\r\n職業経験値を究極的に上昇させる神秘の種"
+Name = "Forbidden Job Seed"
+Description = "[Item] Target:Ally Effect:Job EXP Up\r\nA mystical seed that ultimately boosts job experience points"
 Note = "<職業経験値上昇 22000>\r\n<表示ID:43.001>"
 
 Item 929
-Name = "禁種の種"
-Description = "【道具】対象：味方単体　効果：種族経験値上昇\r\n種族経験値を究極的に上昇させる神秘の種"
+Name = "Forbidden Race Seed"
+Description = "[Item] Target:Ally Effect:Race Exp Up\r\nA mystical seed that ultimately boosts race experience points"
 Note = "<種族経験値上昇 22000>\r\n<表示ID:47.001>"
 
 Item 930
-Name = "カオスルビー"
-Description = "【魔石】威力：４Ｓ　対象：敵全体　属性：炎\r\n混沌の炎の魔力を秘めた精霊石"
+Name = "Chaos Ruby"
+Description = "[Magic Stone] Power:[SSSS] 3300% \\*\\i[144](Dex) Target:All Foes\r\nEffect:Auto-Hit, No Crit\r\nSpirit jewel infused with chaos fire magic."
 Note = "<表示ID:54.001>\r\n<スキル命中率:100>"
 
 Item 931
-Name = "カオスアメジスト"
-Description = "【魔石】威力：４Ｓ　対象：敵全体　属性：氷\r\n混沌の氷の魔力を秘めた精霊石"
+Name = "Chaos Amethyst"
+Description = "[Magic Stone] Power:[SSSS] 3300% \\*\\i[145](Dex) Target:All Foes\r\nEffect:Auto-Hit, No Crit\r\nSpirit jewel infused with chaos ice magic."
 Note = "<表示ID:58.001>\r\n<スキル命中率:100>"
 
 Item 932
-Name = "カオストルマリン"
-Description = "【魔石】威力：４Ｓ　対象：敵全体　属性：雷\r\n混沌の雷の魔力を秘めた精霊石"
+Name = "Chaos Tourmaline"
+Description = "[Magic Stone] Power:[SSSS] 3300% \\*\\i[146](Dex) Target:All Foes\r\nEffect:Auto-Hit, No Crit\r\nSpirit jewel infused with chaos lightning magic."
 Note = "<表示ID:62.001>\r\n<スキル命中率:100>"
 
 Item 933
-Name = "カオスエメラルド"
-Description = "【魔石】威力：４Ｓ　対象：敵全体　属性：風\r\n混沌の風の魔力を秘めた精霊石"
+Name = "Chaos Emerald"
+Description = "[Magic Stone] Power:[SSSS] 3300% \\*\\i[149](Dex) Target:All Foes\r\nEffect:Auto-Hit, No Crit\r\nSpirit jewel infused with chaos wind magic."
 Note = "<表示ID:66.001>\r\n<スキル命中率:100>"
 
 Item 934
-Name = "カオストパーズ"
-Description = "【魔石】威力：４Ｓ　対象：敵全体　属性：土\r\n混沌の土の魔力を秘めた精霊石"
+Name = "Chaos Topaz"
+Description = "[Magic Stone] Power:[SSSS] 3300% \\*\\i[148](Dex) Target:All Foes\r\nEffect:Auto-Hit, No Crit\r\nSpirit jewel infused with chaos earth magic."
 Note = "<表示ID:70.001>\r\n<スキル命中率:100>"
 
 Item 935
-Name = "カオスサファイア"
-Description = "【魔石】威力：４Ｓ　対象：敵全体　属性：水\r\n混沌の水の魔力を秘めた精霊石"
+Name = "Chaos Sapphire"
+Description = "[Magic Stone] Power:[SSSS] 3300% \\*\\i[147](Dex) Target:All Foes\r\nEffect:Auto-Hit, No Crit\r\nSpirit jewel infused with chaos water magic."
 Note = "<表示ID:74.001>\r\n<スキル命中率:100>"
 
 Item 936
-Name = "カオスダイヤモンド"
-Description = "【魔石】威力：４Ｓ　対象：敵全体　属性：聖\r\n混沌の聖なる魔力を秘めた精霊石"
+Name = "Chaos Diamond"
+Description = "[Magic Stone] Power:[SSSS] 3300% \\*\\i[150](Dex) Target:All Foes\r\nEffect:Auto-Hit, No Crit\r\nSpirit jewel infused with chaos holy magic."
 Note = "<表示ID:78.001>\r\n<スキル命中率:100>"
 
 Item 937
-Name = "カオスクリスタル"
-Description = "【魔石】威力：４Ｓ　対象：敵全体　属性：闇\r\n混沌の闇の魔力を秘めた精霊石"
+Name = "Chaos Crystal"
+Description = "[Magic Stone] Power:[SSSS] 3300% \\*\\i[151](Dex) Target:All Foes\r\nEffect:Auto-Hit, No Crit\r\nSpirit jewel infused with chaos darkness magic."
 Note = "<表示ID:82.001>\r\n<スキル命中率:100>"
 
 Item 938
-Name = "聖皇の手裏剣"
-Description = "【消耗武器】威力：４Ｓ　対象：敵単体　属性：聖\r\n敵に投げ付けて攻撃する聖皇の手裏剣"
+Name = "Holy Emperor Shuriken"
+Description = "[Combat Tool] Power:[SSSS] 1400% \\*\\i[150](Atk+Dex) Target:Foe\r\nEffect:Auto-Hit, Ignore Def, No Crit\r\nLarge holy emperor shuriken made for throwing."
 Note = "<表示ID:107.001>\r\n<投擲専用>\r\n<スキル命中率:300>"
 
 Item 939
-Name = "闇皇の手裏剣"
-Description = "【消耗武器】威力：４Ｓ　対象：敵単体　属性：闇\r\n敵に投げ付けて攻撃する闇皇の手裏剣"
+Name = "Dark Emperor Shuriken"
+Description = "[Combat Tool] Power:[SSSS] 1400% \\*\\i[151](Atk+Dex) Target:Foe\r\nEffect:Auto-Hit, Ignore Def, No Crit\r\nLarge dark emperor shuriken made for throwing."
 Note = "<表示ID:107.002>\r\n<投擲専用>\r\n<スキル命中率:300>"
 
 Item 940
-Name = "月虹の手裏剣"
-Description = "【消耗武器】威力：５Ｓ　対象：敵単体\r\n敵に投げ付けて攻撃する月虹の手裏剣"
+Name = "Moonbow Shuriken"
+Description = "[Combat Tool] Power:[ZZ] 2300% \\*\\i[151](Atk+Dex) Target:Foe\r\nEffect:Auto-Hit, Ignore Def, No Crit\r\nLarge moonbow shuriken made for throwing."
 Note = "<表示ID:107.003>\r\n<投擲専用>\r\n<スキル命中率:300>"
 
 Item 941
-Name = "無の手裏剣"
-Description = "【消耗武器】威力：５Ｓ　対象：敵単体\r\n敵に投げ付けて攻撃する無の手裏剣"
+Name = "Shuriken of Nothingness"
+Description = "[Combat Tool] Power:[ZZZZ] 3300% \\*\\i[151](Atk+Dex) Target:Foe\r\nEffect:Auto-Hit, Ignore Def, No Crit\r\nLarge shuriken of nothingness made for throwing."
 Note = "<表示ID:107.004>\r\n<投擲専用>\r\n<スキル命中率:300>"
 
 Item 942
-Name = "最後の手裏剣"
-Description = "【消耗武器】威力：６Ｓ　対象：敵単体\r\n敵に投げ付けて攻撃する最後の手裏剣"
+Name = "Final Shuriken"
+Description = "[Combat Tool] Power:[N/A] 4800% \\*\\i[151](Atk+Dex) Target:Foe\r\nEffect:Auto-Hit, Ignore Def, No Crit\r\nLarge final shuriken made for throwing."
 Note = "<表示ID:107.005>\r\n<投擲専用>\r\n<スキル命中率:300>"
 
 Item 943
-Name = "ヒヒイロカネ"
-Description = "【素材】精錬するとヒヒイロカネ製の武具が生産可能になる鉱石\r\nこれだけあれば、いくらでもヒヒイロカネ製品が作れるだろう"
+Name = "Scarletite"
+Description = "[Material] Crimson metal that can be forged into many armaments. Allows forging of holy emperor equipment"
 Note = "<表示ID:158.001>"
 
 Item 944
-Name = "虚竜鱗石"
-Description = "【素材】精錬すると虚竜鱗製の武具が生産可能になる鉱石\r\nこれだけあれば、いくらでも虚竜鱗製品が作れるだろう"
+Name = "Void Dragon Scale Fossil"
+Description = "[Material] Scales of Koron, which can be forged into many armaments. Allows forging of dark emperor equipment"
 Note = "<表示ID:158.002>"
 
 Item 945
-Name = "月虹の結晶"
-Description = "【素材】精錬すると月虹製の武具が生産可能になる鉱石\r\nこれだけあれば、いくらでも月虹製品が作れるだろう"
+Name = "Moonbow Crystal"
+Description = "[Material] Legendary crystal that can be forged into many armaments. Allows forging of moonbow items."
 Note = "<表示ID:158.003>"
 
 Item 946
-Name = "無の欠片"
-Description = "【素材】精錬すると混沌の武具が生産可能になる鉱石\r\nこれだけあれば、いくらでも無の製品が作れるだろう"
+Name = "Fragment of Nothingness"
+Description = "[Material] A fragment of chaos that can be forged into many armaments. Allows forging of nothingness items."
 Note = "<表示ID:158.004>"
 
 Item 947
-Name = "最終鉱石"
-Description = "【素材】精錬すると最後の武具が生産可能になる鉱石\r\nこれだけあれば、いくらでも最後の製品が作れるだろう"
+Name = "Final Ore"
+Description = "[Material] An ore of chaos that can be forged into many armaments. Allows forging of final items."
 Note = "<表示ID:158.005>"
 
 Item 948
-Name = "封魔の石版"
-Description = "【貴重品】神の封印を解く効果があるという石版"
+Name = "Sealing Stone Tablet"
+Description = "[Key Item] A stone tablet said to have the power to break a god's seal"
 Note = "<表示ID:596.001>"
 
 Item 949
-Name = "森羅の石版"
-Description = "【貴重品】神の封印を解く効果があるという石版"
+Name = "Shinra Stone Tablet"
+Description = "[Key Item] A stone tablet said to have the power to break a god's seal"
 Note = "<表示ID:596.001>"
 
 Item 950
-Name = "大罪の石版"
-Description = "【貴重品】神の封印を解く効果があるという石版"
+Name = "Sin Stone Tablet"
+Description = "[Key Item] A stone tablet said to have the power to break a god's seal"
 Note = "<表示ID:596.001>"
 
 Item 951
-Name = "白の石版"
-Description = "【貴重品】神の封印を解く効果があるという石版"
+Name = "White Stone Tablet"
+Description = "[Key Item] A stone tablet said to have the power to break a god's seal"
 Note = "<表示ID:596.001>"
 
 Item 952
-Name = "黒の石版"
-Description = "【貴重品】神の封印を解く効果があるという石版"
+Name = "Black Stone Tablet"
+Description = "[Key Item] A stone tablet said to have the power to break a god's seal"
 Note = "<表示ID:596.001>"
 
 Item 953
-Name = "神鳴鍛冶製法"
-Description = "【貴重品】究極の神聖鍛冶製法が記されている混沌書"
+Name = "Divine Forge Method"
+Description = "[Key Item] A chaotic book that describes the ultimate holy forging method"
 Note = "<表示ID:596.001>"
 
 Item 954
-Name = "魔閤鍛冶製法"
-Description = "【貴重品】究極の魔王鍛冶製法が記されている混沌書"
+Name = "Monster Lord Forge Method"
+Description = "[Key Item] A chaotic book that describes the ultimate demon king forging method"
 Note = "<表示ID:596.001>"
 
 Item 955
-Name = "英雄鍛冶製法"
-Description = "【貴重品】究極の英雄鍛冶製法が記されている混沌書"
+Name = "Hero Forge Method"
+Description = "[Key Item] A chaotic book that describes the ultimate Hero forging method"
 Note = "<表示ID:596.001>"
 
 Item 956
-Name = "ヤマタイ究極鍛冶製法"
-Description = "【貴重品】ヤマタイに伝わる究極製法が記されている混沌書"
+Name = "Yamatai Ultimate Forge Method"
+Description = "[Key Item] A chaotic book that describes the ultimate method passed down in Yamatai"
 Note = "<表示ID:596.001>"
 
 Item 957
-Name = "邪神城の鍵"
-Description = "【貴重品】邪神城にある扉は全て開けられる秘密の鍵"
+Name = "Dark Goddess Castle Key"
+Description = "[Key Item] The secret key that can open all doors in the Dark Goddess Castle"
 Note = ""
 
 Item 958
-Name = "魔女秘薬製法"
-Description = "【貴重品】魔女の秘薬の作り方が描かれている秘伝の書"
+Name = "Witch's Secret Elixir Recipe"
+Description = "[Key Item] A secret book depicting how to make a witch's elixir"
 Note = "<表示ID:596.001>"
 
 Item 959
-Name = "永遠を誓う指輪"
-Description = "【貴重品】母ルシフィナから受け取った指輪。\r\n永遠を誓う相手に渡そう"
+Name = "Eternal Pledge Ring"
+Description = "[Key Item] The ring received from Mother Lucifina.\r\nGive it to someone you pledge eternity to."
 Note = "<表示ID:596.001>"
 
 Item 960
 Name = "Ruler Ruler"
-Description = "[Key Item】Secret key that can alter the balance of the world. Only usable on EASY or lower difficulties."
+Description = "[Key Item] Secret key that can alter the balance of the world. Only usable on EASY or lower difficulties."
 Note = "<表示ID:501.001>"
 
 Item 961
@@ -6924,8 +6924,8 @@ Description = ""
 Note = ""
 
 Item 1386
-Name = "Luka Holy Milk"
-Description = "[Item] Milk squeezed from Luka Holy."
+Name = "Luka Holly Milk"
+Description = "[Item] Milk squeezed from Luka Holly."
 Note = ""
 
 Item 1387
@@ -7170,7 +7170,7 @@ Note = ""
 
 Item 1435
 Name = "Six-Tailed Courtesan Milk"
-Description = "[Item] Milk squeezed from Six-Tailed Courtesan Milk."
+Description = "[Item] Milk squeezed from Six-Tailed Courtesan."
 Note = ""
 
 Item 1436
@@ -7200,1507 +7200,1507 @@ Note = ""
 
 Item 1441
 Name = "Alipheese the 15th Milk"
-Description = "[Item] Milk squeezed from Alipheese the 15th Milk."
+Description = "[Item] Milk squeezed from Alipheese the 15th."
 Note = ""
 
 Item 1442
-Name = "アモルドールのミルク"
-Description = "【道具】から搾ったミルク"
+Name = "Amor Doll Milk"
+Description = "[Item] Milk squeezed from Amor Doll."
 Note = ""
 
 Item 1443
-Name = "アモルラームのミルク"
-Description = "【道具】から搾ったミルク"
+Name = "Amor Rahm Milk"
+Description = "[Item] Milk squeezed from Amor Rahm."
 Note = ""
 
 Item 1444
-Name = "アモルリームのミルク"
-Description = "【道具】アモルリームから搾ったミルク"
+Name = "Amor Rihm Milk"
+Description = "[Item] Milk squeezed from Amor Rihm."
 Note = ""
 
 Item 1445
-Name = "ペルセポネーのミルク"
-Description = "【道具】ペルセポネーから搾ったミルク"
+Name = "Persephone Milk"
+Description = "[Item] Milk squeezed from Persephone."
 Note = ""
 
 Item 1446
-Name = "トリロバイトのミルク"
-Description = "【道具】トリロバイトから搾ったミルク"
+Name = "Trilobite Milk"
+Description = "[Item] Milk squeezed from Trilobite."
 Note = ""
 
 Item 1447
-Name = "ヘブンズゲートのミルク"
-Description = "【道具】ヘブンズゲートから搾ったミルク"
+Name = "Heaven's Gate Milk"
+Description = "[Item] Milk squeezed from Heaven's Gate."
 Note = ""
 
 Item 1448
-Name = "ネフィリムウェポンのミルク"
-Description = "【道具】ネフィリムウェポンから搾ったミルク"
+Name = "Nephilim Weapon Milk"
+Description = "[Item] Milk squeezed from Nephilim Weapon."
 Note = ""
 
 Item 1449
-Name = "ギガントウェポンのミルク"
-Description = "【道具】ギガントウェポンから搾ったミルク"
+Name = "Giganto Weapon Milk"
+Description = "[Item] Milk squeezed from Giganto Weapon."
 Note = ""
 
 Item 1450
-Name = "マリエルのミルク"
-Description = "【道具】マリエルから搾ったミルク"
+Name = "Mariel Milk"
+Description = "[Item] Milk squeezed from Mariel."
 Note = ""
 
 Item 1451
-Name = "淫乳天女のミルク"
-Description = "【道具】淫乳天女から搾ったミルク"
+Name = "Busty Tennyo Milk"
+Description = "[Item] Milk squeezed from Busty Tennyo."
 Note = ""
 
 Item 1452
-Name = "キメラテンタクルのミルク"
-Description = "【道具】キメラテンタクルから搾ったミルク"
+Name = "Chimera Tentacle Milk"
+Description = "[Item] Milk squeezed from Chimera Tentacle."
 Note = ""
 
 Item 1453
-Name = "グランディーネのミルク"
-Description = "【道具】グランディーネから搾ったミルク"
+Name = "Grandine Milk"
+Description = "[Item] Milk squeezed from Grandine."
 Note = ""
 
 Item 1454
-Name = "アリエルのミルク"
-Description = "【道具】アリエルから搾ったミルク"
+Name = "Ariel Milk"
+Description = "[Item] Milk squeezed from Ariel."
 Note = ""
 
 Item 1455
-Name = "ラナエルのミルク"
-Description = "【道具】ラナエルから搾ったミルク"
+Name = "Ranael Milk"
+Description = "[Item] Milk squeezed from Ranael."
 Note = ""
 
 Item 1456
-Name = "リファイールのミルク"
-Description = "【道具】リファイールから搾ったミルク"
+Name = "Leafael Milk"
+Description = "[Item] Milk squeezed from Leafael."
 Note = ""
 
 Item 1457
-Name = "ラプンツェルのミルク"
-Description = "【道具】ラプンツェルから搾ったミルク"
+Name = "Rapunzel Milk"
+Description = "[Item] Milk squeezed from Rapunzel."
 Note = ""
 
 Item 1458
-Name = "ナガエルのミルク"
-Description = "【道具】ナガエルから搾ったミルク"
+Name = "Nagael Milk"
+Description = "[Item] Milk squeezed from Nagael."
 Note = ""
 
 Item 1459
-Name = "キメラメデュラハンのミルク"
-Description = "【道具】キメラメデュラハンから搾ったミルク"
+Name = "Chimera Medullahan Milk"
+Description = "[Item] Milk squeezed from Chimera Medullahan."
 Note = ""
 
 Item 1460
-Name = "ノーマレンのミルク"
-Description = "【道具】ノーマレンから搾ったミルク"
+Name = "Gnomaren Milk"
+Description = "[Item] Milk squeezed from Gnomaren."
 Note = ""
 
 Item 1461
-Name = "ラタエルのミルク"
-Description = "【道具】ラタエルから搾ったミルク"
+Name = "Latael Milk"
+Description = "[Item] Milk squeezed from Latael."
 Note = ""
 
 Item 1462
-Name = "ガブリエラのミルク"
-Description = "【道具】ガブリエラから搾ったミルク"
+Name = "Gabriela Milk"
+Description = "[Item] Milk squeezed from Gabriela."
 Note = ""
 
 Item 1463
-Name = "ギリエルのミルク"
-Description = "【道具】ギリエルから搾ったミルク"
+Name = "Giriel Milk"
+Description = "[Item] Milk squeezed from Giriel."
 Note = ""
 
 Item 1464
-Name = "トルーパーロイドのミルク"
-Description = "【道具】トルーパーロイドから搾ったミルク"
+Name = "Trooperoid Milk"
+Description = "[Item] Milk squeezed from Trooperoid."
 Note = ""
 
 Item 1465
-Name = "サビリエルのミルク"
-Description = "【道具】サビリエルから搾ったミルク"
+Name = "Sabiriel Milk"
+Description = "[Item] Milk squeezed from Sabiriel."
 Note = ""
 
 Item 1466
-Name = "ウリエラのミルク"
-Description = "【道具】ウリエラから搾ったミルク"
+Name = "Uriela Milk"
+Description = "[Item] Milk squeezed from Uriela."
 Note = ""
 
 Item 1467
-Name = "ムズキエルのミルク"
-Description = "【道具】ムズキエルから搾ったミルク"
+Name = "Muzukiel Milk"
+Description = "[Item] Milk squeezed from Muzukiel."
 Note = ""
 
 Item 1468
-Name = "シルキエルのミルク"
-Description = "【道具】シルキエルから搾ったミルク"
+Name = "Silkiel Milk"
+Description = "[Item] Milk squeezed from Silkiel."
 Note = ""
 
 Item 1469
-Name = "サリエラのミルク"
-Description = "【道具】サリエラから搾ったミルク"
+Name = "Sariela Milk"
+Description = "[Item] Milk squeezed from Sariela."
 Note = ""
 
 Item 1470
-Name = "ベリエルのミルク"
-Description = "【道具】ベリエルから搾ったミルク"
+Name = "Berryelle Milk"
+Description = "[Item] Milk squeezed from Berryelle."
 Note = ""
 
 Item 1471
-Name = "キメラプラントのミルク"
-Description = "【道具】キメラプラントから搾ったミルク"
+Name = "Chimera Plant Milk"
+Description = "[Item] Milk squeezed from Chimera Plant."
 Note = ""
 
 Item 1472
-Name = "リヴァエルのミルク"
-Description = "【道具】リヴァエルから搾ったミルク"
+Name = "Revel Milk"
+Description = "[Item] Milk squeezed from Revel."
 Note = ""
 
 Item 1473
-Name = "ギガマンドラのミルク"
-Description = "【道具】ギガマンドラから搾ったミルク"
+Name = "Gigamander Milk"
+Description = "[Item] Milk squeezed from Gigamander."
 Note = ""
 
 Item 1474
-Name = "ハイヌウェレのミルク"
-Description = "【道具】ハイヌウェレから搾ったミルク"
+Name = "Hainuwele Milk"
+Description = "[Item] Milk squeezed from Hainuwele."
 Note = ""
 
 Item 1475
-Name = "ドッペルのミルク"
-Description = "【道具】ドッペルから搾ったミルク"
+Name = "Doppel Milk"
+Description = "[Item] Milk squeezed from Doppel."
 Note = ""
 
 Item 1476
-Name = "キメラタンのミルク"
-Description = "【道具】キメラタンから搾ったミルク"
+Name = "Chimera Tongue Milk"
+Description = "[Item] Milk squeezed from Chimera Tongue."
 Note = ""
 
 Item 1477
-Name = "キメラバグのミルク"
-Description = "【道具】キメラバグから搾ったミルク"
+Name = "Chimera Bug Milk"
+Description = "[Item] Milk squeezed from Chimera Bug."
 Note = ""
 
 Item 1478
-Name = "キメラスラッグのミルク"
-Description = "【道具】キメラスラッグから搾ったミルク"
+Name = "Chimera Slug Milk"
+Description = "[Item] Milk squeezed from Chimera Slug."
 Note = ""
 
 Item 1479
-Name = "キメラドリアードのミルク"
-Description = "【道具】キメラドリアードから搾ったミルク"
+Name = "Chimera Dryad Milk"
+Description = "[Item] Milk squeezed from Chimera Dryad."
 Note = ""
 
 Item 1480
-Name = "カトブレパスのミルク"
-Description = "【道具】カトブレパスから搾ったミルク"
+Name = "Catoblepas Milk"
+Description = "[Item] Milk squeezed from Catoblepas."
 Note = ""
 
 Item 1481
-Name = "テュポーンのミルク"
-Description = "【道具】テュポーンから搾ったミルク"
+Name = "Typhon Milk"
+Description = "[Item] Milk squeezed from Typhon."
 Note = ""
 
 Item 1482
-Name = "アンフィスバエナのミルク"
-Description = "【道具】アンフィスバエナから搾ったミルク"
+Name = "Amphisbaena Milk"
+Description = "[Item] Milk squeezed from Amphisbaena."
 Note = ""
 
 Item 1483
-Name = "ラプラスのミルク"
-Description = "【道具】ラプラスから搾ったミルク"
+Name = "Laplace Milk"
+Description = "[Item] Milk squeezed from Laplace."
 Note = ""
 
 Item 1484
-Name = "トラップテミスのミルク"
-Description = "【道具】トラップテミスから搾ったミルク"
+Name = "Themis Trap Milk"
+Description = "[Item] Milk squeezed from Themis Trap."
 Note = ""
 
 Item 1485
-Name = "ツクヨミのミルク"
-Description = "【道具】ツクヨミから搾ったミルク"
+Name = "Tsukuyomi Milk"
+Description = "[Item] Milk squeezed from Tsukuyomi."
 Note = ""
 
 Item 1486
-Name = "フーリエルのミルク"
-Description = "【道具】フーリエルから搾ったミルク"
+Name = "Furiel Milk"
+Description = "[Item] Milk squeezed from Furiel."
 Note = ""
 
 Item 1487
-Name = "ドレインプラントのミルク"
-Description = "【道具】ドレインプラントから搾ったミルク"
+Name = "Drain Plant Milk"
+Description = "[Item] Milk squeezed from Drain Plant."
 Note = ""
 
 Item 1488
-Name = "ドレインロイドのミルク"
-Description = "【道具】ドレインロイドから搾ったミルク"
+Name = "Drainroid Milk"
+Description = "[Item] Milk squeezed from Drainroid."
 Note = ""
 
 Item 1489
-Name = "ハンディロイドのミルク"
-Description = "【道具】ハンディロイドから搾ったミルク"
+Name = "Handyroid Milk"
+Description = "[Item] Milk squeezed from Handyroid."
 Note = ""
 
 Item 1490
-Name = "メタトローネのミルク"
-Description = "【道具】メタトローネから搾ったミルク"
+Name = "Metatronne Milk"
+Description = "[Item] Milk squeezed from Metatronne."
 Note = ""
 
 Item 1491
-Name = "サンダルフォーネのミルク"
-Description = "【道具】サンダルフォーネから搾ったミルク"
+Name = "Sandalphone Milk"
+Description = "[Item] Milk squeezed from Sandalphone."
 Note = ""
 
 Item 1492
-Name = "メイドエンジェルのミルク"
-Description = "【道具】メイドエンジェルから搾ったミルク"
+Name = "Angel Maid Milk"
+Description = "[Item] Milk squeezed from Angel Maid."
 Note = ""
 
 Item 1493
-Name = "コックエンジェルのミルク"
-Description = "【道具】コックエンジェルから搾ったミルク"
+Name = "Angel Cook Milk"
+Description = "[Item] Milk squeezed from Angel Cook."
 Note = ""
 
 Item 1494
-Name = "ワイティエルのミルク"
-Description = "【道具】ワイティエルから搾ったミルク"
+Name = "Whiteyel Milk"
+Description = "[Item] Milk squeezed from Whiteyel."
 Note = ""
 
 Item 1495
-Name = "ラミアンロイドのミルク"
-Description = "【道具】ラミアンロイドから搾ったミルク"
+Name = "Lamiaroid Milk"
+Description = "[Item] Milk squeezed from Lamiaroid."
 Note = ""
 
 Item 1496
-Name = "小イリアスのミルク"
-Description = "【道具】小イリアスから搾ったミルク"
+Name = "Small Ilias Milk"
+Description = "[Item] Milk squeezed from Small Ilias."
 Note = ""
 
 Item 1497
-Name = "プルエルのミルク"
-Description = "【道具】プルエルから搾ったミルク"
+Name = "Puruel Milk"
+Description = "[Item] Milk squeezed from Puruel."
 Note = ""
 
 Item 1498
-Name = "イヌエルのミルク"
-Description = "【道具】イヌエルから搾ったミルク"
+Name = "Inuel Milk"
+Description = "[Item] Milk squeezed from Inuel."
 Note = ""
 
 Item 1499
-Name = "エンディエルのミルク"
-Description = "【道具】エンディエルから搾ったミルク"
+Name = "Endiel Milk"
+Description = "[Item] Milk squeezed from Endiel."
 Note = ""
 
 Item 1500
-Name = "ホルミエルのミルク"
-Description = "【道具】ホルミエルから搾ったミルク"
+Name = "Holmiel Milk"
+Description = "[Item] Milk squeezed from Holmiel."
 Note = ""
 
 Item 1501
-Name = "レプリカントのミルク"
-Description = "【道具】レプリカントから搾ったミルク"
+Name = "Replicant Milk"
+Description = "[Item] Milk squeezed from Replicant."
 Note = ""
 
 Item 1502
-Name = "キメラプリズンのミルク"
-Description = "【道具】キメラプリズンから搾ったミルク"
+Name = "Chimera Prison Milk"
+Description = "[Item] Milk squeezed from Chimera Prison."
 Note = ""
 
 Item 1503
-Name = "ジルフィのミルク"
-Description = "【道具】ジルフィから搾ったミルク"
+Name = "Zylphe Milk"
+Description = "[Item] Milk squeezed from Zylphe."
 Note = ""
 
 Item 1504
-Name = "マイコニドのミルク"
-Description = "【道具】マイコニドから搾ったミルク"
+Name = "Myconid Milk"
+Description = "[Item] Milk squeezed from Myconid."
 Note = ""
 
 Item 1505
-Name = "マタンゴのミルク"
-Description = "【道具】マタンゴから搾ったミルク"
+Name = "Matango Milk"
+Description = "[Item] Milk squeezed from Matango."
 Note = ""
 
 Item 1506
-Name = "メルティモスのミルク"
-Description = "【道具】メルティモスから搾ったミルク"
+Name = "Melty Moth Milk"
+Description = "[Item] Milk squeezed from Melty Moth."
 Note = ""
 
 Item 1507
-Name = "メルティローズのミルク"
-Description = "【道具】メルティローズから搾ったミルク"
+Name = "Melty Rose Milk"
+Description = "[Item] Milk squeezed from Melty Rose."
 Note = ""
 
 Item 1508
-Name = "キメラドリアード・ボアのミルク"
-Description = "【道具】キメラドリアード・ボアから搾ったミルク"
+Name = "Chimera Dryad Vore Milk"
+Description = "[Item] Milk squeezed from Chimera Dryad Vore."
 Note = ""
 
 Item 1509
-Name = "コスモスのミルク"
-Description = "【道具】コスモスから搾ったミルク"
+Name = "Cosmos Milk"
+Description = "[Item] Milk squeezed from Cosmos."
 Note = ""
 
 Item 1510
-Name = "帽子のアリスのミルク"
-Description = "【道具】帽子のアリスから搾ったミルク"
+Name = "Hat Alice Milk"
+Description = "[Item] Milk squeezed from Hat Alice."
 Note = ""
 
 Item 1511
-Name = "傘のアリスのミルク"
-Description = "【道具】傘のアリスから搾ったミルク"
+Name = "Umbrella Alice Milk"
+Description = "[Item] Milk squeezed from Umbrella Alice."
 Note = ""
 
 Item 1512
-Name = "赤のアリスのミルク"
-Description = "【道具】赤のアリスから搾ったミルク"
+Name = "Red Alice Milk"
+Description = "[Item] Milk squeezed from Red Alice."
 Note = ""
 
 Item 1513
-Name = "冬のアリスのミルク"
-Description = "【道具】冬のアリスから搾ったミルク"
+Name = "Winter Alice Milk"
+Description = "[Item] Milk squeezed from Winter Alice."
 Note = ""
 
 Item 1514
-Name = "剣のアリスのミルク"
-Description = "【道具】剣のアリスから搾ったミルク"
+Name = "Sword Alice Milk"
+Description = "[Item] Milk squeezed from Sword Alice."
 Note = ""
 
 Item 1515
-Name = "武のアリスのミルク"
-Description = "【道具】武のアリスから搾ったミルク"
+Name = "Martial Alice Milk"
+Description = "[Item] Milk squeezed from Martial Alice."
 Note = ""
 
 Item 1516
-Name = "白のアリスのミルク"
-Description = "【道具】白のアリスから搾ったミルク"
+Name = "White Alice Milk"
+Description = "[Item] Milk squeezed from White Alice."
 Note = ""
 
 Item 1517
-Name = "侍のアリスのミルク"
-Description = "【道具】侍のアリスから搾ったミルク"
+Name = "Samurai Alice Milk"
+Description = "[Item] Milk squeezed from Samurai Alice."
 Note = ""
 
 Item 1518
-Name = "忍のアリスのミルク"
-Description = "【道具】忍のアリスから搾ったミルク"
+Name = "Ninja Alice Milk"
+Description = "[Item] Milk squeezed from Ninja Alice."
 Note = ""
 
 Item 1519
-Name = "猟のアリスのミルク"
-Description = "【道具】猟のアリスから搾ったミルク"
+Name = "Hunter Alice Milk"
+Description = "[Item] Milk squeezed from Hunter Alice."
 Note = ""
 
 Item 1520
-Name = "舞のアリスのミルク"
-Description = "【道具】舞のアリスから搾ったミルク"
+Name = "Dancer Alice Milk"
+Description = "[Item] Milk squeezed from Dancer Alice."
 Note = ""
 
 Item 1521
-Name = "呪のアリスのミルク"
-Description = "【道具】呪のアリスから搾ったミルク"
+Name = "Curse Alice Milk"
+Description = "[Item] Milk squeezed from Curse Alice."
 Note = ""
 
 Item 1522
-Name = "兎のアリスのミルク"
-Description = "【道具】兎のアリスから搾ったミルク"
+Name = "Rabbit Alice Milk"
+Description = "[Item] Milk squeezed from Rabbit Alice."
 Note = ""
 
 Item 1523
-Name = "蝕のアリスのミルク"
-Description = "【道具】蝕のアリスから搾ったミルク"
+Name = "Devouring Alice Milk"
+Description = "[Item] Milk squeezed from Devouring Alice."
 Note = ""
 
 Item 1524
-Name = "海のアリスのミルク"
-Description = "【道具】海のアリスから搾ったミルク"
+Name = "Sea Alice Milk"
+Description = "[Item] Milk squeezed from Sea Alice."
 Note = ""
 
 Item 1525
-Name = "魔のアリスのミルク"
-Description = "【道具】魔のアリスから搾ったミルク"
+Name = "Magical Alice Milk"
+Description = "[Item] Milk squeezed from Magical Alice."
 Note = ""
 
 Item 1526
-Name = "アルカンシエルのミルク"
-Description = "【道具】アルカンシエルから搾ったミルク"
+Name = "Arc-En-Ciel Milk"
+Description = "[Item] Milk squeezed from Arc-En-Ciel."
 Note = ""
 
 Item 1527
-Name = "ヨモツシコメのミルク"
-Description = "【道具】ヨモツシコメから搾ったミルク"
+Name = "Yomotsu-Shikome Milk"
+Description = "[Item] Milk squeezed from Yomotsu-Shikome."
 Note = ""
 
 Item 1528
-Name = "フェルメサーラのミルク"
-Description = "【道具】フェルメサーラから搾ったミルク"
+Name = "Ferme Sara Milk"
+Description = "[Item] Milk squeezed from Ferme Sara."
 Note = ""
 
 Item 1529
-Name = "エンジェルグールのミルク"
-Description = "【道具】エンジェルグールから搾ったミルク"
+Name = "Angel Ghoul Milk"
+Description = "[Item] Milk squeezed from Angel Ghoul."
 Note = ""
 
 Item 1530
-Name = "ドラゴンゾンビ娘のミルク"
-Description = "【道具】ドラゴンゾンビ娘から搾ったミルク"
+Name = "Dragon Zombie Milk"
+Description = "[Item] Milk squeezed from Dragon Zombie."
 Note = ""
 
 Item 1531
-Name = "シグルドリーヴァのミルク"
-Description = "【道具】シグルドリーヴァから搾ったミルク"
+Name = "Sigrdrifa Milk"
+Description = "[Item] Milk squeezed from Sigrdrifa."
 Note = ""
 
 Item 1532
-Name = "サルラック娘のミルク"
-Description = "【道具】サルラック娘から搾ったミルク"
+Name = "Sarlacc Girl Milk"
+Description = "[Item] Milk squeezed from Sarlacc Girl."
 Note = ""
 
 Item 1533
-Name = "シリエルのミルク"
-Description = "【道具】シリエルから搾ったミルク"
+Name = "Siriel Milk"
+Description = "[Item] Milk squeezed from Siriel."
 Note = ""
 
 Item 1534
-Name = "エグエルのミルク"
-Description = "【道具】エグエルから搾ったミルク"
+Name = "Eggiel Milk"
+Description = "[Item] Milk squeezed from Eggiel."
 Note = ""
 
 Item 1535
-Name = "キメラチャリオッツのミルク"
-Description = "【道具】キメラチャリオッツから搾ったミルク"
+Name = "Chimera Chariot Milk"
+Description = "[Item] Milk squeezed from Chimera Chariot."
 Note = ""
 
 Item 1536
-Name = "ナイトロイドのミルク"
-Description = "【道具】ナイトロイドから搾ったミルク"
+Name = "Knightroid Milk"
+Description = "[Item] Milk squeezed from Knightroid."
 Note = ""
 
 Item 1537
-Name = "アサシンロイドのミルク"
-Description = "【道具】アサシンロイドから搾ったミルク"
+Name = "Assassinroid Milk"
+Description = "[Item] Milk squeezed from Assassinroid."
 Note = ""
 
 Item 1538
-Name = "ユリエルのミルク"
-Description = "【道具】ユリエルから搾ったミルク"
+Name = "Yuriel Milk"
+Description = "[Item] Milk squeezed from Yuriel."
 Note = ""
 
 Item 1539
-Name = "メルシエルのミルク"
-Description = "【道具】メルシエルから搾ったミルク"
+Name = "Melciel Milk"
+Description = "[Item] Milk squeezed from Melciel."
 Note = ""
 
 Item 1540
-Name = "セバスイールのミルク"
-Description = "【道具】セバスイールから搾ったミルク"
+Name = "Sebasiel Milk"
+Description = "[Item] Milk squeezed from Sebasiel."
 Note = ""
 
 Item 1541
-Name = "アプティエルのミルク"
-Description = "【道具】アプティエルから搾ったミルク"
+Name = "Aptiel Milk"
+Description = "[Item] Milk squeezed from Aptiel."
 Note = ""
 
 Item 1542
-Name = "クリオネラのミルク"
-Description = "【道具】クリオネラから搾ったミルク"
+Name = "Clionera Milk"
+Description = "[Item] Milk squeezed from Clionera."
 Note = ""
 
 Item 1543
-Name = "ロズニエルのミルク"
-Description = "【道具】ロズニエルから搾ったミルク"
+Name = "Roseniel Milk"
+Description = "[Item] Milk squeezed from Roseniel."
 Note = ""
 
 Item 1544
-Name = "キュビエルのミルク"
-Description = "【道具】キュビエルから搾ったミルク"
+Name = "Cubeiel Milk"
+Description = "[Item] Milk squeezed from Cubeiel."
 Note = ""
 
 Item 1545
-Name = "ワミエルのミルク"
-Description = "【道具】ワミエルから搾ったミルク"
+Name = "Wormiel Milk"
+Description = "[Item] Milk squeezed from Wormiel."
 Note = ""
 
 Item 1546
-Name = "イリアスのミルク"
-Description = "【道具】イリアスから搾ったミルク"
+Name = "Ilias Milk"
+Description = "[Item] Milk squeezed from Ilias."
 Note = ""
 
 Item 1547
-Name = "カオスイリアスのミルク"
-Description = "【道具】カオスイリアスから搾ったミルク"
+Name = "Chaos Ilias Milk"
+Description = "[Item] Milk squeezed from Chaos Ilias."
 Note = ""
 
 Item 1548
-Name = "フェンリルのミルク"
-Description = "【道具】フェンリルから搾ったミルク"
+Name = "Fenrir Milk"
+Description = "[Item] Milk squeezed from Fenrir."
 Note = ""
 
 Item 1549
-Name = "ガルキマセラのミルク"
-Description = "【道具】ガルキマセラから搾ったミルク"
+Name = "Garchimacera Milk"
+Description = "[Item] Milk squeezed from Garchimacera."
 Note = ""
 
 Item 1550
-Name = "グレートオークのミルク"
-Description = "【道具】グレートオークから搾ったミルク"
+Name = "Great Orc Milk"
+Description = "[Item] Milk squeezed from Great Orc."
 Note = ""
 
 Item 1551
-Name = "ランキュバスのミルク"
-Description = "【道具】ランキュバスから搾ったミルク"
+Name = "Lancubus Milk"
+Description = "[Item] Milk squeezed from Lancubus."
 Note = ""
 
 Item 1552
-Name = "リーキュバスのミルク"
-Description = "【道具】リーキュバスから搾ったミルク"
+Name = "Leecubus Milk"
+Description = "[Item] Milk squeezed from Leecubus."
 Note = ""
 
 Item 1553
-Name = "クィーンエヴァのミルク"
-Description = "【道具】クィーンエヴァから搾ったミルク"
+Name = "Queen Eva Milk"
+Description = "[Item] Milk squeezed from Queen Eva."
 Note = ""
 
 Item 1554
-Name = "バフォメットのミルク"
-Description = "【道具】バフォメットから搾ったミルク"
+Name = "Baphomet Milk"
+Description = "[Item] Milk squeezed from Baphomet."
 Note = ""
 
 Item 1555
-Name = "くだんのミルク"
-Description = "【道具】くだんから搾ったミルク"
+Name = "Kudan Milk"
+Description = "[Item] Milk squeezed from Kudan."
 Note = ""
 
 Item 1556
-Name = "ヴェルラウネのミルク"
-Description = "【道具】ヴェルラウネから搾ったミルク"
+Name = "Velraune"
+Description = "[Item] Milk squeezed from Velraune."
 Note = ""
 
 Item 1557
-Name = "ネペンデスのミルク"
-Description = "【道具】ネペンデスから搾ったミルク"
+Name = "Nependeath Milk"
+Description = "[Item] Milk squeezed from Nependeath."
 Note = ""
 
 Item 1558
-Name = "薔薇貴族のミルク"
-Description = "【道具】薔薇貴族から搾ったミルク"
+Name = "Noble Rose Milk"
+Description = "[Item] Milk squeezed from Noble Rose."
 Note = ""
 
 Item 1559
-Name = "モルボル娘のミルク"
-Description = "【道具】モルボル娘から搾ったミルク"
+Name = "Malboro Girl Milk"
+Description = "[Item] Milk squeezed from Malboro Girl."
 Note = ""
 
 Item 1560
-Name = "華音のミルク"
-Description = "【道具】華音から搾ったミルク"
+Name = "Kanon Milk"
+Description = "[Item] Milk squeezed from Kanon."
 Note = ""
 
 Item 1561
-Name = "ボムスライムのミルク"
-Description = "【道具】ボムスライムから搾ったミルク"
+Name = "Bomb Slime Milk"
+Description = "[Item] Milk squeezed from Bomb Slime."
 Note = ""
 
 Item 1562
-Name = "リキュルスライムのミルク"
-Description = "【道具】リキュルスライムから搾ったミルク"
+Name = "Liqueur Slime Milk"
+Description = "[Item] Milk squeezed from Liqueur Slime."
 Note = ""
 
 Item 1563
-Name = "スライムプリンセスのミルク"
-Description = "【道具】スライムプリンセスから搾ったミルク"
+Name = "Slime Princess Milk"
+Description = "[Item] Milk squeezed from Slime Princess."
 Note = ""
 
 Item 1564
-Name = "アスラのミルク"
-Description = "【道具】アスラから搾ったミルク"
+Name = "Ashura Milk"
+Description = "[Item] Milk squeezed from Ashura."
 Note = ""
 
 Item 1565
-Name = "ギガスライムのミルク"
-Description = "【道具】ギガスライムから搾ったミルク"
+Name = "Giga Slime Milk"
+Description = "[Item] Milk squeezed from Giga Slime."
 Note = ""
 
 Item 1566
-Name = "禍撫のミルク"
-Description = "【道具】禍撫から搾ったミルク"
+Name = "Kanade Milk"
+Description = "[Item] Milk squeezed from Kanade."
 Note = ""
 
 Item 1567
-Name = "ラミアンナイトメアのミルク"
-Description = "【道具】ラミアンナイトメアから搾ったミルク"
+Name = "Nightmare Lamia Milk"
+Description = "[Item] Milk squeezed from Nightmare Lamia."
 Note = ""
 
 Item 1568
-Name = "ロードメデューサのミルク"
-Description = "【道具】ロードメデューサから搾ったミルク"
+Name = "Medusa Lord Milk"
+Description = "[Item] Milk squeezed from Medusa Lord."
 Note = ""
 
 Item 1569
-Name = "パンドラのミルク"
-Description = "【道具】パンドラから搾ったミルク"
+Name = "Pandora Milk"
+Description = "[Item] Milk squeezed from Pandora."
 Note = ""
 
 Item 1570
-Name = "グリモワールのミルク"
-Description = "【道具】グリモワールから搾ったミルク"
+Name = "Grimoire Milk"
+Description = "[Item] Milk squeezed from Grimoire."
 Note = ""
 
 Item 1571
-Name = "ウツボ娘のミルク"
-Description = "【道具】ウツボ娘から搾ったミルク"
+Name = "Moray Girl Milk"
+Description = "[Item] Milk squeezed from Moray Girl."
 Note = ""
 
 Item 1572
-Name = "アンシェントスキュラのミルク"
-Description = "【道具】アンシェントスキュラから搾ったミルク"
+Name = "Ancient Scylla Milk"
+Description = "[Item] Milk squeezed from Ancient Scylla."
 Note = ""
 
 Item 1573
-Name = "ガタノソアのミルク"
-Description = "【道具】ガタノソアから搾ったミルク"
+Name = "Ghatanothoa"
+Description = "[Item] Milk squeezed from Ghatanothoa."
 Note = ""
 
 Item 1574
-Name = "アスモデウスのミルク"
-Description = "【道具】アスモデウスから搾ったミルク"
+Name = "Asmodeus Milk"
+Description = "[Item] Milk squeezed from Asmodeus."
 Note = ""
 
 Item 1575
-Name = "ヨルムンガンドのミルク"
-Description = "【道具】ヨルムンガンドから搾ったミルク"
+Name = "Jormungandr Milk"
+Description = "[Item] Milk squeezed from Jormungandr."
 Note = ""
 
 Item 1576
-Name = "三口あかなめのミルク"
-Description = "【道具】三口あかなめから搾ったミルク"
+Name = "Three-Mouth Akaname Milk"
+Description = "[Item] Milk squeezed from Three-Mouth Akaname."
 Note = ""
 
 Item 1577
-Name = "猫神のミルク"
-Description = "【道具】猫神から搾ったミルク"
+Name = "Nekogami Milk"
+Description = "[Item] Milk squeezed from Nekogami."
 Note = ""
 
 Item 1578
-Name = "銀鬼のミルク"
-Description = "【道具】銀鬼から搾ったミルク"
+Name = "Silver Oni Milk"
+Description = "[Item] Milk squeezed from Silver Oni."
 Note = ""
 
 Item 1579
-Name = "陰陽蠍のミルク"
-Description = "【道具】陰陽蠍から搾ったミルク"
+Name = "Scorpio Taoist Milk"
+Description = "[Item] Milk squeezed from Scorpio Taoist."
 Note = ""
 
 Item 1580
-Name = "ケット・シーのミルク"
-Description = "【道具】ケット・シーから搾ったミルク"
+Name = "Cait Sith Milk"
+Description = "[Item] Milk squeezed from Cait Sith."
 Note = ""
 
 Item 1581
-Name = "ガルフォックスのミルク"
-Description = "【道具】ガルフォックスから搾ったミルク"
+Name = "Gal Fox Milk"
+Description = "[Item] Milk squeezed from Gal Fox."
 Note = ""
 
 Item 1582
-Name = "ジュラエイビスのミルク"
-Description = "【道具】ジュラエイビスから搾ったミルク"
+Name = "Jura Aevis Milk"
+Description = "[Item] Milk squeezed from Jura Aevis."
 Note = ""
 
 Item 1583
-Name = "マルコシアス娘のミルク"
-Description = "【道具】マルコシアス娘から搾ったミルク"
+Name = "Marchosias Milk"
+Description = "[Item] Milk squeezed from Marchosias Girl."
 Note = ""
 
 Item 1584
-Name = "アルケオプテリクスのミルク"
-Description = "【道具】アルケオプテリクスから搾ったミルク"
+Name = "Archaeopteryx Milk"
+Description = "[Item] Milk squeezed from Archaeopteryx."
 Note = ""
 
 Item 1585
-Name = "ローキュバスのミルク"
-Description = "【道具】ローキュバスから搾ったミルク"
+Name = "Loccubus Milk"
+Description = "[Item] Milk squeezed from Loccubus."
 Note = ""
 
 Item 1586
-Name = "テスタロッサのミルク"
-Description = "【道具】テスタロッサから搾ったミルク"
+Name = "Testarossa Milk"
+Description = "[Item] Milk squeezed from Testarossa."
 Note = ""
 
 Item 1587
-Name = "上級海賊マーメイドのミルク"
-Description = "【道具】上級海賊マーメイドから搾ったミルク"
+Name = "Elite Mermaid Pirate Milk"
+Description = "[Item] Milk squeezed from Elite Mermaid Pirate."
 Note = ""
 
 Item 1588
-Name = "グレイトマーマンのミルク"
-Description = "【道具】グレイトマーマンから搾ったミルク"
+Name = "Great Merman Milk"
+Description = "[Item] Milk squeezed from Great Merman."
 Note = ""
 
 Item 1589
-Name = "ギガドライアドのミルク"
-Description = "【道具】ギガドライアドから搾ったミルク"
+Name = "Giga Dryad Milk"
+Description = "[Item] Milk squeezed from Giga Dryad."
 Note = ""
 
 Item 1590
-Name = "アンブロシアのミルク"
-Description = "【道具】アンブロシアから搾ったミルク"
+Name = "Ambrosia Milk"
+Description = "[Item] Milk squeezed from Ambrosia."
 Note = ""
 
 Item 1591
-Name = "シヴァのミルク"
-Description = "【道具】シヴァから搾ったミルク"
+Name = "Shiva Milk"
+Description = "[Item] Milk squeezed from Shiva."
 Note = ""
 
 Item 1592
-Name = "アルキュバスのミルク"
-Description = "【道具】アルキュバスから搾ったミルク"
+Name = "Arcubus Milk"
+Description = "[Item] Milk squeezed from Arcubus."
 Note = ""
 
 Item 1593
-Name = "レスキュバスのミルク"
-Description = "【道具】レスキュバスから搾ったミルク"
+Name = "Lescubus Milk"
+Description = "[Item] Milk squeezed from Lescubus."
 Note = ""
 
 Item 1594
-Name = "グラナバスのミルク"
-Description = "【道具】グラナバスから搾ったミルク"
+Name = "Granabass Milk"
+Description = "[Item] Milk squeezed from Granabass."
 Note = ""
 
 Item 1595
-Name = "ユーのミルク"
-Description = "【道具】ユーから搾ったミルク"
+Name = "Yuu Milk"
+Description = "[Item] Milk squeezed from Yuu."
 Note = ""
 
 Item 1596
-Name = "レイのミルク"
-Description = "【道具】レイから搾ったミルク"
+Name = "Rei Milk"
+Description = "[Item] Milk squeezed from Rei."
 Note = ""
 
 Item 1597
-Name = "魅凪のミルク"
-Description = "【道具】魅凪から搾ったミルク"
+Name = "Minagi Milk"
+Description = "[Item] Milk squeezed from Minagi."
 Note = ""
 
 Item 1598
-Name = "アリスフィーズ3世のミルク"
-Description = "【道具】アリスフィーズ3世から搾ったミルク"
+Name = "Alipheese the 3rd Milk"
+Description = "[Item] Milk squeezed from Alipheese the 3rd."
 Note = ""
 
 Item 1599
-Name = "アリスフィーズ4世のミルク"
-Description = "【道具】アリスフィーズ4世から搾ったミルク"
+Name = "Alipheese the 4th Milk"
+Description = "[Item] Milk squeezed from Alipheese the 4th."
 Note = ""
 
 Item 1600
-Name = "アリスフィーズ5世のミルク"
-Description = "【道具】アリスフィーズ5世から搾ったミルク"
+Name = "Alipheese the 5th Milk"
+Description = "[Item] Milk squeezed from Alipheese the 5th."
 Note = ""
 
 Item 1601
-Name = "アリスフィーズ6世のミルク"
-Description = "【道具】アリスフィーズ6世から搾ったミルク"
+Name = "Alipheese the 6th Milk"
+Description = "[Item] Milk squeezed from Alipheese the 6th."
 Note = ""
 
 Item 1602
-Name = "アリスフィーズ7世のミルク"
-Description = "【道具】アリスフィーズ7世から搾ったミルク"
+Name = "Alipheese the 7th Milk"
+Description = "[Item] Milk squeezed from Alipheese the 7th."
 Note = ""
 
 Item 1603
-Name = "アリスフィーズ9世のミルク"
-Description = "【道具】アリスフィーズ9世から搾ったミルク"
+Name = "Alipheese the 9th Milk"
+Description = "[Item] Milk squeezed from Alipheese the 9th."
 Note = ""
 
 Item 1604
-Name = "アリスフィーズ10世のミルク"
-Description = "【道具】アリスフィーズ10世から搾ったミルク"
+Name = "Alipheese the 10th Milk"
+Description = "[Item] Milk squeezed from Alipheese the 10th."
 Note = ""
 
 Item 1605
-Name = "アリスフィーズ11+12世のミルク"
-Description = "【道具】アリスフィーズ11+12世から搾ったミルク"
+Name = "Alipheese the 11+12th Milk"
+Description = "[Item] Milk squeezed from Alipheese the 11+12th."
 Note = ""
 
 Item 1606
-Name = "アリスフィーズ13世のミルク"
-Description = "【道具】アリスフィーズ13世から搾ったミルク"
+Name = "Alipheese the 13th Milk"
+Description = "[Item] Milk squeezed from Alipheese the 13th."
 Note = ""
 
 Item 1607
-Name = "アリスフィーズ14世のミルク"
-Description = "【道具】アリスフィーズ14世から搾ったミルク"
+Name = "Alipheese the 14th Milk"
+Description = "[Item] Milk squeezed from Alipheese the 14th."
 Note = ""
 
 Item 1608
-Name = "ハーゲンベックのミルク"
-Description = "【道具】ハーゲンベックから搾ったミルク"
+Name = "Hargenbeck Milk"
+Description = "[Item] Milk squeezed from Hargenbeck."
 Note = ""
 
 Item 1609
-Name = "ベック・ザ・ビーストのミルク"
-Description = "【道具】ベック・ザ・ビーストから搾ったミルク"
+Name = "Beck the Beast Milk"
+Description = "[Item] Milk squeezed from Beck the Beast."
 Note = ""
 
 Item 1610
-Name = "サンタマリアのミルク"
-Description = "【道具】サンタマリアから搾ったミルク"
+Name = "Santa Maria Milk"
+Description = "[Item] Milk squeezed from Santa Maria."
 Note = ""
 
 Item 1611
-Name = "セントメイデンのミルク"
-Description = "【道具】セントメイデンから搾ったミルク"
+Name = "Saint Maiden Milk"
+Description = "[Item] Milk squeezed from Saint Maiden."
 Note = ""
 
 Item 1612
-Name = "切り裂きエリスのミルク"
-Description = "【道具】切り裂きエリスから搾ったミルク"
+Name = "Slicing Ellis Milk"
+Description = "[Item] Milk squeezed from Slicing Ellis."
 Note = ""
 
 Item 1613
-Name = "シャウトマータのミルク"
-Description = "【道具】シャウトマータから搾ったミルク"
+Name = "Shout Mata Milk"
+Description = "[Item] Milk squeezed from Shout Mata."
 Note = ""
 
 Item 1614
-Name = "ジャイアントセーラのミルク"
-Description = "【道具】ジャイアントセーラから搾ったミルク"
+Name = "Giant Serra Milk"
+Description = "[Item] Milk squeezed from Giant Serra."
 Note = ""
 
 Item 1615
-Name = "パイズリ人形Mk.2のミルク"
-Description = "【道具】パイズリ人形Mk.2から搾ったミルク"
+Name = "Paizuri Doll Mk.2 Milk"
+Description = "[Item] Milk squeezed from Paizuri Doll Mk.II."
 Note = ""
 
 Item 1616
-Name = "ラブマータのミルク"
-Description = "【道具】ラブマータから搾ったミルク"
+Name = "Love Mata Milk"
+Description = "[Item] Milk squeezed from Love Mata."
 Note = ""
 
 Item 1617
-Name = "ブラヴァツキーのミルク"
-Description = "【道具】ブラヴァツキーから搾ったミルク"
+Name = "Blavatsky Milk"
+Description = "[Item] Milk squeezed from Blavatsky."
 Note = ""
 
 Item 1618
-Name = "決戦人型兵器アグニのミルク"
-Description = "【道具】決戦人型兵器アグニから搾ったミルク"
+Name = "Humanoid Decisive Weapon Agni Milk"
+Description = "[Item] Milk squeezed from Humanoid Decisive Weapon Agni."
 Note = ""
 
 Item 1619
-Name = "快楽人形・雅姫のミルク"
-Description = "【道具】快楽人形・雅姫から搾ったミルク"
+Name = "Pleasure Doll Miyabihime"
+Description = "[Item] Milk squeezed from Pleasure Doll Miyabihime."
 Note = ""
 
 Item 1620
-Name = "影紬のミルク"
-Description = "【道具】影紬から搾ったミルク"
+Name = "Kagetsumugi Milk"
+Description = "[Item] Milk squeezed from Kagetsumugi."
 Note = ""
 
 Item 1621
-Name = "黄泉蜘蛛のミルク"
-Description = "【道具】黄泉蜘蛛から搾ったミルク"
+Name = "Yomigumo Milk"
+Description = "[Item] Milk squeezed from Yomigumo."
 Note = ""
 
 Item 1622
-Name = "魁狐々のミルク"
-Description = "【道具】魁狐々から搾ったミルク"
+Name = "Kaiko Kitsune Milk"
+Description = "[Item] Milk squeezed from Kaiko Kitsune."
 Note = ""
 
 Item 1623
-Name = "蘭天狗のミルク"
-Description = "【道具】蘭天狗から搾ったミルク"
+Name = "Rantengu Milk"
+Description = "[Item] Milk squeezed from Rantengu."
 Note = ""
 
 Item 1624
-Name = "混沌のアリスのミルク"
-Description = "【道具】黒のアリスから搾ったミルク"
+Name = "Chaos Alice Milk"
+Description = "[Item] Milk squeezed from Black Alice."
 Note = ""
 
 Item 1625
-Name = "ナンキュバスのミルク"
-Description = "【道具】ナンキュバスから搾ったミルク"
+Name = "Nancubus Milk"
+Description = "[Item] Milk squeezed from Nancubus."
 Note = ""
 
 Item 1626
-Name = "パビルサグのミルク"
-Description = "【道具】パビルサグから搾ったミルク"
+Name = "Pabilsag Milk"
+Description = "[Item] Milk squeezed from Pabilsag."
 Note = ""
 
 Item 1627
-Name = "マンイーターのミルク"
-Description = "【道具】マンイーターから搾ったミルク"
+Name = "Maneater Milk"
+Description = "[Item] Milk squeezed from Maneater."
 Note = ""
 
 Item 1628
-Name = "古代竜のミルク"
-Description = "【道具】古代竜から搾ったミルク"
+Name = "Ancient Dragon Milk"
+Description = "[Item] Milk squeezed from Ancient Dragon."
 Note = ""
 
 Item 1629
-Name = "ロアのミルク"
-Description = "【道具】ロアから搾ったミルク"
+Name = "Loa Milk"
+Description = "[Item] Milk squeezed from Loa."
 Note = ""
 
 Item 1630
-Name = "魔列車のミルク"
-Description = "【道具】魔列車から搾ったミルク"
+Name = "Monster Train Milk"
+Description = "[Item] Milk squeezed from Monster Train."
 Note = ""
 
 Item 1631
-Name = "ハイバフォメットのミルク"
-Description = "【道具】ハイバフォメットから搾ったミルク"
+Name = "High Baphomet Milk"
+Description = "[Item] Milk squeezed from High Baphomet."
 Note = ""
 
 Item 1632
-Name = "ローグエルフのミルク"
-Description = "【道具】ローグエルフから搾ったミルク"
+Name = "Rogue Elf Milk"
+Description = "[Item] Milk squeezed from Rogue Elf."
 Note = ""
 
 Item 1633
-Name = "蛭蟲のミルク"
-Description = "【道具】蛭蟲から搾ったミルク"
+Name = "Hiruko Milk"
+Description = "[Item] Milk squeezed from Hiruko."
 Note = ""
 
 Item 1634
-Name = "マガツカルラのミルク"
-Description = "【道具】マガツカルラから搾ったミルク"
+Name = "Magatsu-Karura Milk"
+Description = "[Item] Milk squeezed from Magatsu-Karura."
 Note = ""
 
 Item 1635
-Name = "ガーゴイル娘のミルク"
-Description = "【道具】ガーゴイル娘から搾ったミルク"
+Name = "Gargoyle Girl Milk"
+Description = "[Item] Milk squeezed from Gargoyle Girl."
 Note = ""
 
 Item 1636
-Name = "アテナのミルク"
-Description = "【道具】アテナから搾ったミルク"
+Name = "Athena Milk"
+Description = "[Item] Milk squeezed from Athena."
 Note = ""
 
 Item 1637
-Name = "リリスオリジンのミルク"
-Description = "【道具】リリスオリジンから搾ったミルク"
+Name = "Lilith Origin Milk"
+Description = "[Item] Milk squeezed from Lilith Origin."
 Note = ""
 
 Item 1638
-Name = "エルベティエ・カナデのミルク"
-Description = "【道具】エルベティエ・カナデから搾ったミルク"
+Name = "Erubetie Kanade Milk"
+Description = "[Item] Milk squeezed from Erubetie Kanade."
 Note = ""
 
 Item 1639
-Name = "阿吽のミルク"
-Description = "【道具】阿吽から搾ったミルク"
+Name = "Aun Milk"
+Description = "[Item] Milk squeezed from Aun."
 Note = ""
 
 Item 1640
-Name = "ドラゴンヘッドのミルク"
-Description = "【道具】ドラゴンヘッドから搾ったミルク"
+Name = "Dragon Head Milk"
+Description = "[Item] Milk squeezed from Dragon Head."
 Note = ""
 
 Item 1641
-Name = "モンストロのミルク"
-Description = "【道具】モンストロから搾ったミルク"
+Name = "Monstro Milk"
+Description = "[Item] Milk squeezed from Monstro."
 Note = ""
 
 Item 1642
-Name = "ネプチューンのミルク"
-Description = "【道具】ネプチューンから搾ったミルク"
+Name = "Neptune Milk"
+Description = "[Item] Milk squeezed from Neptune."
 Note = ""
 
 Item 1643
-Name = "タオのミルク"
-Description = "【道具】タオから搾ったミルク"
+Name = "Tao Milk"
+Description = "[Item] Milk squeezed from Tao."
 Note = ""
 
 Item 1644
-Name = "沙蛇のミルク"
-Description = "【道具】沙蛇から搾ったミルク"
+Name = "Saja Milk"
+Description = "[Item] Milk squeezed from Saja."
 Note = ""
 
 Item 1645
-Name = "アリスフィーズのミルク"
-Description = "【道具】アリスフィーズから搾ったミルク"
+Name = "Alipheese Milk"
+Description = "[Item] Milk squeezed from Alipheese."
 Note = ""
 
 Item 1646
-Name = "カオスフィーズのミルク"
-Description = "【道具】カオスフィーズから搾ったミルク"
+Name = "Chaos Alipheese Milk"
+Description = "[Item] Milk squeezed from Chaos Alipheese."
 Note = ""
 
 Item 1647
-Name = "失墜の玉座のミルク"
-Description = "【道具】失墜の玉座から搾ったミルク"
+Name = "Fallen Throne Milk"
+Description = "[Item] Milk squeezed from Fallen Throne."
 Note = ""
 
 Item 1648
-Name = "ダブルアンデッドのミルク"
-Description = "【道具】ダブルアンデッドから搾ったミルク"
+Name = "Double Undead Milk"
+Description = "[Item] Milk squeezed from Double Undead."
 Note = ""
 
 Item 1649
-Name = "イズンのミルク"
-Description = "【道具】イズンから搾ったミルク"
+Name = "Idun Milk"
+Description = "[Item] Milk squeezed from Idun."
 Note = ""
 
 Item 1650
-Name = "カースエンジェルズのミルク"
-Description = "【道具】カースエンジェルズから搾ったミルク"
+Name = "Curse Angel Milk"
+Description = "[Item] Milk squeezed from Curse Angel."
 Note = ""
 
 Item 1651
-Name = "アルジェミニのミルク"
-Description = "【道具】アルジェミニから搾ったミルク"
+Name = "Algemini Milk"
+Description = "[Item] Milk squeezed from Algemini."
 Note = ""
 
 Item 1652
-Name = "エルジェミニのミルク"
-Description = "【道具】エルジェミニから搾ったミルク"
+Name = "Elgemini Milk"
+Description = "[Item] Milk squeezed from Elgemini."
 Note = ""
 
 Item 1653
-Name = "ネリスのミルク"
-Description = "【道具】ネリスから搾ったミルク"
+Name = "Neris Milk"
+Description = "[Item] Milk squeezed from Neris."
 Note = ""
 
 Item 1654
-Name = "アピロ・ラゴスのミルク"
-Description = "【道具】アピロ・ラゴスから搾ったミルク"
+Name = "Apiro Lagos Milk"
+Description = "[Item] Milk squeezed from Apiro Lagos."
 Note = ""
 
 Item 1655
-Name = "シェムハザのミルク"
-Description = "【道具】シェムハザから搾ったミルク"
+Name = "Samyaza Milk"
+Description = "[Item] Milk squeezed from Samyaza."
 Note = ""
 
 Item 1656
-Name = "アグレイブのミルク"
-Description = "【道具】アグレイブから搾ったミルク"
+Name = "Agrave Milk"
+Description = "[Item] Milk squeezed from Agrave."
 Note = ""
 
 Item 1657
-Name = "エクス・ソニアのミルク"
-Description = "【道具】エクス・ソニアから搾ったミルク"
+Name = "EX Sonya Milk"
+Description = "[Item] Milk squeezed from EX Sonya."
 Note = ""
 
 Item 1658
-Name = "アンゴルモアのミルク"
-Description = "【道具】アンゴルモアから搾ったミルク"
+Name = "Angolmois Milk"
+Description = "[Item] Milk squeezed from Angolmois."
 Note = ""
 
 Item 1659
-Name = "スターマのミルク"
-Description = "【道具】スターマから搾ったミルク"
+Name = "Starma Milk"
+Description = "[Item] Milk squeezed from Starma."
 Note = ""
 
 Item 1660
-Name = "ラジャーラのミルク"
-Description = "【道具】ラジャーラから搾ったミルク"
+Name = "Rajara Milk"
+Description = "[Item] Milk squeezed from Rajara."
 Note = ""
 
 Item 1661
-Name = "メギドリアードのミルク"
-Description = "【道具】メギドリアードから搾ったミルク"
+Name = "Megiddryad Milk"
+Description = "[Item] Milk squeezed from Megiddryad."
 Note = ""
 
 Item 1662
-Name = "エグセラのミルク"
-Description = "【道具】エグセラから搾ったミルク"
+Name = "Exsera Milk"
+Description = "[Item] Milk squeezed from Exsera."
 Note = ""
 
 Item 1663
-Name = "アプサラスのミルク"
-Description = "【道具】アプサラスから搾ったミルク"
+Name = "Apsara Milk"
+Description = "[Item] Milk squeezed from Apsara."
 Note = ""
 
 Item 1664
-Name = "アザゼルのミルク"
-Description = "【道具】アザゼルから搾ったミルク"
+Name = "Azazel Milk"
+Description = "[Item] Milk squeezed from Azazel."
 Note = ""
 
 Item 1665
-Name = "グリゴリのミルク"
-Description = "【道具】グリゴリから搾ったミルク"
+Name = "Grigori Milk"
+Description = "[Item] Milk squeezed from Grigori."
 Note = ""
 
 Item 1666
-Name = "クレオ・アドラのミルク"
-Description = "【道具】クレオ・アドラから搾ったミルク"
+Name = "Cleo Adra Milk"
+Description = "[Item] Milk squeezed from Cleo Adra."
 Note = ""
 
 Item 1667
-Name = "マガツオオミカミのミルク"
-Description = "【道具】マガツオオミカミから搾ったミルク"
+Name = "Magatsu-Omikami Milk"
+Description = "[Item] Milk squeezed from Magatsu-Omikami."
 Note = ""
 
 Item 1668
-Name = "ゾルオクトのミルク"
-Description = "【道具】ゾルオクトから搾ったミルク"
+Name = "Zoloct Milk"
+Description = "[Item] Milk squeezed from Zoloct."
 Note = ""
 
 Item 1669
-Name = "ティアマトのミルク"
-Description = "【道具】ティアマトから搾ったミルク"
+Name = "Tiamat Milk"
+Description = "[Item] Milk squeezed from Tiamat."
 Note = ""
 
 Item 1670
-Name = "シンギュラリティのミルク"
-Description = "【道具】シンギュラリティから搾ったミルク"
+Name = "Singularity Milk"
+Description = "[Item] Milk squeezed from Singularity."
 Note = ""
 
 Item 1671
-Name = "奉仕種族のミルク"
-Description = "【道具】奉仕種族から搾ったミルク"
+Name = "Serviceborne Milk"
+Description = "[Item] Milk squeezed from Serviceborne."
 Note = ""
 
 Item 1672
-Name = "落とし子のミルク"
-Description = "【道具】落とし子から搾ったミルク"
+Name = "Forsaken Spawn Milk"
+Description = "[Item] Milk squeezed from Forsaken Spawn."
 Note = ""
 
 Item 1673
-Name = "シスエルのミルク"
-Description = "【道具】シスエルから搾ったミルク"
+Name = "Sisel Milk"
+Description = "[Item] Milk squeezed from Sisel."
 Note = ""
 
 Item 1674
-Name = "エクスキュウビのミルク"
-Description = "【道具】エクスキュウビから搾ったミルク"
+Name = "EX-Kyubi Milk"
+Description = "[Item] Milk squeezed from EX-Kyubi."
 Note = ""
 
 Item 1675
-Name = "フレールのミルク"
-Description = "【道具】フレールから搾ったミルク"
+Name = "Frere Milk"
+Description = "[Item] Milk squeezed from Frere."
 Note = ""
 
 Item 1676
-Name = "ブラッディドラゴンのミルク"
-Description = "【道具】ブラッディドラゴンから搾ったミルク"
+Name = "Bloody Dragon Milk"
+Description = "[Item] Milk squeezed from Bloody Dragon."
 Note = ""
 
 Item 1677
-Name = "アプティルトのミルク"
-Description = "【道具】アプティルトから搾ったミルク"
+Name = "Aptilt Milk"
+Description = "[Item] Milk squeezed from Aptilt."
 Note = ""
 
 Item 1678
-Name = "アムナリオのミルク"
-Description = "【道具】アムナリオから搾ったミルク"
+Name = "Amunario Milk"
+Description = "[Item] Milk squeezed from Amunario."
 Note = ""
 
 Item 1679
-Name = "サマエルのミルク"
-Description = "【道具】サマエルから搾ったミルク"
+Name = "Samael Milk"
+Description = "[Item] Milk squeezed from Samael."
 Note = ""
 
 Item 1680
-Name = "シャドウアサシンのミルク"
-Description = "【道具】シャドウアサシンから搾ったミルク"
+Name = "Shadow Assassin Milk"
+Description = "[Item] Milk squeezed from Shadow Assassin."
 Note = ""
 
 Item 1681
-Name = "正体不明1のミルク"
-Description = "【道具】正体不明1から搾ったミルク"
+Name = "Unknown 1 Milk"
+Description = "[Item] Milk squeezed from Unknown 1."
 Note = ""
 
 Item 1682
-Name = "正体不明2のミルク"
-Description = "【道具】正体不明2から搾ったミルク"
+Name = "Unknown 2 Milk"
+Description = "[Item] Milk squeezed from Unknown 2."
 Note = ""
 
 Item 1683
-Name = "正体不明3のミルク"
-Description = "【道具】正体不明3から搾ったミルク"
+Name = "Unknown 3 Milk"
+Description = "[Item] Milk squeezed from Unknown 3."
 Note = ""
 
 Item 1684
-Name = "正体不明4のミルク"
-Description = "【道具】正体不明4から搾ったミルク"
+Name = "Unknown 4 Milk"
+Description = "[Item] Milk squeezed from Unknown 4."
 Note = ""
 
 Item 1685
-Name = "正体不明5のミルク"
-Description = "【道具】正体不明5から搾ったミルク"
+Name = "Unknown 5 Milk"
+Description = "[Item] Milk squeezed from Unknown 5."
 Note = ""
 
 Item 1686
-Name = "バンシィのミルク"
-Description = "【道具】バンシィから搾ったミルク"
+Name = "Banshee Milk"
+Description = "[Item] Milk squeezed from Banshee."
 Note = ""
 
 Item 1687
-Name = "ボアバンシィのミルク"
-Description = "【道具】ボアバンシィから搾ったミルク"
+Name = "Vore Banshee Milk"
+Description = "[Item] Milk squeezed from Vore Banshee."
 Note = ""
 
 Item 1688
-Name = "ワールドドロウンのミルク"
-Description = "【道具】ワールドドロウンから搾ったミルク"
+Name = "World Drown Milk"
+Description = "[Item] Milk squeezed from World Drown."
 Note = ""
 
 Item 1689
-Name = "パズズのミルク"
-Description = "【道具】パズズから搾ったミルク"
+Name = "Pazuzu Milk"
+Description = "[Item] Milk squeezed from Pazuzu."
 Note = ""
 
 Item 1690
-Name = "マステマのミルク"
-Description = "【道具】マステマから搾ったミルク"
+Name = "Mastema Milk"
+Description = "[Item] Milk squeezed from Mastema."
 Note = ""
 
 Item 1691
-Name = "ノーライフキングのミルク"
-Description = "【道具】ノーライフキングから搾ったミルク"
+Name = "No Life King Milk"
+Description = "[Item] Milk squeezed from No Life King."
 Note = ""
 
 Item 1692
-Name = "アメノハヅチのミルク"
-Description = "【道具】アメノハヅチから搾ったミルク"
+Name = "Ame no Hazuchi Milk"
+Description = "[Item] Milk squeezed from Ame no Hazuchi."
 Note = ""
 
 Item 1693
-Name = "八尺様のミルク"
-Description = "【道具】八尺様から搾ったミルク"
+Name = "Hasshaku-sama Milk"
+Description = "[Item] Milk squeezed from Hasshaku-sama."
 Note = ""
 
 Item 1694
-Name = "ニフタ・テロスのミルク"
-Description = "【道具】ニフタ・テロスから搾ったミルク"
+Name = "Nychta Telos Milk"
+Description = "[Item] Milk squeezed from Nychta Telos."
 Note = ""
 
 Item 1695
-Name = "アリスフィーズ11世のミルク"
-Description = "【道具】アリスフィーズ11世から搾ったミルク"
+Name = "Alipheese the 11th Milk"
+Description = "[Item] Milk squeezed from Alipheese the 11th."
 Note = ""
 
 Item 1696
-Name = "アリスフィーズ12世のミルク"
-Description = "【道具】アリスフィーズ12世から搾ったミルク"
+Name = "Alipheese the 12th Milk"
+Description = "[Item] Milk squeezed from Alipheese the 12th."
 Note = ""
 
 Item 1697
-Name = "ゲシュタルトのミルク"
-Description = "【道具】ゲシュタルトから搾ったミルク"
+Name = "Gestalt Milk"
+Description = "[Item] Milk squeezed from Gestalt."
 Note = ""
 
 Item 1698
-Name = "ハイブマインドのミルク"
-Description = "【道具】ハイブマインドから搾ったミルク"
+Name = "Hivemind Milk"
+Description = "[Item] Milk squeezed from Hivemind."
 Note = ""
 
 Item 1699
-Name = "バアル・ゼブブのミルク"
-Description = "【道具】バアル・ゼブブから搾ったミルク"
+Name = "Baal Zebub Milk"
+Description = "[Item] Milk squeezed from Baal Zebub."
 Note = ""
 
 Item 1700
-Name = "マダムラミアのミルク"
-Description = "【道具】マダムラミアから搾ったミルク"
+Name = "Madame Lamia Milk"
+Description = "[Item] Milk squeezed from Madame Lamia."
 Note = ""
 
 Item 1701
-Name = "サタナキアのミルク"
-Description = "【道具】サタナキアから搾ったミルク"
+Name = "Satanachia Milk"
+Description = "[Item] Milk squeezed from Satanachia."
 Note = ""
 
 Item 1702
-Name = "七つの大罪のミルク"
-Description = "【道具】七つの大罪から搾ったミルク"
+Name = "Seven Deadly Sins Milk"
+Description = "[Item] Milk squeezed from Seven Deadly Sins."
 Note = ""
 
 Item 1703
-Name = "パイズリ人形終異体のミルク"
-Description = "【道具】パイズリ人形終異体から搾ったミルク"
+Name = "Final Paizuri Doll Milk"
+Description = "[Item] Milk squeezed from Final Paizuri Doll."
 Note = ""
 
 Item 1704
-Name = "アイアンメイデン終異体のミルク"
-Description = "【道具】アイアンメイデン終異体から搾ったミルク"
+Name = "Final Iron Maiden Milk"
+Description = "[Item] Milk squeezed from Final Iron Maiden."
 Note = ""
 
 Item 1705
-Name = "呪いの人形終異体のミルク"
-Description = "【道具】呪いの人形終異体から搾ったミルク"
+Name = "Final Cursed Doll Milk"
+Description = "[Item] Milk squeezed from Final Cursed Doll."
 Note = ""
 
 Item 1706
-Name = "マグダのミルク"
-Description = "【道具】マグダから搾ったミルク"
+Name = "Magda Milk"
+Description = "[Item] Milk squeezed from Magda."
 Note = ""
 
 Item 1707
-Name = "白天狐のミルク"
-Description = "【道具】白天狐から搾ったミルク"
+Name = "Hakutenko Milk"
+Description = "[Item] Milk squeezed from Hakutenko."
 Note = ""
 
 Item 1708
-Name = "妙法絡新婦のミルク"
-Description = "【道具】妙法絡新婦から搾ったミルク"
+Name = "Upaya Jorogumo Milk"
+Description = "[Item] Milk squeezed from Upaya Jorogumo."
 Note = ""
 
 Item 1709
-Name = "全てを識る者のミルク"
-Description = "【道具】全てを識る者から搾ったミルク"
+Name = "The All-Knowing Milk"
+Description = "[Item] Milk squeezed from The All-Knowing."
 Note = ""
 
 Item 1710
-Name = "エキドナのミルク"
-Description = "【道具】エキドナから搾ったミルク"
+Name = "Echidna Milk"
+Description = "[Item] Milk squeezed from Echidna."
 Note = ""
 
 Item 1711
-Name = "エキドナクィーンのミルク"
-Description = "【道具】エキドナクィーンから搾ったミルク"
+Name = "Echidna Queen Milk"
+Description = "[Item] Milk squeezed from Echidna Queen."
 Note = ""
 
 Item 1712
-Name = "クトゥルフのミルク"
-Description = "【道具】クトゥルフから搾ったミルク"
+Name = "Cthulhu Milk"
+Description = "[Item] Milk squeezed from Cthulhu."
 Note = ""
 
 Item 1713
-Name = "触手の眷属のミルク"
-Description = "【道具】触手の眷属から搾ったミルク"
+Name = "Tentacle Kin Milk"
+Description = "[Item] Milk squeezed from Tentacle Kin."
 Note = ""
 
 Item 1714
-Name = "粘膜の眷属のミルク"
-Description = "【道具】粘膜の眷属から搾ったミルク"
+Name = "Slimy Kin Milk"
+Description = "[Item] Milk squeezed from Slimy Kin."
 Note = ""
 
 Item 1715
-Name = "アウタージェリーのミルク"
-Description = "【道具】アウタージェリーから搾ったミルク"
+Name = "Outer Jelly Milk"
+Description = "[Item] Milk squeezed from Outer Jelly."
 Note = ""
 
 Item 1716
-Name = "アウターワームのミルク"
-Description = "【道具】アウターワームから搾ったミルク"
+Name = "Outer Worm Milk"
+Description = "[Item] Milk squeezed from Outer Worm."
 Note = ""
 
 Item 1717
-Name = "次元侵蝕者のミルク"
-Description = "【道具】次元侵蝕者から搾ったミルク"
+Name = "Dimensional Eroder Milk"
+Description = "[Item] Milk squeezed from Dimensional Eroder."
 Note = ""
 
 Item 1718
-Name = "ダークフェニックスのミルク"
-Description = "【道具】ダークフェニックスから搾ったミルク"
+Name = "Dark Phoenix Milk"
+Description = "[Item] Milk squeezed from Dark Phoenix."
 Note = ""
 
 Item 1719
-Name = "星喰いのミルク"
-Description = "【道具】星喰いから搾ったミルク"
+Name = "Star Eater Milk"
+Description = "[Item] Milk squeezed from Star Eater."
 Note = ""
 
 Item 1720
-Name = "ヌルの眷属・青のミルク"
-Description = "【道具】ヌルの眷属・青から搾ったミルク"
+Name = "Blue Null Kin Milk"
+Description = "[Item] Milk squeezed from Blue Null Kin."
 Note = ""
 
 Item 1721
-Name = "ヌルの眷属・赤のミルク"
-Description = "【道具】ヌルの眷属・赤から搾ったミルク"
+Name = "Red Null Kin Milk"
+Description = "[Item] Milk squeezed from Red Null Kin."
 Note = ""
 
 Item 1722
-Name = "ヌルの眷属・黄のミルク"
-Description = "【道具】ヌルの眷属・黄から搾ったミルク"
+Name = "Yellow Null Kin Milk"
+Description = "[Item] Milk squeezed from Yellow Null Kin."
 Note = ""
 
 Item 1723
-Name = "TTのミルク"
-Description = "【道具】TTから搾ったミルク"
+Name = "TT Milk"
+Description = "[Item] Milk squeezed from TT."
 Note = ""
 
 Item 1724
-Name = "QQのミルク"
-Description = "【道具】QQから搾ったミルク"
+Name = "QQ Milk"
+Description = "[Item] Milk squeezed from QQ."
 Note = ""
 
 Item 1725
-Name = "ヌール・コギトのミルク"
-Description = "【道具】ヌール・コギトから搾ったミルク"
+Name = "Null Cogito Milk"
+Description = "[Item] Milk squeezed from Null Cogito."
 Note = ""
 
 Item 1726
-Name = "グラン・アラーニェのミルク"
-Description = "【道具】グラン・アラーニェから搾ったミルク"
+Name = "Grand Arachne Milk"
+Description = "[Item] Milk squeezed from Null Cogito."
 Note = ""
 
 Item 1727
-Name = "ベリアルのミルク"
-Description = "【道具】ベリアルから搾ったミルク"
+Name = "Belial Milk"
+Description = "[Item] Milk squeezed from Belial."
 Note = ""
 
 Item 1728
-Name = "虚竜のミルク"
-Description = "【道具】虚竜から搾ったミルク"
+Name = "Koron Milk"
+Description = "[Item] Milk squeezed from Koron."
 Note = ""
 
 Item 1729
-Name = "ゲイザーのミルク"
-Description = "【道具】ゲイザーから搾ったミルク"
+Name = "Gazer Milk"
+Description = "[Item] Milk squeezed from Gazer."
 Note = ""
 
 Item 1730
-Name = "インドラのミルク"
-Description = "【道具】インドラから搾ったミルク"
+Name = "Indra Milk"
+Description = "[Item] Milk squeezed from Indra."
 Note = ""
 
 Item 1731
-Name = "トンベリ娘のミルク"
-Description = "【道具】トンベリ娘から搾ったミルク"
+Name = "Tonberry Girl Milk"
+Description = "[Item] Milk squeezed from Tonberry Girl."
 Note = ""
 
 Item 1732
-Name = "アバドンのミルク"
-Description = "【道具】アバドンから搾ったミルク"
+Name = "Abaddon Milk"
+Description = "[Item] Milk squeezed from Abaddon."
 Note = ""
 
 Item 1733
-Name = "ドーラドーラのミルク"
-Description = "【道具】ドーラドーラから搾ったミルク"
+Name = "Dolla-Dolla Milk"
+Description = "[Item] Milk squeezed from Dolla-Dolla."
 Note = ""
 
 Item 1734
-Name = "ベルゼバブ終異体のミルク"
-Description = "【道具】ベルゼバブ終異体から搾ったミルク"
+Name = "Final Beelzebub Milk"
+Description = "[Item] Milk squeezed from Final Beelzebub."
 Note = ""
 
 Item 1735
-Name = "メルカヴァのミルク"
-Description = "【道具】メルカヴァから搾ったミルク"
+Name = "Merkabah Milk"
+Description = "[Item] Milk squeezed from Merkabah."
 Note = ""
 
 Item 1736
-Name = "アガリアレプトのミルク"
-Description = "【道具】アガリアレプトから搾ったミルク"
+Name = "Agaliarept Milk"
+Description = "[Item] Milk squeezed from Agaliarept."
 Note = ""
 
 Item 1737
-Name = "魔神のミルク"
-Description = "【道具】魔神から搾ったミルク"
+Name = "Fiend Milk"
+Description = "[Item] Milk squeezed from Fiend."
 Note = ""
 
 Item 1738
-Name = "女神のミルク"
-Description = "【道具】女神から搾ったミルク"
+Name = "Goddess Milk"
+Description = "[Item] Milk squeezed from Goddess."
 Note = ""
 
 Item 1739
-Name = "鬼神のミルク"
-Description = "【道具】鬼神から搾ったミルク"
+Name = "Demon Milk"
+Description = "[Item] Milk squeezed from Demon."
 Note = ""
 
 Item 1740
-Name = "デウスエクスマキナのミルク"
-Description = "【道具】デウスエクスマキナから搾ったミルク"
+Name = "Deus Ex Machina Milk"
+Description = "[Item] Milk squeezed from Deus Ex Machina."
 Note = ""
 
 Item 1741
-Name = "カオスのミルク"
-Description = "【道具】カオスから搾ったミルク"
+Name = "Chaos Milk"
+Description = "[Item] Milk squeezed from Chaos."
 Note = ""
 
 Item 1742
@@ -8999,163 +8999,163 @@ Description = ""
 Note = ""
 
 Item 1801
-Name = "CD「冒険の始まり」"
-Description = "【CD】6曲の楽曲が収録された音楽CD"
+Name = "CD: Beginning of the Adventure"
+Description = "[CD] Music CD containing 6 songs."
 Note = ""
 
 Item 1802
-Name = "CD「神聖なる調べ」"
-Description = "【CD】5曲の楽曲が収録された音楽CD"
+Name = "CD: Sacred Melodies"
+Description = "[CD] Music CD containing 5 songs."
 Note = ""
 
 Item 1803
-Name = "CD「人々の暮らし」"
-Description = "【CD】5曲の楽曲が収録された音楽CD"
+Name = "CD: People's Lives"
+Description = "[CD] Music CD containing 5 songs."
 Note = ""
 
 Item 1804
-Name = "CD「喜怒哀楽」"
-Description = "【CD】8曲の楽曲が収録された音楽CD"
+Name = "CD: Joy, Anger, Sorrow, Pleasure"
+Description = "[CD] Music CD containing 8 songs."
 Note = ""
 
 Item 1805
-Name = "CD「戦いの日々」"
-Description = "【CD】11曲の楽曲が収録された音楽CD"
+Name = "CD: Fighting Days"
+Description = "[CD] Music CD containing 11 songs."
 Note = ""
 
 Item 1806
-Name = "CD「未知のダンジョン」"
-Description = "【CD】6曲の楽曲が収録された音楽CD"
+Name = "CD: Unknown Dungeons"
+Description = "[CD] Music CD containing 6 songs."
 Note = ""
 
 Item 1807
-Name = "CD「神聖なるサン・イリア」"
-Description = "【CD】6曲の楽曲が収録された音楽CD"
+Name = "CD: Sacred San Ilia"
+Description = "[CD] Music CD containing 6 songs."
 Note = ""
 
 Item 1808
-Name = "CD「砂漠のサバサ」"
-Description = "【CD】4曲の楽曲が収録された音楽CD"
+Name = "CD: Desert of Sabasa"
+Description = "[CD] Music CD containing 4 songs."
 Note = ""
 
 Item 1809
-Name = "CD「豊かな自然ノア」"
-Description = "【CD】6曲の楽曲が収録された音楽CD"
+Name = "CD: Noah's Abundant Nature"
+Description = "[CD] Music CD containing 6 songs."
 Note = ""
 
 Item 1810
-Name = "CD「魔導大国グランゴルド」"
-Description = "【CD】6曲の楽曲が収録された音楽CD"
+Name = "CD: Magic Nation of Grangold"
+Description = "[CD] Music CD containing 6 songs."
 Note = ""
 
 Item 1811
-Name = "CD「魔の大陸ヘルゴンド」"
-Description = "【CD】6曲の楽曲が収録された音楽CD"
+Name = "CD: The Monster Continent Hellgondo"
+Description = "[CD] Music CD containing 6 songs."
 Note = ""
 
 Item 1812
-Name = "CD「精霊の神秘」"
-Description = "【CD】8曲の楽曲が収録された音楽CD"
+Name = "CD: Mysteries of the Spirits"
+Description = "[CD] Music CD containing 8 songs."
 Note = ""
 
 Item 1813
-Name = "CD「大人の経験」"
-Description = "【CD】6曲の楽曲が収録された音楽CD"
+Name = "CD: Adult Experiences"
+Description = "[CD] Music CD containing 6 songs."
 Note = ""
 
 Item 1814
-Name = "CD「楽しいステージ」"
-Description = "【CD】6曲の楽曲が収録された音楽CD"
+Name = "CD: Fun Stage"
+Description = "[CD] Music CD containing 6 songs."
 Note = ""
 
 Item 1815
-Name = "CD「大団円」"
-Description = "【CD】7曲の楽曲が収録された音楽CD"
+Name = "CD: Conclusions"
+Description = "[CD] Music CD containing 7 songs."
 Note = ""
 
 Item 1816
-Name = "CD「愉快なアミラ」"
-Description = "【CD】アミラのテーマソングが収録された音楽CD"
+Name = "CD: Cheerful Amira"
+Description = "[CD] Music CD containing Amira's theme songs."
 Note = ""
 
 Item 1817
-Name = "CD「ヒーロー登場！」"
-Description = "【CD】ヒーローのテーマソングが収録された音楽CD"
+Name = "CD: A Superhero Arrives!"
+Description = "[CD] Music CD containing the superhero's theme songs."
 Note = ""
 
 Item 1818
-Name = "CD「空駆けるガルダ」"
-Description = "【CD】ガルダのテーマソングが収録された音楽CD"
+Name = "CD: Galda Soars the Skies"
+Description = "[CD] Music CD containing Galda's theme songs."
 Note = ""
 
 Item 1819
-Name = "CD「無の刺客アドラメレク」"
-Description = "【CD】アドラメレクのテーマソングが収録された音楽CD"
+Name = "CD: Assassin of Nothingness, Adramelech"
+Description = "[CD] Music CD containing Adramelech's theme songs."
 Note = ""
 
 Item 1820
-Name = "CD「真理の探求者達」"
-Description = "【CD】5曲の楽曲が収録された音楽CD"
+Name = "CD: Seekers of Truth"
+Description = "[CD] Music CD containing 5 songs."
 Note = ""
 
 Item 1821
-Name = "CD「影に紬ぎし者」"
-Description = "【CD】4曲の楽曲が収録された音楽CD"
+Name = "CD: One Woven From Shadows"
+Description = "[CD] Music CD containing 4 songs."
 Note = ""
 
 Item 1822
-Name = "CD「覇王、黒のアリス」"
-Description = "【CD】8曲の楽曲が収録された音楽CD"
+Name = "CD: Supreme Ruler, Black Alice"
+Description = "[CD] Music CD containing 8 songs."
 Note = ""
 
 Item 1823
-Name = "CD「混沌の片鱗」"
-Description = "【CD】11曲の楽曲が収録された音楽CD"
+Name = "CD: A Glimpse of Chaos"
+Description = "[CD] Music CD containing 8 songs."
 Note = ""
 
 Item 1824
-Name = "CD「天界の冒険」"
-Description = "【CD】22曲の楽曲が収録されたスペシャル音楽CD"
+Name = "CD: Adventure in the Angelic Dominion"
+Description = "[CD] Special music CD containing 22 songs."
 Note = ""
 
 Item 1825
-Name = "CD「魔界の冒険」"
-Description = "【CD】19曲の楽曲が収録されたスペシャル音楽CD"
+Name = "CD: Adventure in the Monster Realm"
+Description = "[CD] Special music CD containing 19 songs."
 Note = ""
 
 Item 1826
-Name = "CD「存在しない幼馴染み」"
-Description = "【CD】6曲の楽曲が収録された音楽CD"
+Name = "CD: The Childhood Friend Who Did Not Exist"
+Description = "[CD] Music CD containing 6 songs."
 Note = ""
 
 Item 1827
-Name = "CD「勇者ルカ」"
-Description = "【CD】7曲の楽曲が収録された音楽CD"
+Name = "CD: Hero Luka"
+Description = "[CD] Music CD containing 7 songs."
 Note = ""
 
 Item 1828
-Name = "CD「進め、第三の道」"
-Description = "【CD】6曲の楽曲が収録された音楽CD"
+Name = "CD: Onward, Towards the Third Way"
+Description = "[CD] Music CD containing 6 songs."
 Note = ""
 
 Item 1829
-Name = "CD「希望に向かって」"
-Description = "【CD】7曲の楽曲が収録された音楽CD"
+Name = "CD: Towards Hope"
+Description = "[CD] Music CD containing 7 songs."
 Note = ""
 
 Item 1830
-Name = "CD「十六の破滅事象」"
-Description = "【CD】10曲の楽曲が収録された音楽CD"
+Name = "CD: Sixteen Phenomena of Ruin"
+Description = "[CD] Music CD containing 10 songs."
 Note = ""
 
 Item 1831
-Name = "CD「混沌を晴らす者」"
-Description = "【CD】8曲の楽曲が収録された音楽CD"
+Name = "CD: The Dispeller of Chaos"
+Description = "[CD] Music CD containing 8 songs."
 Note = ""
 
 Item 1832
-Name = "CD「七つの世界の勇者達」"
-Description = "【CD】10曲の楽曲が収録された音楽CD"
+Name = "CD: Heroes of the Seven Worlds"
+Description = "[CD] Music CD containing 10 songs."
 Note = ""
 
 Item 1833
@@ -10114,9 +10114,9 @@ Description = ""
 Note = ""
 
 Item 2024
-Name = ""
+Name = "2024"
 Description = ""
-Note = ""
+Note = "<図鑑除外>"
 
 Item 2025
 Name = ""
@@ -10806,137 +10806,137 @@ Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4325>"
 Item 2162
 Name = "Gem of Slayer Enhancement"
 Description = "[Gem] Species Slayer attacks deal 25% more damage."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 1273>\r\n<入手置き換え 10-2164>\r\n<表示ID:2288.002>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 1273>\r\n<入手置き換え 10-2164>\r\n<表示ID:2288.034>"
 
 Item 2163
 Name = "Super Gem of Slayer Enhancement"
 Description = "[Gem] Species Slayer attacks deal 50% more damage."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 1274>\r\n<入手置き換え 10-4473>\r\n<表示ID:2288.002>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 1274>\r\n<入手置き換え 10-4473>\r\n<表示ID:2288.035>"
 
 Item 2164
 Name = "Divine Gem of Slayer Enhancement"
 Description = "[Gem] Species Slayer attacks deal 100% more damage."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 1275>\r\n<表示ID:2288.002>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 1275>\r\n<表示ID:2288.036>"
 
 Item 2165
 Name = "Gem of Roid Slaying"
 Description = "[Gem] Deal +50% damage to Roids."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4418>\r\n<入手置き換え 10-2168>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4418>\r\n<入手置き換え 10-2168>\r\n<表示ID:2288.003>"
 
 Item 2166
 Name = "Great Gem of Roid Slaying"
 Description = "[Gem] Deal +100% damage to Roids."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4419>\r\n<入手置き換え 10-4474>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4419>\r\n<入手置き換え 10-4474>\r\n<表示ID:2288.004>"
 
 Item 2167
 Name = "Hyper Gem of Roid Slaying"
 Description = "[Gem] Deal +150% damage to Roids."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4420>\r\n<入手置き換え 10-4475>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4420>\r\n<入手置き換え 10-4475>\r\n<表示ID:2288.005>"
 
 Item 2168
 Name = "Divine Gem of Roid Slaying"
 Description = "[Gem] Deal +200% damage to Roids."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4421>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4421>\r\n<表示ID:2288.006>"
 
 Item 2169
 Name = "Gem of Apoptosis Slaying"
 Description = "[Gem] Deal +50% damage to Apoptosis."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4422>\r\n<入手置き換え 10-2172>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4422>\r\n<入手置き換え 10-2172>\r\n<表示ID:2288.009>"
 
 Item 2170
 Name = "Great Gem of Apoptosis Slaying"
 Description = "[Gem] Deal +100% damage to Apoptosis."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4423>\r\n<入手置き換え 10-4476>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4423>\r\n<入手置き換え 10-4476>\r\n<表示ID:2288.010>"
 
 Item 2171
 Name = "Hyper Gem of Apoptosis Slaying"
 Description = "[Gem] Deal +150% damage to Apoptosis."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4424>\r\n<入手置き換え 10-4477>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4424>\r\n<入手置き換え 10-4477>\r\n<表示ID:2288.011>"
 
 Item 2172
 Name = "Divine Gem of Apoptosis Slaying"
 Description = "[Gem] Deal +200% damage to Apoptosis."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4425>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4425>\r\n<表示ID:2288.012>"
 
 Item 2173
 Name = "Gem of Aerial Slaying"
 Description = "[Gem] Deal +50% damage to Flying foes."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4426>\r\n<入手置き換え 10-2176>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4426>\r\n<入手置き換え 10-2176>\r\n<表示ID:2288.015>"
 
 Item 2174
 Name = "Great Gem of Aerial Slaying"
 Description = "[Gem] Deal +100% damage to Flying foes."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4427>\r\n<入手置き換え 10-4478>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4427>\r\n<入手置き換え 10-4478>\r\n<表示ID:2288.016>"
 
 Item 2175
 Name = "Hyper Gem of Aerial Slaying"
 Description = "[Gem] Deal +150% damage to Flying foes."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4428>\r\n<入手置き換え 10-4479>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4428>\r\n<入手置き換え 10-4479>\r\n<表示ID:2288.017>"
 
 Item 2176
 Name = "Divine Gem of Aerial Slaying"
 Description = "[Gem] Deal +200% damage to Flying foes."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4429>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4429>\r\n<表示ID:2288.018>"
 
 Item 2177
 Name = "Ultra Gem of Monster Lord Slaying"
 Description = "[Gem] Deal +50% damage to Monster Lords."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4430>\r\n<入手置き換え 10-2179>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4430>\r\n<入手置き換え 10-2179>\r\n<表示ID:2288.021>"
 
 Item 2178
 Name = "Divine Gem of Monster Lord Slaying"
 Description = "[Gem] Deal +100% damage to Monster Lords."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4431>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4431>\r\n<表示ID:2288.022>"
 
 Item 2179
 Name = "Chaos Gem of Monster Lord Slaying"
 Description = "[Gem] Deal +150% damage to Monster Lords."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4432>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4432>\r\n<表示ID:2288.023>"
 
 Item 2180
 Name = "Final Gem of Monster Lord Slaying"
 Description = "[Gem] Deal +200% damage to Monster Lords."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4433>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4433>\r\n<表示ID:2288.024>"
 
 Item 2181
 Name = "Ultra Gem of God Slaying"
 Description = "[Gem] Deal +50% damage to Gods."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4434>\r\n<入手置き換え 10-2183>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4434>\r\n<入手置き換え 10-2183>\r\n<表示ID:2288.025>"
 
 Item 2182
 Name = "Divine Gem of God Slaying"
 Description = "[Gem] Deal +100% damage to Gods."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4435>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4435>\r\n<表示ID:2288.026>"
 
 Item 2183
 Name = "Chaos Gem of God Slaying"
 Description = "[Gem] Deal +150% damage to Gods."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4436>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4436>\r\n<表示ID:2288.027>"
 
 Item 2184
 Name = "Final Gem of God Slaying"
 Description = "[Gem] Deal +200% damage to Gods."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4437>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4437>\r\n<表示ID:2288.028>"
 
 Item 2185
 Name = "Great Gem of Boss Slaying"
 Description = "[Gem] Deal +15% damage to Bosses."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4438>\r\n<入手置き換え 10-2188>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4438>\r\n<入手置き換え 10-2188>\r\n<表示ID:2288.029>"
 
 Item 2186
 Name = "Ultra Gem of Boss Slaying"
 Description = "[Gem] Deal +30% damage to Bosses."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4439>\r\n<入手置き換え 10-4480>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4439>\r\n<入手置き換え 10-4480>\r\n<表示ID:2288.030>"
 
 Item 2187
 Name = "Divine Gem of Boss Slaying"
 Description = "[Gem] Deal +50% damage to Bosses."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4440>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4440>\r\n<表示ID:2288.031>"
 
 Item 2188
-Name = "Infinite Gem or Boss Slaying"
+Name = "Infinite Gem of Boss Slaying"
 Description = "[Gem] Deal +75% damage to Bosses."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4441>\r\n<表示ID:2288.001>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4441>\r\n<表示ID:2288.032>"
 
 Item 2189
 Name = "Gem of Human Slaying"
@@ -11914,7 +11914,7 @@ Description = "[Gem] Deal +75% damage with Multiweapon skills."
 Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4730>"
 
 Item 2384
-Name = "Infinite Gem of Mutliweapon Skill"
+Name = "Infinite Gem of Multiweapon Skill"
 Description = "[Gem] Deal +100% damage with Multiweapon skills."
 Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4731>"
 
@@ -12221,27 +12221,27 @@ Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 6405>\r\n<入手置き�
 Item 2445
 Name = "Gem of the Counterattacker"
 Description = "[Gem] Set physical and magic counter rate to 10%, and deal 5x more damage with counterattacks."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 6412>\r\n<入手置き換え 10-4554>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 6412>\r\n<入手置き換え 10-2449>"
 
 Item 2446
 Name = "Great Gem of the Counterattacker"
 Description = "[Gem] Set physical and magic counter rate to 30%, and deal 10x more damage with counterattacks."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 6413>\r\n<入手置き換え 10-4555>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 6413>\r\n<入手置き換え 10-2449>"
 
 Item 2447
 Name = "Super Gem of the Counterattacker"
 Description = "[Gem] Set physical and magic counter rate to 50%, and deal 30x more damage with counterattacks."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 6414>\r\n<入手置き換え 10-4556>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 6414>\r\n<入手置き換え 10-2449>"
 
 Item 2448
 Name = "Ultra Gem of the Counterattacker"
 Description = "[Gem] Set physical and magic counter rate to 75%, and deal 200x more damage with counterattacks."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 6415>\r\n<入手置き換え 10-4557>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 6415>\r\n<入手置き換え 10-2449>"
 
 Item 2449
 Name = "Hyper Gem of the Counterattacker"
 Description = "[Gem] Set physical and magic counter rate to 100%, and deal 3000x more damage with counterattacks."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 6416>\r\n<入手置き換え 10-4558>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 6416>\r\n<入手置き換え 10-2449>"
 
 Item 2450
 Name = "Gem of the Demon-Hater"
@@ -12370,12 +12370,12 @@ Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7022>"
 
 Item 2475
 Name = "Gem of the Dead-Hater"
-Description = "【秘石】ゾンビ・ゴーストに30%の特攻ダメージを与える"
+Description = "[Gem] Deal +30% damage to Zombies and Ghosts."
 Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7023>\r\n<入手置き換え 10-2478>"
 
 Item 2476
 Name = "Great Gem of the Dead-Hater"
-Description = "【秘石】ゾンビ・ゴーストに60%の特攻ダメージを与える"
+Description = "[Gem] Deal +60% damage to Zombies and Ghosts."
 Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7024>\r\n<入手置き換え 10-2479>"
 
 Item 2477
@@ -12421,17 +12421,17 @@ Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7032>"
 Item 2485
 Name = "Gem of Conditional Enhancement"
 Description = "[Gem] Increases damage dealt from conditional bonuses by 25%."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4588>\r\n<入手置き換え 10-2487>\r\n<表示ID:2288.003>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4588>\r\n<入手置き換え 10-2487>\r\n<表示ID:2288.038>"
 
 Item 2486
 Name = "Super Gem of Conditional Enhancement"
 Description = "[Gem] Increases damage dealt from conditional bonuses by 50%."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4589>\r\n<入手置き換え 10-4566>\r\n<表示ID:2288.003>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4589>\r\n<入手置き換え 10-4566>\r\n<表示ID:2288.039>"
 
 Item 2487
 Name = "Divine Gem of Conditional Enhancement"
 Description = "[Gem] Increases damage dealt from conditional bonuses by 100%."
-Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4590>\r\n<表示ID:2288.003>"
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4590>\r\n<表示ID:2288.040>"
 
 Item 2488
 Name = ""
@@ -12605,8 +12605,8 @@ Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 1098>"
 
 Item 2522
 Name = "Chaos Gem of SP Cost Reduction"
-Description = "[Gem] All skills have 1/100 SP cost."
-Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 1099>"
+Description = "[Gem] All skills have 1/10 SP cost."
+Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 7827>"
 
 Item 2523
 Name = "Great Gem of SP Damage Conversion"
@@ -14275,8 +14275,8 @@ Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 1094>"
 
 Item 2856
 Name = "Chaos Gem of MP Cost Reduction"
-Description = "[Gem] All skills have 1/100 MP cost."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 1095>"
+Description = "[Gem] All skills have 1/10 MP cost."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 7828>"
 
 Item 2857
 Name = "Great Gem of MP Damage Conversion"
@@ -14810,7 +14810,7 @@ Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4871>"
 
 Item 2963
 Name = "Gem of Alchemy Skill"
-Description = "[Gem] Alchemy skills deal +30% damage."
+Description = "[Gem] Alchemy skills deal +15% damage."
 Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4873>\r\n<入手置き換え 10-2966>"
 
 Item 2964
@@ -14999,7 +14999,7 @@ Description = "[Gem] Taoism skills execute two additional times."
 Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 6008>"
 
 Item 3001
-Name = "Ultimate Gem of Double Magic Sciencec"
+Name = "Ultimate Gem of Double Magic Science"
 Description = "[Gem] Magic Science skills execute one additional time."
 Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 6050>"
 
@@ -15041,27 +15041,27 @@ Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 6152>"
 Item 3009
 Name = "Gem of Psychic Skill"
 Description = "[Gem] Psychic skills deal +15% damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4933>\r\n<入手置き換え 10-3012>\r\n<表示ID:2972.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4933>\r\n<入手置き換え 10-3012>\r\n<表示ID:2972.002>"
 
 Item 3010
 Name = "Great Gem of Psychic Skill"
 Description = "[Gem] Psychic skills deal +30% damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4934>\r\n<入手置き換え 10-3013>\r\n<表示ID:2972.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4934>\r\n<入手置き換え 10-3013>\r\n<表示ID:2972.003>"
 
 Item 3011
 Name = "Ultra Gem of Psychic Skill"
 Description = "[Gem] Psychic skills deal +50% damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4935>\r\n<入手置き換え 10-4609>\r\n<表示ID:2972.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4935>\r\n<入手置き換え 10-4609>\r\n<表示ID:2972.004>"
 
 Item 3012
 Name = "Divine Gem of Psychic Skill"
 Description = "[Gem] Psychic skills deal +75% damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4937>\r\n<表示ID:2972.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4937>\r\n<表示ID:2972.005>"
 
 Item 3013
 Name = "Infinite Gem of Psychic Skill"
 Description = "[Gem] Psychic skills deal +100% damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4938>\r\n<表示ID:2972.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4938>\r\n<表示ID:2972.006>"
 
 Item 3014
 Name = "Gem of Critical Magic"
@@ -15404,7 +15404,7 @@ Description = "[Gem] Set Physical Evasion rate to 75%."
 Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 4073>\r\n<入手置き換え 10-3082>"
 
 Item 3082
-Name = "回避の神秘石"
+Name = "Infinite Gem of Physical Evasion"
 Description = "[Gem] Set Physical Evasion rate to 100%."
 Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 1059>"
 
@@ -15434,7 +15434,7 @@ Description = "[Gem] Set Magical Evasion rate to 75%."
 Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 4075>\r\n<入手置き換え 10-3088>"
 
 Item 3088
-Name = "魔法回避の神秘石"
+Name = "Infinite Gem of Magical Evasion"
 Description = "[Gem] Set Magical Evasion rate to 100%."
 Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 1064>"
 
@@ -15504,12 +15504,12 @@ Description = "[Gem] When falling below 20% HP, halve auto-hit damage taken for 
 Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 4121>\r\n<入手置き換え 10-3102>"
 
 Item 3102
-Name = "窮地万能耐性の混沌秘石"
+Name = "Infinite Gem of Crisis Almighty Defense"
 Description = "[Gem] When falling below 20% HP, quarter auto-hit damage taken for 3 turns."
 Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 4122>"
 
 Item 3103
-Name = "窮地万能耐性の最終秘石"
+Name = "Chaos Gem of Crisis Almighty Defense"
 Description = "[Gem] When falling below 20% HP, nullify auto-hit damage for 3 turns."
 Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 4123>"
 
@@ -15770,7 +15770,7 @@ Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 1502>\r\n<入手置き�
 
 Item 3155
 Name = "Super Gem of Lightning Resistance"
-Description = "[Gem] Reduce Lightning damage taken to 25% of normal.."
+Description = "[Gem] Reduce Lightning damage taken to 25% of normal."
 Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 5099>\r\n<入手置き換え 10-3158>"
 
 Item 3156
@@ -16840,11 +16840,11 @@ Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4329>"
 
 Item 3369
 Name = "Ultimate Gem of Double Action"
-Description = "[Gem] Gain an additional actions every turn."
+Description = "[Gem] Gain an additional action every turn."
 Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 1199>"
 
 Item 3370
-Name = "Chaos Gem of Triple Action"
+Name = "Final Gem of Triple Action"
 Description = "[Gem] Gain two additional actions every turn."
 Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 1200>"
 
@@ -16906,7 +16906,7 @@ Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 1688>\r\n<入手置き�
 Item 3382
 Name = "Hyper Gem of Growth"
 Description = "[Gem] User gains 2x more XP from battles."
-Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 3382>\r\n<入手置き換え 10-3383>"
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 1689>\r\n<入手置き換え 10-3383>"
 
 Item 3383
 Name = "Divine Gem of Growth"
@@ -16925,27 +16925,27 @@ Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 6174>"
 
 Item 3386
 Name = "Great Gem of Job Growth"
-Description = "[Gem] User gains 1.5x more XP from battles."
+Description = "[Gem] User gains 1.5x more Job XP from battles."
 Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 1691>\r\n<入手置き換え 10-3388>"
 
 Item 3387
 Name = "Hyper Gem of Job Growth"
-Description = "[Gem] User gains 2x more XP from battles."
+Description = "[Gem] User gains 2x more Job XP from battles."
 Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 1692>\r\n<入手置き換え 10-3388>"
 
 Item 3388
 Name = "Divine Gem of Job Growth"
-Description = "[Gem] User gains 3x more XP from battles."
+Description = "[Gem] User gains 3x more Job XP from battles."
 Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 1693>"
 
 Item 3389
 Name = "Ultimate Gem of Job Growth"
-Description = "[Gem] User gains 5x more XP from battles."
+Description = "[Gem] User gains 5x more Job XP from battles."
 Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 6175>"
 
 Item 3390
 Name = "Final Gem of Job Growth"
-Description = "[Gem] User gains 10x more XP from battles."
+Description = "[Gem] User gains 10x more Job XP from battles."
 Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 6176>"
 
 Item 3391
@@ -17836,27 +17836,27 @@ Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 6158>"
 Item 3568
 Name = "Gem of Sorcery Skill"
 Description = "[Gem] Sorcery skills deal +15% damage."
-Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4999>\r\n<入手置き換え 10-3571>\r\n<表示ID:3508.002>"
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4999>\r\n<入手置き換え 10-3571>\r\n<表示ID:3508.007>"
 
 Item 3569
 Name = "Great Gem of Sorcery Skill"
 Description = "[Gem] Sorcery skills deal +30% damage."
-Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 5000>\r\n<入手置き換え 10-3572>\r\n<表示ID:3508.002>"
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 5000>\r\n<入手置き換え 10-3572>\r\n<表示ID:3508.008>"
 
 Item 3570
 Name = "Ultra Gem of Sorcery Skill"
 Description = "[Gem] Sorcery skills deal +50% damage."
-Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 5001>\r\n<入手置き換え 10-4646>\r\n<表示ID:3508.002>"
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 5001>\r\n<入手置き換え 10-4646>\r\n<表示ID:3508.009>"
 
 Item 3571
 Name = "Divine Gem of Sorcery Skill"
 Description = "[Gem] Sorcery skills deal +75% damage."
-Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 5003>\r\n<表示ID:3508.002>"
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 5003>\r\n<表示ID:3508.010>"
 
 Item 3572
 Name = "Infinite Gem of Sorcery Skill"
 Description = "[Gem] Sorcery skills deal +100% damage."
-Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 5004>\r\n<表示ID:3508.002>"
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 5004>\r\n<表示ID:3508.011>"
 
 Item 3573
 Name = "Gem of Giant Skill"
@@ -17866,22 +17866,22 @@ Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4992>\r\n<入手置き�
 Item 3574
 Name = "Great Gem of Giant Skill"
 Description = "[Gem] Giant skills deal +30% damage."
-Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4993>\r\n<入手置き換え 10-3577>\r\n<表示ID:3508.001>"
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4993>\r\n<入手置き換え 10-3577>\r\n<表示ID:3508.002>"
 
 Item 3575
 Name = "Ultra Gem of Giant Skill"
 Description = "[Gem] Giant skills deal +50% damage."
-Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4994>\r\n<入手置き換え 10-4647>\r\n<表示ID:3508.001>"
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4994>\r\n<入手置き換え 10-4647>\r\n<表示ID:3508.003>"
 
 Item 3576
 Name = "Divine Gem of Giant Skill"
 Description = "[Gem] Giant skills deal +75% damage."
-Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4996>\r\n<表示ID:3508.001>"
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4996>\r\n<表示ID:3508.004>"
 
 Item 3577
 Name = "Infinite Gem of Giant Skill"
 Description = "[Gem] Giant skills deal +100% damage."
-Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4997>\r\n<表示ID:3508.001>"
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4997>\r\n<表示ID:3508.005>"
 
 Item 3578
 Name = "Super Gem of Sorcery Skill Use"
@@ -17890,7 +17890,7 @@ Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 5216>\r\n<表示ID:3531
 
 Item 3579
 Name = "Super Gem of Giant Skill Use"
-Description = "[Gem] Allows user to use Sorcery skills."
+Description = "[Gem] Allows user to use Giant skills."
 Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 5217>\r\n<表示ID:3531.001>"
 
 Item 3580
@@ -18209,7 +18209,7 @@ Description = "[Gem] Deal +100% Water damage and nullify Water damage taken."
 Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 6473>"
 
 Item 3643
-Name = "Chaos Gem of the Light Adept"
+Name = "Gem of the Light Adept"
 Description = "[Gem] Deal +15% Holy damage and reduce Holy damage taken by 20%."
 Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 6474>\r\n<入手置き換え 10-3646>"
 
@@ -18234,7 +18234,7 @@ Description = "[Gem] Deal +100% Holy damage and nullify Holy damage taken."
 Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 6478>"
 
 Item 3648
-Name = "Chaos Gem of the Dark Adept"
+Name = "Gem of the Dark Adept"
 Description = "[Gem] Deal +15% Dark damage and reduce Dark damage taken by 20%."
 Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 6479>\r\n<入手置き換え 10-3651>"
 
@@ -20911,322 +20911,322 @@ Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4494>\r\n<入手置き�
 Item 4183
 Name = "Great Gem of Untyped Enhancement"
 Description = "[Gem] Deal +30% Untyped damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4495>\r\n<入手置き換え 10-4186>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4495>\r\n<入手置き換え 10-4186>\r\n<表示ID:2912.002>"
 
 Item 4184
 Name = "Ultra Gem of Untyped Enhancement"
 Description = "[Gem] Deal +50% Untyped damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4496>\r\n<入手置き換え 10-4610>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4496>\r\n<入手置き換え 10-4610>\r\n<表示ID:2912.003>"
 
 Item 4185
 Name = "Divine Gem of Untyped Enhancement"
 Description = "[Gem] Deal +75% Untyped damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4498>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4498>\r\n<表示ID:2912.004>"
 
 Item 4186
 Name = "Infinite Gem of Untyped Enhancement"
 Description = "[Gem] Deal +100% Untyped damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4499>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4499>\r\n<表示ID:2912.005>"
 
 Item 4187
 Name = "Great Gem of Galactic Enhancement"
 Description = "[Gem] Deal +15% Galactic damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4501>\r\n<入手置き換え 10-4190>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4501>\r\n<入手置き換え 10-4190>\r\n<表示ID:2912.007>"
 
 Item 4188
 Name = "Super Gem of Galactic Enhancement"
 Description = "[Gem] Deal +30% Galactic damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4502>\r\n<入手置き換え 10-4191>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4502>\r\n<入手置き換え 10-4191>\r\n<表示ID:2912.008>"
 
 Item 4189
 Name = "Hyper Gem of Galactic Enhancement"
 Description = "[Gem] Deal +50% Galactic damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4503>\r\n<入手置き換え 10-4611>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4503>\r\n<入手置き換え 10-4611>\r\n<表示ID:2912.009>"
 
 Item 4190
 Name = "Infinite Gem of Galactic Enhancement"
 Description = "[Gem] Deal +75% Galactic damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4505>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4505>\r\n<表示ID:2912.010>"
 
 Item 4191
 Name = "Ultimate Gem of Galactic Enhancement"
 Description = "[Gem] Deal +100% Galactic damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4506>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4506>\r\n<表示ID:2912.011>"
 
 Item 4192
 Name = "Great Gem of Carnage Enhancement"
 Description = "[Gem] Deal +15% Carnage damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4508>\r\n<入手置き換え 10-4195>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4508>\r\n<入手置き換え 10-4195>\r\n<表示ID:2912.013>"
 
 Item 4193
 Name = "Super Gem of Carnage Enhancement"
 Description = "[Gem] Deal +30% Carnage damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4509>\r\n<入手置き換え 10-4196>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4509>\r\n<入手置き換え 10-4196>\r\n<表示ID:2912.014>"
 
 Item 4194
 Name = "Hyper Gem of Carnage Enhancement"
 Description = "[Gem] Deal +50% Carnage damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4510>\r\n<入手置き換え 10-4612>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4510>\r\n<入手置き換え 10-4612>\r\n<表示ID:2912.015>"
 
 Item 4195
 Name = "Infinite Gem of Carnage Enhancement"
 Description = "[Gem] Deal +75% Carnage damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4512>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4512>\r\n<表示ID:2912.016>"
 
 Item 4196
 Name = "Ultimate Gem of Carnage Enhancement"
 Description = "[Gem] Deal +100% Carnage damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4513>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4513>\r\n<表示ID:2912.017>"
 
 Item 4197
 Name = "Great Gem of Nightmare Enhancement"
 Description = "[Gem] Deal +15% Nightmare damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4515>\r\n<入手置き換え 10-4200>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4515>\r\n<入手置き換え 10-4200>\r\n<表示ID:2912.019>"
 
 Item 4198
 Name = "Super Gem of Nightmare Enhancement"
 Description = "[Gem] Deal +30% Nightmare damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4516>\r\n<入手置き換え 10-4201>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4516>\r\n<入手置き換え 10-4201>\r\n<表示ID:2912.020>"
 
 Item 4199
 Name = "Hyper Gem of Nightmare Enhancement"
 Description = "[Gem] Deal +50% Nightmare damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4517>\r\n<入手置き換え 10-4613>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4517>\r\n<入手置き換え 10-4613>\r\n<表示ID:2912.021>"
 
 Item 4200
 Name = "Infinite Gem of Nightmare Enhancement"
 Description = "[Gem] Deal +75% Nightmare damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4519>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4519>\r\n<表示ID:2912.022>"
 
 Item 4201
 Name = "Ultimate Gem of Nightmare Enhancement"
 Description = "[Gem] Deal +100% Nightmare damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4520>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4520>\r\n<表示ID:2912.023>"
 
 Item 4202
 Name = "Great Gem of Nuclear Enhancement"
 Description = "[Gem] Deal +15% Nuclear damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4522>\r\n<入手置き換え 10-4205>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4522>\r\n<入手置き換え 10-4205>\r\n<表示ID:2912.025>"
 
 Item 4203
 Name = "Super Gem of Nuclear Enhancement"
 Description = "[Gem] Deal +30% Nuclear damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4523>\r\n<入手置き換え 10-4206>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4523>\r\n<入手置き換え 10-4206>\r\n<表示ID:2912.026>"
 
 Item 4204
 Name = "Hyper Gem of Nuclear Enhancement"
 Description = "[Gem] Deal +50% Nuclear damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4524>\r\n<入手置き換え 10-4614>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4524>\r\n<入手置き換え 10-4614>\r\n<表示ID:2912.027>"
 
 Item 4205
 Name = "Infinite Gem of Nuclear Enhancement"
 Description = "[Gem] Deal +75% Nuclear damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4526>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4526>\r\n<表示ID:2912.028>"
 
 Item 4206
 Name = "Ultimate Gem of Nuclear Enhancement"
 Description = "[Gem] Deal +100% Nuclear damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4527>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4527>\r\n<表示ID:2912.029>"
 
 Item 4207
 Name = "Great Gem of Quantum Enhancement"
 Description = "[Gem] Deal +15% Quantum damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4529>\r\n<入手置き換え 10-4210>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4529>\r\n<入手置き換え 10-4210>\r\n<表示ID:2912.031>"
 
 Item 4208
 Name = "Super Gem of Quantum Enhancement"
 Description = "[Gem] Deal +30% Quantum damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4530>\r\n<入手置き換え 10-4211>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4530>\r\n<入手置き換え 10-4211>\r\n<表示ID:2912.032>"
 
 Item 4209
 Name = "Hyper Gem of Quantum Enhancement"
 Description = "[Gem] Deal +50% Quantum damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4531>\r\n<入手置き換え 10-4615>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4531>\r\n<入手置き換え 10-4615>\r\n<表示ID:2912.033>"
 
 Item 4210
 Name = "Infinite Gem of Quantum Enhancement"
 Description = "[Gem] Deal +75% Quantum damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4533>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4533>\r\n<表示ID:2912.034>"
 
 Item 4211
 Name = "Ultimate Gem of Quantum Enhancement"
 Description = "[Gem] Deal +100% Quantum damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4534>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4534>\r\n<表示ID:2912.035>"
 
 Item 4212
 Name = "Great Gem of Ion Enhancement"
 Description = "[Gem] Deal +15% Ion damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4536>\r\n<入手置き換え 10-4215>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4536>\r\n<入手置き換え 10-4215>\r\n<表示ID:2912.037>"
 
 Item 4213
 Name = "Super Gem of Ion Enhancement"
 Description = "[Gem] Deal +30% Ion damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4537>\r\n<入手置き換え 10-4216>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4537>\r\n<入手置き換え 10-4216>\r\n<表示ID:2912.038>"
 
 Item 4214
 Name = "Hyper Gem of Ion Enhancement"
 Description = "[Gem] Deal +50% Ion damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4538>\r\n<入手置き換え 10-4616>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4538>\r\n<入手置き換え 10-4616>\r\n<表示ID:2912.039>"
 
 Item 4215
 Name = "Infinite Gem of Ion Enhancement"
 Description = "[Gem] Deal +75% Ion damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4540>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4540>\r\n<表示ID:2912.040>"
 
 Item 4216
 Name = "Ultimate Gem of Ion Enhancement"
 Description = "[Gem] Deal +100% Ion damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4541>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4541>\r\n<表示ID:2912.041>"
 
 Item 4217
 Name = "Great Gem of Hadron Enhancement"
 Description = "[Gem] Deal +15% Hadron damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4543>\r\n<入手置き換え 10-4220>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4543>\r\n<入手置き換え 10-4220>\r\n<表示ID:2912.043>"
 
 Item 4218
 Name = "Super Gem of Hadron Enhancement"
 Description = "[Gem] Deal +30% Hadron damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4544>\r\n<入手置き換え 10-4221>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4544>\r\n<入手置き換え 10-4221>\r\n<表示ID:2912.044>"
 
 Item 4219
 Name = "Hyper Gem of Hadron Enhancement"
 Description = "[Gem] Deal +50% Hadron damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4545>\r\n<入手置き換え 10-4617>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4545>\r\n<入手置き換え 10-4617>\r\n<表示ID:2912.045>"
 
 Item 4220
 Name = "Infinite Gem of Hadron Enhancement"
 Description = "[Gem] Deal +75% Hadron damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4547>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4547>\r\n<表示ID:2912.046>"
 
 Item 4221
 Name = "Ultimate Gem of Hadron Enhancement"
 Description = "[Gem] Deal +100% Hadron damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4548>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4548>\r\n<表示ID:2912.047>"
 
 Item 4222
 Name = "Great Gem of Terra Enhancement"
 Description = "[Gem] Deal +15% Terra damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4550>\r\n<入手置き換え 10-4225>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4550>\r\n<入手置き換え 10-4225>\r\n<表示ID:2912.049>"
 
 Item 4223
 Name = "Super Gem of Terra Enhancement"
 Description = "[Gem] Deal +30% Terra damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4551>\r\n<入手置き換え 10-4226>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4551>\r\n<入手置き換え 10-4226>\r\n<表示ID:2912.050>"
 
 Item 4224
 Name = "Hyper Gem of Terra Enhancement"
 Description = "[Gem] Deal +50% Terra damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4552>\r\n<入手置き換え 10-4618>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4552>\r\n<入手置き換え 10-4618>\r\n<表示ID:2912.051>"
 
 Item 4225
 Name = "Infinite Gem of Terra Enhancement"
 Description = "[Gem] Deal +75% Terra damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4554>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4554>\r\n<表示ID:2912.052>"
 
 Item 4226
 Name = "Ultimate Gem of Terra Enhancement"
 Description = "[Gem] Deal +100% Terra damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4555>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4555>\r\n<表示ID:2912.053>"
 
 Item 4227
 Name = "Great Gem of Nano Enhancement"
 Description = "[Gem] Deal +15% Nano damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4557>\r\n<入手置き換え 10-4230>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4557>\r\n<入手置き換え 10-4230>\r\n<表示ID:2912.055>"
 
 Item 4228
 Name = "Super Gem of Nano Enhancement"
 Description = "[Gem] Deal +30% Nano damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4558>\r\n<入手置き換え 10-4231>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4558>\r\n<入手置き換え 10-4231>\r\n<表示ID:2912.056>"
 
 Item 4229
 Name = "Hyper Gem of Nano Enhancement"
 Description = "[Gem] Deal +50% Nano damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4559>\r\n<入手置き換え 10-4619>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4559>\r\n<入手置き換え 10-4619>\r\n<表示ID:2912.057>"
 
 Item 4230
 Name = "Infinite Gem of Nano Enhancement"
 Description = "[Gem] Deal +75% Nano damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4561>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4561>\r\n<表示ID:2912.058>"
 
 Item 4231
 Name = "Ultimate Gem of Nano Enhancement"
 Description = "[Gem] Deal +100% Nano damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4562>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4562>\r\n<表示ID:2912.059>"
 
 Item 4232
 Name = "Great Gem of Eternal Enhancement"
 Description = "[Gem] Deal +15% Eternal damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4564>\r\n<入手置き換え 10-4235>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4564>\r\n<入手置き換え 10-4235>\r\n<表示ID:2912.061>"
 
 Item 4233
 Name = "Super Gem of Eternal Enhancement"
 Description = "[Gem] Deal +30% Eternal damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4565>\r\n<入手置き換え 10-4236>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4565>\r\n<入手置き換え 10-4236>\r\n<表示ID:2912.062>"
 
 Item 4234
 Name = "Hyper Gem of Eternal Enhancement"
 Description = "[Gem] Deal +50% Eternal damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4566>\r\n<入手置き換え 10-4620>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4566>\r\n<入手置き換え 10-4620>\r\n<表示ID:2912.063>"
 
 Item 4235
 Name = "Infinite Gem of Eternal Enhancement"
 Description = "[Gem] Deal +75% Eternal damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4568>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4568>\r\n<表示ID:2912.064>"
 
 Item 4236
 Name = "Ultimate Gem of Eternal Enhancement"
 Description = "[Gem] Deal +100% Eternal damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4569>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4569>\r\n<表示ID:2912.065>"
 
 Item 4237
 Name = "Great Gem of Demise Enhancement"
 Description = "[Gem] Deal +15% Demise damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4571>\r\n<入手置き換え 10-4240>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4571>\r\n<入手置き換え 10-4240>\r\n<表示ID:2912.067>"
 
 Item 4238
 Name = "Super Gem of Demise Enhancement"
 Description = "[Gem] Deal +30% Demise damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4572>\r\n<入手置き換え 10-4241>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4572>\r\n<入手置き換え 10-4241>\r\n<表示ID:2912.068>"
 
 Item 4239
 Name = "Hyper Gem of Demise Enhancement"
 Description = "[Gem] Deal +50% Demise damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4573>\r\n<入手置き換え 10-4621>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4573>\r\n<入手置き換え 10-4621>\r\n<表示ID:2912.069>"
 
 Item 4240
 Name = "Infinite Gem of Demise Enhancement"
 Description = "[Gem] Deal +75% Demise damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4575>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4575>\r\n<表示ID:2912.070>"
 
 Item 4241
 Name = "Ultimate Gem of Demise Enhancement"
 Description = "[Gem] Deal +100% Demise damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4576>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4576>\r\n<表示ID:2912.071>"
 
 Item 4242
 Name = "Divine Gem of Null Enhancement"
 Description = "[Gem] Deal +15% Null damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4578>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4578>\r\n<表示ID:2912.073>"
 
 Item 4243
 Name = "Infinite Gem of Null Enhancement"
 Description = "[Gem] Deal +30% Null damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4579>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4579>\r\n<表示ID:2912.074>"
 
 Item 4244
 Name = "Ultimate Gem of Null Enhancement"
 Description = "[Gem] Deal +50% Null damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4580>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4580>\r\n<表示ID:2912.075>"
 
 Item 4245
 Name = "Chaos Gem of Null Enhancement"
 Description = "[Gem] Deal +75% Null damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4581>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4581>\r\n<表示ID:2912.076>"
 
 Item 4246
 Name = "Final Gem of Null Enhancement"
 Description = "[Gem] Deal +100% Null damage."
-Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4582>\r\n<表示ID:2912.001>"
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4582>\r\n<表示ID:2912.077>"
 
 Item 4247
 Name = ""
@@ -21301,17 +21301,17 @@ Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 4112>\r\n<入手置き�
 Item 4261
 Name = "Great Gem of Reflect Damage"
 Description = "[Gem] Reflected attacks deal 100x more damage."
-Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 4113>\r\n<入手置き換え 10-4625>\r\n<表示ID:3110.001>"
+Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 4113>\r\n<入手置き換え 10-4625>\r\n<表示ID:3110.002>"
 
 Item 4262
 Name = "Super Gem of Reflect Damage"
 Description = "[Gem] Reflected attacks deal 2,000x more damage."
-Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 4114>\r\n<入手置き換え 10-4626>\r\n<表示ID:3110.001>"
+Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 4114>\r\n<入手置き換え 10-4626>\r\n<表示ID:3110.003>"
 
 Item 4263
 Name = "Hyper Gem of Reflect Damage"
 Description = "[Gem] Reflected attacks deal 30,000x more damage."
-Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 4115>\r\n<入手置き換え 10-4627>\r\n<表示ID:3110.001>"
+Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 4115>\r\n<入手置き換え 10-4627>\r\n<表示ID:3110.004>"
 
 Item 4264
 Name = "Great Gem of Galactic Resistance"
@@ -21585,7 +21585,7 @@ Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 5182>\r\n<表示ID:3218
 
 Item 4318
 Name = "Great Gem of Eternal Resistance"
-Description = "[Gem] Reduce Eternal damage taken to 25% of normal."
+Description = "[Gem] Reduce Eternal damage taken to 75% of normal."
 Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 5183>\r\n<入手置き換え 10-4321>\r\n<表示ID:3218.001>"
 
 Item 4319
@@ -21664,7 +21664,7 @@ Description = "[Gem] Nullify Null damage taken."
 Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 5198>\r\n<表示ID:3218.001>"
 
 Item 4334
-Name = "Chaos Gem of Null Absorption"
+Name = "Final Gem of Null Absorption"
 Description = "[Gem] Absorb Null damage taken."
 Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 5199>\r\n<表示ID:3218.001>"
 
@@ -21890,7 +21890,7 @@ Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7542>"
 
 Item 4379
 Name = "Hyper Gem of the Archlord"
-Description = "【秘石】黒魔法・時魔法・召喚の威力とMP・魔力・魔法会心率が40%アップする"
+Description = "[Gem] Increase MP, Magic and Magic Critical Rate by 40%, and deal +40% damage with Black Magic, Time Magic, and Summoning skills."
 Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7543>\r\n<入手置き換え 10-4380>"
 
 Item 4380
@@ -22330,17 +22330,17 @@ Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7630>"
 
 Item 4467
 Name = "Hyper Gem of One Who Transcends History"
-Description = "[Gem] Increase Attack and Magic by 40% and deal +40% damage with Holy, Dark, and Chaos skill."
+Description = "[Gem] Increase Attack and Magic by 40% and deal +40% damage with Holy, Dark, and Chaos skills."
 Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7498>\r\n<入手置き換え 10-4468>"
 
 Item 4468
 Name = "Infinite Gem of One Who Transcends History"
-Description = "[Gem] Increase Attack and Magic by 75% and deal +75% damage with Holy, Dark, and Chaos skill."
+Description = "[Gem] Increase Attack and Magic by 75% and deal +75% damage with Holy, Dark, and Chaos skills."
 Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7499>"
 
 Item 4469
 Name = "Final Gem of One Who Transcends History"
-Description = "[Gem] Increase Attack and Magic by 150% and deal +150% damage with Holy, Dark, and Chaos skill."
+Description = "[Gem] Increase Attack and Magic by 150% and deal +150% damage with Holy, Dark, and Chaos skills."
 Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7500>"
 
 Item 4470
@@ -22359,924 +22359,924 @@ Description = ""
 Note = ""
 
 Item 4473
-Name = ""
-Description = ""
-Note = ""
+Name = "Ultimate Gem of Slayer Enhancement"
+Description = "[Gem] Species Slayer attacks deal 200% more damage."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4585>\r\n<表示ID:2288.037>"
 
 Item 4474
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Roid Slaying"
+Description = "[Gem] Deal +250% damage to Roids."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7756>\r\n<表示ID:2288.007>"
 
 Item 4475
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Roid Slaying"
+Description = "[Gem] Deal +300% damage to Roids."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7757>\r\n<表示ID:2288.008>"
 
 Item 4476
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Apoptosis Slaying"
+Description = "[Gem] Deal +250% damage to Apoptosis."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7758>\r\n<表示ID:2288.013>"
 
 Item 4477
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Apoptosis Slaying"
+Description = "[Gem] Deal +300% damage to Apoptosis."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7759>\r\n<表示ID:2288.014>"
 
 Item 4478
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Aerial Slaying"
+Description = "[Gem] Deal +250% damage to Flying foes."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7760>\r\n<表示ID:2288.019>"
 
 Item 4479
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Aerial Slaying"
+Description = "[Gem] Deal +300% damage to Flying foes."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7761>\r\n<表示ID:2288.020>"
 
 Item 4480
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Boss Slaying"
+Description = "[Gem] Deal +100% damage to Bosses."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7259>\r\n<表示ID:2288.033>"
 
 Item 4481
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Human Slaying"
+Description = "[Gem] Deal +250% damage to Humans."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7763>\r\n<表示ID:2192.001>"
 
 Item 4482
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Human Slaying"
+Description = "[Gem] Deal +300% damage to Humans."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7764>\r\n<表示ID:2192.002>"
 
 Item 4483
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Yoma Slaying"
+Description = "[Gem] Deal +250% damage to Yoma."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7765>\r\n<表示ID:2196.001>"
 
 Item 4484
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Yoma Slaying"
+Description = "[Gem] Deal +300% damage to Yoma."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7766>\r\n<表示ID:2196.002>"
 
 Item 4485
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Demi-Human Slaying"
+Description = "[Gem] Deal +250% damage to Demi-Humans."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7767>\r\n<表示ID:2200.001>"
 
 Item 4486
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Demi-Human Slaying"
+Description = "[Gem] Deal +300% damage to Demi-Humans."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7768>\r\n<表示ID:2200.002>"
 
 Item 4487
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Succubus Slaying"
+Description = "[Gem] Deal +250% damage to Succubi."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7769>\r\n<表示ID:2204.001>"
 
 Item 4488
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Succubus Slaying"
+Description = "[Gem] Deal +300% damage to Succubi."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7770>\r\n<表示ID:2204.002>"
 
 Item 4489
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Vampire Slaying"
+Description = "[Gem] Deal +250% damage to Vampires."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7771>\r\n<表示ID:2208.001>"
 
 Item 4490
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Vampire Slaying"
+Description = "[Gem] Deal +300% damage to Vampires."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7772>\r\n<表示ID:2208.002>"
 
 Item 4491
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Mermaid Slaying"
+Description = "[Gem] Deal +250% damage to Mermaids."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7773>\r\n<表示ID:2212.001>"
 
 Item 4492
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Mermaid Slaying"
+Description = "[Gem] Deal +300% damage to Mermaids."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7774>\r\n<表示ID:2212.002>"
 
 Item 4493
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Elf Slaying"
+Description = "[Gem] Deal +250% damage to Elves."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7775>\r\n<表示ID:2216.001>"
 
 Item 4494
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Elf Slaying"
+Description = "[Gem] Deal +300% damage to Elves."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7776>\r\n<表示ID:2216.002>"
 
 Item 4495
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Fairy Slaying"
+Description = "[Gem] Deal +250% damage to Fairies."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7777>\r\n<表示ID:2220.001>"
 
 Item 4496
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Fairy Slaying"
+Description = "[Gem] Deal +300% damage to Fairies."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7778>\r\n<表示ID:2220.002>"
 
 Item 4497
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Slime Slaying"
+Description = "[Gem] Deal +250% damage to Slimes."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7779>\r\n<表示ID:2224.001>"
 
 Item 4498
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Slime Slaying"
+Description = "[Gem] Deal +300% damage to Slimes."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7780>\r\n<表示ID:2224.002>"
 
 Item 4499
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Beast Slaying"
+Description = "[Gem] Deal +250% damage to Beasts."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7781>\r\n<表示ID:2228.001>"
 
 Item 4500
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Beast Slaying"
+Description = "[Gem] Deal +300% damage to Beasts."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7782>\r\n<表示ID:2228.002>"
 
 Item 4501
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Kitsune Slaying"
+Description = "[Gem] Deal +250% damage to Kitsune."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7783>\r\n<表示ID:2232.001>"
 
 Item 4502
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Kitsune Slaying"
+Description = "[Gem] Deal +300% damage to Kitsune."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7784>\r\n<表示ID:2232.002>"
 
 Item 4503
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Lamia Slaying"
+Description = "[Gem] Deal +250% damage to Lamias."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7785>\r\n<表示ID:2236.001>"
 
 Item 4504
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Lamia Slaying"
+Description = "[Gem] Deal +300% damage to Lamias."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7786>\r\n<表示ID:2236.002>"
 
 Item 4505
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Scylla Slaying"
+Description = "[Gem] Deal +250% damage to Scylla."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7787>\r\n<表示ID:2240.001>"
 
 Item 4506
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Scylla Slaying"
+Description = "[Gem] Deal +300% damage to Scylla."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7788>\r\n<表示ID:2240.002>"
 
 Item 4507
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Harpy Slaying"
+Description = "[Gem] Deal +250% damage to Harpies."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7789>\r\n<表示ID:2244.001>"
 
 Item 4508
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Harpy Slaying"
+Description = "[Gem] Deal +300% damage to Harpies."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7790>\r\n<表示ID:2244.002>"
 
 Item 4509
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Dragon Slaying"
+Description = "[Gem] Deal +250% damage to Dragons."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7791>\r\n<表示ID:2248.001>"
 
 Item 4510
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Dragon Slaying"
+Description = "[Gem] Deal +300% damage to Dragons."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7792>\r\n<表示ID:2248.002>"
 
 Item 4511
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Land-Dweller Slaying"
+Description = "[Gem] Deal +250% damage to Land-Dwellers."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7793>\r\n<表示ID:2252.001>"
 
 Item 4512
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Land-Dweller Slaying"
+Description = "[Gem] Deal +300% damage to Land-Dwellers."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7794>\r\n<表示ID:2252.002>"
 
 Item 4513
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Sea-Dweller Slaying"
+Description = "[Gem] Deal +250% damage to Sea-Dwellers."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7795>\r\n<表示ID:2256.001>"
 
 Item 4514
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Sea-Dweller Slaying"
+Description = "[Gem] Deal +300% damage to Sea-Dwellers."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7796>\r\n<表示ID:2256.002>"
 
 Item 4515
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Insect Slaying"
+Description = "[Gem] Deal +250% damage to Insects."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7797>\r\n<表示ID:2260.001>"
 
 Item 4516
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Insect Slaying"
+Description = "[Gem] Deal +300% damage to Insects."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7798>\r\n<表示ID:2260.002>"
 
 Item 4517
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Plant Slaying"
+Description = "[Gem] Deal +250% damage to Plants."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7799>\r\n<表示ID:2264.001>"
 
 Item 4518
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Plant Slaying"
+Description = "[Gem] Deal +300% damage to Plants."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7800>\r\n<表示ID:2264.002>"
 
 Item 4519
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Zombie Slaying"
+Description = "[Gem] Deal +250% damage to Zombies."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7801>\r\n<表示ID:2268.001>"
 
 Item 4520
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Zombie Slaying"
+Description = "[Gem] Deal +300% damage to Zombies."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7802>\r\n<表示ID:2268.002>"
 
 Item 4521
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Ghost Slaying"
+Description = "[Gem] Deal +250% damage to Ghosts."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7803>\r\n<表示ID:2272.001>"
 
 Item 4522
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Ghost Slaying"
+Description = "[Gem] Deal +300% damage to Ghosts."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7804>\r\n<表示ID:2272.002>"
 
 Item 4523
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Doll Slaying"
+Description = "[Gem] Deal +250% damage to Dolls."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7805>\r\n<表示ID:2276.001>"
 
 Item 4524
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Doll Slaying"
+Description = "[Gem] Deal +300% damage to Dolls."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7806>\r\n<表示ID:2276.002>"
 
 Item 4525
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Chimera Slaying"
+Description = "[Gem] Deal +250% damage to Chimeras."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7807>\r\n<表示ID:2280.001>"
 
 Item 4526
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Chimera Slaying"
+Description = "[Gem] Deal +300% damage to Chimeras."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7808>\r\n<表示ID:2280.002>"
 
 Item 4527
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Angel Slaying"
+Description = "[Gem] Deal +250% damage to Angels."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7809>\r\n<表示ID:2284.001>"
 
 Item 4528
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Angel Slaying"
+Description = "[Gem] Deal +300% damage to Angels."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7810>\r\n<表示ID:2284.002>"
 
 Item 4529
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Giant Slaying"
+Description = "[Gem] Deal +250% damage to Giants."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7811>\r\n<表示ID:2288.001>"
 
 Item 4530
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Giant Slaying"
+Description = "[Gem] Deal +300% damage to Giants."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7812>\r\n<表示ID:2288.002>"
 
 Item 4531
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Physical Enhancement"
+Description = "[Gem] Deal +150% Physical damage."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4449>\r\n<表示ID:2305.001>"
 
 Item 4532
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Normal Attack"
+Description = "[Gem] Normal attacks deal 1500x more damage."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7813>\r\n<表示ID:2309.001>"
 
 Item 4533
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Dagger Skill"
+Description = "[Gem] Deal +200% damage with Dagger skills."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4634>\r\n<表示ID:2314.001>"
 
 Item 4534
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Sword Skill"
+Description = "[Gem] Deal +200% damage with Sword skills."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4641>\r\n<表示ID:2319.001>"
 
 Item 4535
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Rapier Skill"
+Description = "[Gem] Deal +200% damage with Rapier skills."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4648>\r\n<表示ID:2324.001>"
 
 Item 4536
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Katana Skill"
+Description = "[Gem] Deal +200% damage with Katana skills."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4655>\r\n<表示ID:2329.001>"
 
 Item 4537
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Spear Skill"
+Description = "[Gem] Deal +200% damage with Spear skills."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4662>\r\n<表示ID:2334.001>"
 
 Item 4538
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Axe Skill"
+Description = "[Gem] Deal +200% damage with Axe skills."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4669>\r\n<表示ID:2339.001>"
 
 Item 4539
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Club Skill"
+Description = "[Gem] Deal +200% damage with Club skills."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4676>\r\n<表示ID:2344.001>"
 
 Item 4540
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Scythe Skill"
+Description = "[Gem] Deal +200% damage with Scythe skills."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4683>\r\n<表示ID:2349.001>"
 
 Item 4541
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Bow Skill"
+Description = "[Gem] Deal +200% damage with Bow skills."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4690>\r\n<表示ID:2354.001>"
 
 Item 4542
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Whip Skill"
+Description = "[Gem] Deal +200% damage with Whip skills."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4697>\r\n<表示ID:2359.001>"
 
 Item 4543
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Throwing Skill"
+Description = "[Gem] Deal +200% damage with Throwing skills."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4704>\r\n<表示ID:2364.001>"
 
 Item 4544
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Flail Skill"
+Description = "[Gem] Deal +200% damage with Flail skills."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4711>\r\n<表示ID:2369.001>"
 
 Item 4545
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Fan Skill"
+Description = "[Gem] Deal +200% damage with Fan skills."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4718>\r\n<表示ID:2374.001>"
 
 Item 4546
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Gun Skill"
+Description = "[Gem] Deal +200% damage with Gun skills."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4725>\r\n<表示ID:2379.001>"
 
 Item 4547
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Multiweapon Skill"
+Description = "[Gem] Deal +200% damage with Multiweapon skills."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4732>\r\n<表示ID:2384.001>"
 
 Item 4548
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Unarmed Skill"
+Description = "[Gem] Deal +200% damage with Unarmed skills."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4739>\r\n<表示ID:2389.001>"
 
 Item 4549
-Name = ""
-Description = ""
-Note = ""
+Name = "Divine Gem of the Critical Striker"
+Description = "[Gem] Set physical and magical critical rate to 60%, and increase critical damage by 120%."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7814>\r\n<表示ID:2444.001>"
 
 Item 4550
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of the Critical Striker"
+Description = "[Gem] Set physical and magical critical rate to 70%, and increase critical damage by 140%."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7815>\r\n<表示ID:2444.002>"
 
 Item 4551
-Name = ""
-Description = ""
-Note = ""
+Name = "Ultimate Gem of the Critical Striker"
+Description = "[Gem] Set physical and magical critical rate to 80%, and increase critical damage by 160%."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7816>\r\n<表示ID:2444.003>"
 
 Item 4552
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of the Critical Striker"
+Description = "[Gem] Set physical and magical critical rate to 90%, and increase critical damage by 180%."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7817>\r\n<表示ID:2444.004>"
 
 Item 4553
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Critical Striker"
+Description = "[Gem] Set physical and magical critical rate to 100%, and increase critical damage by 200%."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7818>\r\n<表示ID:2444.005>"
 
 Item 4554
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Demon-Hater"
+Description = "[Gem] Deal +250% damage to Yoma, Demi-Humans, Succubi, and Vampires."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7819>\r\n<表示ID:2454.001>"
 
 Item 4555
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Green-Hater"
+Description = "[Gem] Deal +250% damage to Elves and Plants."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7820>\r\n<表示ID:2459.001>"
 
 Item 4556
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Ocean-Hater"
+Description = "[Gem] Deal +250% damage to Mermaids, Scylla, and Sea-Dwellers."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7821>\r\n<表示ID:2464.001>"
 
 Item 4557
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Fang-Hater"
+Description = "[Gem] Deal +250% damage to Dragons, Beasts, and Kitsune."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7822>\r\n<表示ID:2469.001>"
 
 Item 4558
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Wing-Hater"
+Description = "[Gem] Deal +250% damage to Fairies, Harpies, and Angels."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7823>\r\n<表示ID:2474.001>"
 
 Item 4559
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Dead-Hater"
+Description = "[Gem] Deal +250% damage to Zombies and Ghosts."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7824>\r\n<表示ID:2479.001>"
 
 Item 4560
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Nothingness Hater"
+Description = "[Gem] Deal +250% damage to Dolls, Chimeras, and Apoptosis."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 7825>\r\n<表示ID:2484.001>"
 
 Item 4561
-Name = ""
-Description = ""
-Note = ""
+Name = "Ultimate Gem of Conditional Enhancement"
+Description = "[Gem] Increases damage dealt from conditional bonuses by 200%."
+Note = "<秘石カテゴリー:1>\r\n<秘石能力防具 4592>\r\n<表示ID:2288.041>"
 
 Item 4562
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of SP Cost Reduction"
+Description = "[Gem] All skills have 1/100 SP cost."
+Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 1099>\r\n<表示ID:2523.001>"
 
 Item 4563
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Thievery Skill"
+Description = "[Gem] Thievery skills deal +200% damage."
+Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 4802>\r\n<表示ID:2651.001>"
 
 Item 4564
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Ninjutsu Skill"
+Description = "[Gem] Ninjutsu skills deal +200% damage."
+Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 4809>\r\n<表示ID:2656.001>"
 
 Item 4565
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Piracy Skill"
+Description = "[Gem] Piracy skills deal +200% damage."
+Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 4816>\r\n<表示ID:2661.001>"
 
 Item 4566
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Justice Skill"
+Description = "[Gem] Justice skills deal +200% damage."
+Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 4823>\r\n<表示ID:2666.001>"
 
 Item 4567
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Mercantile Skill"
+Description = "[Gem] Mercantile skills deal +200% damage."
+Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 4830>\r\n<表示ID:2671.001>"
 
 Item 4568
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of EX-Item Skill"
+Description = "[Gem] EX-Item skills deal +200% damage."
+Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 4837>\r\n<表示ID:2676.001>"
 
 Item 4569
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Oracle Skill"
+Description = "[Gem] Oracle skills deal +200% damage."
+Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 4844>\r\n<表示ID:2681.001>"
 
 Item 4570
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Dancing Skill"
+Description = "[Gem] Dancing skills deal +200% damage."
+Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 4851>\r\n<表示ID:2686.001>"
 
 Item 4571
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Singing Skill"
+Description = "[Gem] Singing skills deal +200% damage."
+Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 4858>\r\n<表示ID:2691.001>"
 
 Item 4572
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Talk Skill"
+Description = "[Gem] Talk skills deal +200% damage."
+Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 4865>\r\n<表示ID:2696.001>"
 
 Item 4573
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Makina Skill"
+Description = "[Gem] Makina skills deal +200% damage."
+Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 4840>\r\n<表示ID:2701.001>"
 
 Item 4574
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Cooking Skill"
+Description = "[Gem] Cooking skills deal +200% damage."
+Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 4897>\r\n<表示ID:2706.001>"
 
 Item 4575
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Medicine Skill"
+Description = "[Gem] Medicine skills deal +200% damage."
+Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 4904>\r\n<表示ID:2711.001>"
 
 Item 4576
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Service Skill"
+Description = "[Gem] Service skills deal +200% damage."
+Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 4911>\r\n<表示ID:2716.001>"
 
 Item 4577
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Ruling Skill"
+Description = "[Gem] Ruling skills deal +200% damage."
+Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 4918>\r\n<表示ID:2721.001>"
 
 Item 4578
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Heroism Skill"
+Description = "[Gem] Heroism skills deal +200% damage."
+Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 4925>\r\n<表示ID:2726.001>"
 
 Item 4579
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Sexcraft Skill"
+Description = "[Gem] Sexcraft skills deal +200% damage."
+Note = "<秘石カテゴリー:2>\r\n<秘石能力防具 4932>\r\n<表示ID:2731.001>"
 
 Item 4580
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of MP Cost Reduction"
+Description = "[Gem] All skills have 1/100 MP cost."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 1095>\r\n<表示ID:2856.001>"
 
 Item 4581
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Pleasure Enhancement"
+Description = "[Gem] Deal +200% Pleasure damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4453>\r\n<表示ID:2862.001>"
 
 Item 4582
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Fire Enhancement"
+Description = "[Gem] Deal +200% Fire damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4457>\r\n<表示ID:2867.001>"
 
 Item 4583
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Ice Enhancement"
+Description = "[Gem] Deal +200% Ice damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4461>\r\n<表示ID:2872.001>"
 
 Item 4584
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Lightning Enhancement"
+Description = "[Gem] Deal +200% Lightning damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4465>\r\n<表示ID:2877.001>"
 
 Item 4585
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Wind Enhancement"
+Description = "[Gem] Deal +200% Wind damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4469>\r\n<表示ID:2882.001>"
 
 Item 4586
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Earth Enhancement"
+Description = "[Gem] Deal +200% Earth damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4473>\r\n<表示ID:2887.001>"
 
 Item 4587
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Water Enhancement"
+Description = "[Gem] Deal +200% Water damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4477>\r\n<表示ID:2892.001>"
 
 Item 4588
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Holy Enhancement"
+Description = "[Gem] Deal +200% Holy damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4481>\r\n<表示ID:2897.001>"
 
 Item 4589
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Dark Enhancement"
+Description = "[Gem] Deal +200% Dark damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4485>\r\n<表示ID:2902.001>"
 
 Item 4590
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Sonic Enhancement"
+Description = "[Gem] Deal +200% Sonic damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4484>\r\n<表示ID:2907.001>"
 
 Item 4591
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Bio Enhancement"
+Description = "[Gem] Deal +200% Bio damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4493>\r\n<表示ID:2912.001>"
 
 Item 4592
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Recovery Enhancement"
+Description = "[Gem] Restore 500% more HP and MP with recovery effects."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4597>\r\n<表示ID:2917.001>"
 
 Item 4593
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of White Magic"
+Description = "[Gem] White Magic deals +200% damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4746>\r\n<表示ID:2922.001>"
 
 Item 4594
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Black Magic"
+Description = "[Gem] Black Magic deals +200% damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4753>\r\n<表示ID:2927.001>"
 
 Item 4595
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Time Magic"
+Description = "[Gem] Time Magic deals +200% damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4760>\r\n<表示ID:2932.001>"
 
 Item 4596
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Summoning Skill"
+Description = "[Gem] Summoning skills deal +200% damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4767>\r\n<表示ID:2937.001>"
 
 Item 4597
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Holy Skill"
+Description = "[Gem] Holy skills deal +200% damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4774>\r\n<表示ID:2942.001>"
 
 Item 4598
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Dark Skill"
+Description = "[Gem] Dark skills deal +200% damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4781>\r\n<表示ID:2947.001>"
 
 Item 4599
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Spellblade Skill"
+Description = "[Gem] Deal +200% damage with Sword skills learned from Spellsword and Tao Swordsman job branches."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4788>\r\n<表示ID:2952.001>"
 
 Item 4600
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Taoism Skill"
+Description = "[Gem] Taoism skills deal +200% damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4795>\r\n<表示ID:2957.001>"
 
 Item 4601
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Magic Science"
+Description = "[Gem] Magic Science skills deal +200% damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4872>\r\n<表示ID:2962.001>"
 
 Item 4602
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Alchemy Skill"
+Description = "[Gem] Alchemy skills deal +200% damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4879>\r\n<表示ID:2967.001>"
 
 Item 4603
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Grimoire Skill"
+Description = "[Gem] Grimoire skills deal +200% damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4885>\r\n<表示ID:2972.001>"
 
 Item 4604
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Psychic Skill"
+Description = "[Gem] Psychic skills deal +200% damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4939>\r\n<表示ID:2972.007>"
 
 Item 4605
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Untyped Enhancement"
+Description = "[Gem] Deal +200% Untyped damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4500>\r\n<表示ID:2912.006>"
 
 Item 4606
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Galactic Enhancement"
+Description = "[Gem] Deal +200% Galactic damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4507>\r\n<表示ID:2912.012>"
 
 Item 4607
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Carnage Enhancement"
+Description = "[Gem] Deal +200% Carnage damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4514>\r\n<表示ID:2912.018>"
 
 Item 4608
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Nightmare Enhancement"
+Description = "[Gem] Deal +200% Nightmare damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4521>\r\n<表示ID:2912.024>"
 
 Item 4609
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Nuclear Enhancement"
+Description = "[Gem] Deal +200% Nuclear damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4528>\r\n<表示ID:2912.030>"
 
 Item 4610
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Quantum Enhancement"
+Description = "[Gem] Deal +200% Quantum damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4535>\r\n<表示ID:2912.036>"
 
 Item 4611
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Ion Enhancement"
+Description = "[Gem] Deal +200% Ion damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4542>\r\n<表示ID:2912.042>"
 
 Item 4612
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Hadron Enhancement"
+Description = "[Gem] Deal +200% Hadron damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4549>\r\n<表示ID:2912.048>"
 
 Item 4613
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Terra Enhancement"
+Description = "[Gem] Deal +200% Terra damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4556>\r\n<表示ID:2912.054>"
 
 Item 4614
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Nano Enhancement"
+Description = "[Gem] Deal +200% Nano damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4563>\r\n<表示ID:2912.060>"
 
 Item 4615
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Eternal Enhancement"
+Description = "[Gem] Deal +200% Eternal damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4570>\r\n<表示ID:2912.066>"
 
 Item 4616
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Demise Enhancement"
+Description = "[Gem] Deal +200% Demise damage."
+Note = "<秘石カテゴリー:3>\r\n<秘石能力防具 4577>\r\n<表示ID:2912.072>"
 
 Item 4617
-Name = ""
-Description = ""
-Note = ""
+Name = "Divine Gem of the Defender"
+Description = "[Gem] Take 1/14 damage while defending instead of 1/2."
+Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 7829>\r\n<表示ID:3105.001>"
 
 Item 4618
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of the Defender"
+Description = "[Gem] Take 1/20 damage while defending instead of 1/2."
+Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 7830>\r\n<表示ID:3105.002>"
 
 Item 4619
-Name = ""
-Description = ""
-Note = ""
+Name = "Divine Gem of Reflect Damage"
+Description = "[Gem] Reflected attacks deal 500,000x more damage."
+Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 4116>\r\n<表示ID:3110.005>"
 
 Item 4620
-Name = ""
-Description = ""
-Note = ""
+Name = "Infinite Gem of Reflect Damage"
+Description = "[Gem] Reflected attacks deal 1,000,000x more damage."
+Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 7831>\r\n<表示ID:3110.006>"
 
 Item 4621
-Name = ""
-Description = ""
-Note = ""
+Name = "Ultimate Gem of Reflect Damage"
+Description = "[Gem] Reflected attacks deal 2,500,000x more damage."
+Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 7832>\r\n<表示ID:3110.007>"
 
 Item 4622
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Reflect Damage"
+Description = "[Gem] Reflected attacks deal 5,000,000x more damage."
+Note = "<秘石カテゴリー:4>\r\n<秘石能力防具 7833>\r\n<表示ID:3110.008>"
 
 Item 4623
-Name = ""
-Description = ""
-Note = ""
+Name = "Ultimate Gem of the Accumulator"
+Description = "[Gem] Increases SP gained when guarding or attacking by 10x."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7834>\r\n<表示ID:3348.001>"
 
 Item 4624
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Accumulator"
+Description = "[Gem] Increases SP gained when guarding or attacking by 20x."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7835>\r\n<表示ID:3348.002>"
 
 Item 4625
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Metabolism"
+Description = "[Gem] Healing items/effects used on you restore 20x more HP/MP/SP."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7836>\r\n<表示ID:3359.001>"
 
 Item 4626
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Demon Arts"
+Description = "[Gem] Demon Arts skills deal +200% damage."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4943>\r\n<表示ID:3448.001>"
 
 Item 4627
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Ocean Skill"
+Description = "[Gem] Ocean skills deal +200% damage."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4947>\r\n<表示ID:3453.001>"
 
 Item 4628
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Slime Skill"
+Description = "[Gem] Slime skills deal +200% damage."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4955>\r\n<表示ID:3458.001>"
 
 Item 4629
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Beast Skill"
+Description = "[Gem] Beast skills deal +200% damage."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4959>\r\n<表示ID:3468.001>"
 
 Item 4630
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Snake Skill"
+Description = "[Gem] Snake skills deal +200% damage."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4963>\r\n<表示ID:3468.001>"
 
 Item 4631
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Tentacle Skill"
+Description = "[Gem] Tentacle skills deal +200% damage."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4967>\r\n<表示ID:3473.001>"
 
 Item 4632
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Wing Skill"
+Description = "[Gem] Wing skills deal +200% damage."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4971>\r\n<表示ID:3478.001>"
 
 Item 4633
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Insect Skill"
+Description = "[Gem] Insect skills deal +200% damage."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4979>\r\n<表示ID:3483.001>"
 
 Item 4634
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Plant Skill"
+Description = "[Gem] Plant skills deal +200% damage."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4983>\r\n<表示ID:3488.001>"
 
 Item 4635
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Corpse Skill"
+Description = "[Gem] Corpse skills deal +200% damage."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4987>\r\n<表示ID:3493.001>"
 
 Item 4636
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Artificial Skill"
+Description = "[Gem] Artificial skills deal +200% damage."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4991>\r\n<表示ID:3498.001>"
 
 Item 4637
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Nature Skill"
+Description = "[Gem] Nature skills deal +200% damage."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4951>\r\n<表示ID:3503.001>"
 
 Item 4638
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Breath Skill"
+Description = "[Gem] Breath skills deal +200% damage."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4975>\r\n<表示ID:3508.001>"
 
 Item 4639
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Special Skill"
+Description = "[Gem] Special skills deal +200% damage."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 5012>\r\n<表示ID:3513.001>"
 
 Item 4640
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Weapon Skill"
+Description = "[Gem] Weapon skills deal +200% damage."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 5019>\r\n<表示ID:3518.001>"
 
 Item 4641
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Sorcery Skill"
+Description = "[Gem] Sorcery skills deal +200% damage."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 5005>\r\n<表示ID:3508.012>"
 
 Item 4642
-Name = ""
-Description = ""
-Note = ""
+Name = "Chaos Gem of Giant Skill"
+Description = "[Gem] Giant skills deal +200% damage."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 4998>\r\n<表示ID:3508.006>"
 
 Item 4643
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Energy Overcharge"
+Description = "[Gem] Start battles with 250% of Max SP; the excess SP cannot be restored once used."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7837>\r\n<表示ID:3590.001>"
 
 Item 4644
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Physical Adept"
+Description = "[Gem] Deal +150% Physical damage and absorb Physical damage taken."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7838>\r\n<表示ID:3607.001>"
 
 Item 4645
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Pleasure Adept"
+Description = "[Gem] Deal +150% Pleasure damage and absorb Pleasure damage taken."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7839>\r\n<表示ID:3612.001>"
 
 Item 4646
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Fire Adept"
+Description = "[Gem] Deal +150% Fire damage and absorb Fire damage taken."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7840>\r\n<表示ID:3617.001>"
 
 Item 4647
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Ice Adept"
+Description = "[Gem] Deal +150% Ice damage and absorb Ice damage taken."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7841>\r\n<表示ID:3622.001>"
 
 Item 4648
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Lightning Adept"
+Description = "[Gem] Deal +150% Lightning damage and absorb Lightning damage taken."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7842>\r\n<表示ID:3627.001>"
 
 Item 4649
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Wind Adept"
+Description = "[Gem] Deal +150% Wind damage and absorb Wind damage taken."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7843>\r\n<表示ID:3632.001>"
 
 Item 4650
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Earth Adept"
+Description = "[Gem] Deal +150% Earth damage and absorb Earth damage taken."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7844>\r\n<表示ID:3637.001>"
 
 Item 4651
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Water Adept"
+Description = "[Gem] Deal +150% Water damage and absorb Water damage taken."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7845>\r\n<表示ID:3642.001>"
 
 Item 4652
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Holy Adept"
+Description = "[Gem] Deal +150% Holy damage and absorb Holy damage taken."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7846>\r\n<表示ID:3647.001>"
 
 Item 4653
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Dark Adept"
+Description = "[Gem] Deal +150% Dark damage and absorb Dark damage taken."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7847>\r\n<表示ID:3652.001>"
 
 Item 4654
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Sonic Adept"
+Description = "[Gem] Deal +150% Sonic damage and absorb Sonic damage taken."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7848>\r\n<表示ID:3657.001>"
 
 Item 4655
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of the Bio Adept"
+Description = "[Gem] Deal +150% Bio damage and absorb Bio damage taken."
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7849>\r\n<表示ID:3662.001>"
 
 Item 4656
-Name = ""
-Description = ""
-Note = ""
+Name = "Final Gem of Healing Affinity"
+Description = "[Gem] Healing effect is enhanced by 150%, recovery amount increased by 400%"
+Note = "<秘石カテゴリー:5>\r\n<秘石能力防具 7850>\r\n<表示ID:3667.001>"
 
 Item 4657
 Name = ""
@@ -24624,9 +24624,9 @@ Description = ""
 Note = ""
 
 Item 4926
-Name = ""
+Name = "4926"
 Description = ""
-Note = ""
+Note = "<図鑑除外>"
 
 Item 4927
 Name = ""
