@@ -94,7 +94,10 @@ def parse_enemies(path):
     name = ""
     for line in f:
         if line.startswith("Enemy "):
-            eid = int(line[6:])
+            line = line[6:]
+            if " " in line:
+                line = line[:line.index(" ")]
+            eid = int(line)
             mdict[eid] = entry(eid = eid)
         elif line.startswith("Name = "):
             if name := line.strip()[8:-1]:
@@ -151,7 +154,10 @@ def parse_item_file(path, typestr):
     out = dict()
     for line in f:
         if line.startswith(typestr + " "):
-            eid = int(line[len(typestr) + 1:])
+            line = line[len(typestr) + 1:]
+            if " " in line:
+                line = line[:line.index(" ")]
+            eid = int(line)
         elif line.startswith("Name = "):
             #print(typestr, eid, line.strip())
             if name := line.strip()[8:-1]:
