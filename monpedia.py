@@ -70,7 +70,7 @@ def parse_lib_enemy(path, mdict):
         if line.endswith('],'):
             if matches := re.findall(location_pattern, value):
                 value = [s.replace(', ', '').replace('"', '') for s in matches[0][1:-1].split(":") if s]
-                #print(matches)
+                #print(int(key), matches)
                 #big_dict[current_dict_name][int(key)] = value
                 mdict[int(key)].locations = value
             #elif re.findall(image_pattern, value):
